@@ -1,0 +1,113 @@
+{
+  "description": "This file maps oil viscosity grades to specific Gulf Oil products suitable for passenger cars.",
+  "viscosity_map": {
+    "0W-16": [
+      {
+        "brand": "Generic",
+        "type": "Low Viscosity",
+        "text": "Gulf Ultrasynth GDI 0W-16 (or equivalent)"
+      }
+    ],
+    "0W-20": [
+      {
+        "brand": "Formula",
+        "type": "LVX",
+        "text": "Gulf Formula LVX"
+      },
+      {
+        "brand": "Formula",
+        "type": "VFE",
+        "text": "Gulf Formula VFE"
+      }
+    ],
+    "0W-30": [
+      {
+        "brand": "Formula",
+        "type": "LEF",
+        "text": "Gulf Formula LEF"
+      },
+      {
+        "brand": "Formula",
+        "type": "PCX",
+        "text": "Gulf Formula PCX"
+      },
+      {
+        "brand": "Formula",
+        "type": "GVX",
+        "text": "Gulf Formula GVX"
+      }
+    ],
+    "5W-30": [
+      {
+        "brand": "Formula",
+        "type": "PCX Plus",
+        "text": "Gulf Formula PCX Plus"
+      },
+      {
+        "brand": "Formula",
+        "type": "RNX",
+        "text": "Gulf Formula RNX"
+      },
+      {
+        "brand": "Formula",
+        "type": "CX",
+        "text": "Gulf Formula CX"
+      },
+      {
+        "brand": "Formula",
+        "type": "G",
+        "text": "Gulf Formula G"
+      },
+      {
+        "brand": "Formula",
+        "type": "FS",
+        "text": "Gulf Formula FS"
+      },
+      {
+        "brand": "Ultrasynth",
+        "type": "C2/C3",
+        "text": "Gulf Ultrasynth C2/C3"
+      }
+    ],
+    "5W-40": [
+      {
+        "brand": "Formula",
+        "type": "ULE",
+        "text": "Gulf Formula ULE"
+      },
+      {
+        "brand": "Formula",
+        "type": "GX",
+        "text": "Gulf Formula GX"
+      }
+    ],
+    "10W-40": [
+      {
+        "brand": "Max",
+        "type": "Ultra Plus",
+        "text": "Gulf Max Ultra Plus"
+      }
+    ],
+    "10W-60": [
+      {
+        "brand": "Racing",
+        "type": "Racing",
+        "text": "Gulf Racing 10W-60"
+      }
+    ],
+    "15W-40": [
+      {
+        "brand": "Max",
+        "type": "Max",
+        "text": "Gulf Max 15W-40"
+      }
+    ],
+    "20W-50": [
+      {
+        "brand": "Classic",
+        "type": "Classic",
+        "text": "Gulf Classic 20W-50"
+      }
+    ]
+  }
+}

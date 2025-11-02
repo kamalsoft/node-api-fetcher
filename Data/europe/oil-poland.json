@@ -1,0 +1,4444 @@
+{
+  "products": [
+    {
+      "productId": 34,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-001",
+      "sku": "GO-00002",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 34,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-001",
+      "sku": "GO-00003",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 34,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-001",
+      "sku": "GO-00004",
+      "availablePacks": "60L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 34,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-001",
+      "sku": "GO-000001",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 35,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula VFE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-002",
+      "sku": "GO-00005",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 35,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula VFE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-002",
+      "sku": "GO-00006",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 37,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-003",
+      "sku": "GO-000007",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 37,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-003",
+      "sku": "GO-000008",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 37,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-003",
+      "sku": "GO-000009",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 37,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-003",
+      "sku": "GO-000010",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-00397",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-000398",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-000399",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-000400",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-000401",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-000403",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 38,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-082",
+      "sku": "GO-000404",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 39,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-024",
+      "sku": "GO-00107",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 39,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-024",
+      "sku": "GO-00108",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 39,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-024",
+      "sku": "GO-00109",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 40,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-004",
+      "sku": "GO-000011",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 40,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-004",
+      "sku": "GO-000012",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 40,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-004",
+      "sku": "GO-000013",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 40,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-004",
+      "sku": "GO-000014",
+      "availablePacks": "60L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 40,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-004",
+      "sku": "GO-000015",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 40,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-004",
+      "sku": "GO-000016",
+      "availablePacks": "1000L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 42,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-005",
+      "sku": "GO-000017",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 42,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-005",
+      "sku": "GO-000018",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 42,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-005",
+      "sku": "GO-000019",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 42,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-005",
+      "sku": "GO-00020",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000110",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000111",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000112",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000113",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000114",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000116",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 43,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-025",
+      "sku": "GO-000117",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 44,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-026",
+      "sku": "GO-000118",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 44,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-026",
+      "sku": "GO-000119",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 45,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-027",
+      "sku": "GO-000120",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 45,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-027",
+      "sku": "GO-000121",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 45,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-027",
+      "sku": "GO-000123",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 45,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-027",
+      "sku": "GO-000124",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 46,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-006",
+      "sku": "GO-000021",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 46,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-006",
+      "sku": "GO-000022",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 46,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-006",
+      "sku": "GO-000023",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 46,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-006",
+      "sku": "GO-000024",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-007",
+      "sku": "GO-000025",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-007",
+      "sku": "GO-000026",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-007",
+      "sku": "GO-00028",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-007",
+      "sku": "GO-00029",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-007",
+      "sku": "GO-00030",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-007",
+      "sku": "GO-00031",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 48,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOPOL-028",
+      "sku": "GO-000125",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 48,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOPOL-028",
+      "sku": "GO-000126",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 48,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOPOL-028",
+      "sku": "GO-000127",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00032",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00033",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00035",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00036",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00037",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00038",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00039",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-00001",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-0000012",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-008",
+      "sku": "GO-000003",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00040",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00041",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00042",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00043",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00044",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00045",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 51,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-009",
+      "sku": "GO-00046",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00047",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00048",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00049",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00050",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00051",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00052",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 53,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-010",
+      "sku": "GO-00053",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 54,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-011",
+      "sku": "GO-00054",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-011",
+      "sku": "GO-00055",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-011",
+      "sku": "GO-00056",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-011",
+      "sku": "GO-00057",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-011",
+      "sku": "GO-00058",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-011",
+      "sku": "GO-00059",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-012",
+      "sku": "GO-00060",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-012",
+      "sku": "GO-00061",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-012",
+      "sku": "GO-00062",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-012",
+      "sku": "GO-00063",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-012",
+      "sku": "GO-00064",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOPOL",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOPOL-012",
+      "sku": "GO-00065",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00137",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00138",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00139",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00140",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00141",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00142",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00143",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00144",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00145",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-032",
+      "sku": "GO-00146",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 68,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-035",
+      "sku": "GO-000159",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 68,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-035",
+      "sku": "GO-000160",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 68,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-035",
+      "sku": "GO-000161",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00066",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00067",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00068",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00069",
+      "availablePacks": "1L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00070",
+      "availablePacks": "4L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00071",
+      "availablePacks": "20L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 70,
+      "stores": "GOPOL",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-013",
+      "sku": "GO-00072",
+      "availablePacks": "208L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 73,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-036",
+      "sku": "GO-000162",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 73,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-036",
+      "sku": "GO-000163",
+      "availablePacks": "4L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 73,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-036",
+      "sku": "GO-000164",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 73,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-036",
+      "sku": "GO-000165",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 73,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-036",
+      "sku": "GO-000166",
+      "availablePacks": "20L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 73,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-036",
+      "sku": "GO-000167",
+      "availablePacks": "208L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 75,
+      "stores": "GOPOL",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-015",
+      "sku": "GO-00080",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 75,
+      "stores": "GOPOL",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-015",
+      "sku": "GO-00081",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 75,
+      "stores": "GOPOL",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-015",
+      "sku": "GO-00082",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 75,
+      "stores": "GOPOL",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-015",
+      "sku": "GO-00083",
+      "availablePacks": "60L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 75,
+      "stores": "GOPOL",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-015",
+      "sku": "GO-00084",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 77,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-037",
+      "sku": "GO-000168",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 77,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-037",
+      "sku": "GO-000169",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 77,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-037",
+      "sku": "GO-00170",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 77,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-037",
+      "sku": "GO-00171",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 78,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Smary",
+      "productID": "GOPOL-081",
+      "sku": "GO-00395",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 78,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Smary",
+      "productID": "GOPOL-081",
+      "sku": "GO-00396",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 79,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Smary",
+      "productID": "GOPOL-080",
+      "sku": "GO-00390",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 79,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Smary",
+      "productID": "GOPOL-080",
+      "sku": "GO-00391",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 79,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Smary",
+      "productID": "GOPOL-080",
+      "sku": "GO-00393",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 79,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Smary",
+      "productID": "GOPOL-080",
+      "sku": "GO-00394",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 80,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-038",
+      "sku": "GO-00172",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 80,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-038",
+      "sku": "GO-00173",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 81,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-079",
+      "sku": "GO-00388",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 81,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Smary",
+      "productID": "GOPOL-079",
+      "sku": "GO-00389",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 84,
+      "stores": "GOPOL",
+      "productName": "Gulf Bavex",
+      "productCategory": "Smary",
+      "productID": "GOPOL-078",
+      "sku": "GO-00386",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 84,
+      "stores": "GOPOL",
+      "productName": "Gulf Bavex",
+      "productCategory": "Smary",
+      "productID": "GOPOL-078",
+      "sku": "GO-00387",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 85,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-039",
+      "sku": "GO-00174",
+      "availablePacks": "20L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 85,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-039",
+      "sku": "GO-00175",
+      "availablePacks": "60L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 85,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-039",
+      "sku": "GO-00176",
+      "availablePacks": "208L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 85,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-039",
+      "sku": "GO-00177",
+      "availablePacks": "1000L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 86,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Smary",
+      "productID": "GOPOL-077",
+      "sku": "GO-00382",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 86,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Smary",
+      "productID": "GOPOL-077",
+      "sku": "GO-00384",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 86,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Smary",
+      "productID": "GOPOL-077",
+      "sku": "GO-00385",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 87,
+      "stores": "GOPOL",
+      "productName": "Gulf Way",
+      "productCategory": "Oleje do prowadnic",
+      "productID": "GOPOL-076",
+      "sku": "GO-00380",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 87,
+      "stores": "GOPOL",
+      "productName": "Gulf Way",
+      "productCategory": "Oleje do prowadnic",
+      "productID": "GOPOL-076",
+      "sku": "GO-00381",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 88,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-040",
+      "sku": "GO-00178",
+      "availablePacks": "1L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 88,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-040",
+      "sku": "GO-00179",
+      "availablePacks": "20L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 88,
+      "stores": "GOPOL",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Gear Oils",
+      "productID": "GOPOL-040",
+      "sku": "GO-00367",
+      "availablePacks": "208L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-00181",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-00182",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-00374",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-000185",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-000186",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-000189",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-000187",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-000188",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 91,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOPOL-041",
+      "sku": "GO-00183",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 92,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-016",
+      "sku": "GO-00085",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 92,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-016",
+      "sku": "GO-00086",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 92,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-016",
+      "sku": "GO-00087",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 92,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-016",
+      "sku": "GO-00088",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 93,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-017",
+      "sku": "GO-00089",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 93,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-017",
+      "sku": "GO-00090",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 93,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-017",
+      "sku": "GO-00091",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 93,
+      "stores": "GOPOL",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "PÅyny do automatycznej skrzyni biegÃ³w",
+      "productID": "GOPOL-017",
+      "sku": "GO-00092",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000190",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000191",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000192",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000193",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000194",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000195",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000196",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000197",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000198",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-042",
+      "sku": "GO-000199",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 102,
+      "stores": "GOPOL",
+      "productName": "Gulf eLEC Coolant",
+      "productCategory": "eLEC",
+      "productID": "GOPOL-018",
+      "sku": "GO-00093",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00209",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00210",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00212",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00213",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00214",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00217",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00215",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-000216",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 103,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-044",
+      "sku": "GO-00211",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 104,
+      "stores": "GOPOL",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-075",
+      "sku": "GO-00377",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 104,
+      "stores": "GOPOL",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-075",
+      "sku": "GO-00378",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 104,
+      "stores": "GOPOL",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-075",
+      "sku": "GO-00379",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 105,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-045",
+      "sku": "GO-00218",
+      "availablePacks": "20L",
+      "viscosityGrade": "8W-90"
+    },
+    {
+      "productId": 105,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-045",
+      "sku": "GO-00219",
+      "availablePacks": "208L",
+      "viscosityGrade": "8W-90"
+    },
+    {
+      "productId": 106,
+      "stores": "GOPOL",
+      "productName": "Gulf eLEC Brake Fluid",
+      "productCategory": "eLEC",
+      "productID": "GOPOL-019",
+      "sku": "GO-00094",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 107,
+      "stores": "GOPOL",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "PÅyny hamulcowe",
+      "productID": "GOPOL-020",
+      "sku": "GO-00096",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 108,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-021",
+      "sku": "GO-00097",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 108,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-021",
+      "sku": "GO-00098",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 108,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-021",
+      "sku": "GO-00099",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 108,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-021",
+      "sku": "GO-00100",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 111,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-023",
+      "sku": "GO-00105",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 111,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-023",
+      "sku": "GO-00106",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 118,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-059",
+      "sku": "GO-00281",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 118,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-059",
+      "sku": "GO-00282",
+      "availablePacks": "4L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 118,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-059",
+      "sku": "GO-00283",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 118,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-059",
+      "sku": "GO-00284",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 118,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-059",
+      "sku": "GO-000285",
+      "availablePacks": "20L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 118,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-059",
+      "sku": "GO-000286",
+      "availablePacks": "208L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-00365",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-00366",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-000367",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-00368",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-00369",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-000370",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-000371",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-003072",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-00373",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-000374",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-000375",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 120,
+      "stores": "GOPOL",
+      "productName": "Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-074",
+      "sku": "GO-00376",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00354",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00355",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00356",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00357",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00358",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00359",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00360",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00361",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00362",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00363",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 122,
+      "stores": "GOPOL",
+      "productName": "Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-073",
+      "sku": "GO-00364",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000287",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000288",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000290",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000291",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000292",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000293",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000294",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000295",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 123,
+      "stores": "GOPOL",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-060",
+      "sku": "GO-000289",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000253",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000254",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000255",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000256",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000257",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000258",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000259",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000260",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000261",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 124,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-055",
+      "sku": "GO-000262",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 128,
+      "stores": "GOPOL",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-057",
+      "sku": "GO-00272",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 128,
+      "stores": "GOPOL",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-057",
+      "sku": "GO-00273",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 128,
+      "stores": "GOPOL",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-057",
+      "sku": "GO-00274",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 128,
+      "stores": "GOPOL",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-057",
+      "sku": "GO-00275",
+      "availablePacks": "1000L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 128,
+      "stores": "GOPOL",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-057",
+      "sku": "GO-00276",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000296",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000297",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000298",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000299",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000300",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000301",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000302",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000303",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000304",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000305",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 129,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-061",
+      "sku": "GO-000306",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 130,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-058",
+      "sku": "GO-00277",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 130,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-058",
+      "sku": "GO-00278",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 130,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-058",
+      "sku": "GO-00279",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 130,
+      "stores": "GOPOL",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-058",
+      "sku": "GO-00280",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 133,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-065",
+      "sku": "GO-00329",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 133,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-065",
+      "sku": "GO-00331",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 133,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-065",
+      "sku": "GO-00332",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 133,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-065",
+      "sku": "GO-00330",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 134,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-022",
+      "sku": "GO-00101",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 134,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-022",
+      "sku": "GO-00102",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 134,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-022",
+      "sku": "GO-00103",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 134,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "PÅyny niezamarzajÄce i chÅodzÄce",
+      "productID": "GOPOL-022",
+      "sku": "GO-00104",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 136,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-068",
+      "sku": "GO-00339",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 136,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-068",
+      "sku": "GO-00340",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 136,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-068",
+      "sku": "GO-00341",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 137,
+      "stores": "GOPOL",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Oleje do piÅ ÅaÅcuchowych",
+      "productID": "GOPOL-070",
+      "sku": "GO-00344",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 138,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-067",
+      "sku": "GO-00337",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 138,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-067",
+      "sku": "GO-00338",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 139,
+      "stores": "GOPOL",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-069",
+      "sku": "GO-00342",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 140,
+      "stores": "GOPOL",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Brake Fluids",
+      "productID": "GOPOL-046",
+      "sku": "GO-00221",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 141,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-047",
+      "sku": "GO-00222",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 141,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-047",
+      "sku": "GO-00224",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 141,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-047",
+      "sku": "GO-00225",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 141,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-047",
+      "sku": "GO-00223",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-00322",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-00323",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-00324",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-000325",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-000326",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-000327",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 142,
+      "stores": "GOPOL",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Universal Oil",
+      "productID": "GOPOL-064",
+      "sku": "GO-00328",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000307",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000308",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000309",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000310",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000311",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000312",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000313",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000314",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000315",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000316",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000317",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 143,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-062",
+      "sku": "GO-000318",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 144,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-048",
+      "sku": "GO-00226",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 144,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-048",
+      "sku": "GO-00227",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 144,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-048",
+      "sku": "GO-00228",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 144,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-048",
+      "sku": "GO-00229",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 145,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-063",
+      "sku": "GO-00319",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 145,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-063",
+      "sku": "GO-00320",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 145,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-063",
+      "sku": "GO-00321",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 146,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-049",
+      "sku": "GO-00230",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 146,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-049",
+      "sku": "GO-00231",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 147,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-050",
+      "sku": "GO-00232",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 147,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-050",
+      "sku": "GO-00233",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 147,
+      "stores": "GOPOL",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOPOL-050",
+      "sku": "GO-00234",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-00235",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-00236",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-00237",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-00238",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-000239",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-000241",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 149,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-051",
+      "sku": "GO-000242",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 150,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-052",
+      "sku": "GO-000243",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 150,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOPOL-052",
+      "sku": "GO-000244",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 151,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-053",
+      "sku": "GO-000245",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 151,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-053",
+      "sku": "GO-000246",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 151,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-053",
+      "sku": "GO-000248",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 151,
+      "stores": "GOPOL",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOPOL-053",
+      "sku": "GO-000249",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 152,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOPOL-054",
+      "sku": "GO-000250",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 152,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOPOL-054",
+      "sku": "GO-000251",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 152,
+      "stores": "GOPOL",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOPOL-054",
+      "sku": "GO-000252",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 154,
+      "stores": "GOPOL",
+      "productName": "Gulf Pride",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-086",
+      "sku": "GO-000413",
+      "availablePacks": "1L",
+      "viscosityGrade": 3000
+    },
+    {
+      "productId": 154,
+      "stores": "GOPOL",
+      "productName": "Gulf Pride",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-086",
+      "sku": "GO-000415",
+      "availablePacks": "1L",
+      "viscosityGrade": 4004
+    },
+    {
+      "productId": 154,
+      "stores": "GOPOL",
+      "productName": "Gulf Pride",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-086",
+      "sku": "GO-000417",
+      "availablePacks": "208L",
+      "viscosityGrade": 4004
+    },
+    {
+      "productId": 155,
+      "stores": "GOPOL",
+      "productName": "Gulf Racing",
+      "productCategory": "Gulf Racing",
+      "productID": "GOPOL-087",
+      "sku": "GO-000419",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-60"
+    },
+    {
+      "productId": 156,
+      "stores": "GOPOL",
+      "productName": "Gulf Racing Brakefluid Dot 5.1",
+      "productCategory": "Gulf Racing",
+      "productID": "GOPOL-088",
+      "sku": "GO-000420",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 157,
+      "stores": "GOPOL",
+      "productName": "Gulf Therm",
+      "productCategory": "Olej odprowadzajÄcy ciepÅo",
+      "productID": "GOPOL-089",
+      "sku": "GO-000421",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 157,
+      "stores": "GOPOL",
+      "productName": "Gulf Therm",
+      "productCategory": "Olej odprowadzajÄcy ciepÅo",
+      "productID": "GOPOL-089",
+      "sku": "GO-000422",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 157,
+      "stores": "GOPOL",
+      "productName": "Gulf Therm",
+      "productCategory": "Olej odprowadzajÄcy ciepÅo",
+      "productID": "GOPOL-089",
+      "sku": "GO-000423",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 158,
+      "stores": "GOPOL",
+      "productName": "Gulfco LA",
+      "productCategory": "Oleje do silnikÃ³w gazowych",
+      "productID": "GOPOL-090",
+      "sku": "GO-000424",
+      "availablePacks": "20L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 158,
+      "stores": "GOPOL",
+      "productName": "Gulfco LA",
+      "productCategory": "Oleje do silnikÃ³w gazowych",
+      "productID": "GOPOL-090",
+      "sku": "GO-000425",
+      "availablePacks": "208L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 159,
+      "stores": "GOPOL",
+      "productName": "Gulfmar AC",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-091",
+      "sku": "GO-000426",
+      "availablePacks": "20L",
+      "viscosityGrade": 306
+    },
+    {
+      "productId": 159,
+      "stores": "GOPOL",
+      "productName": "Gulfmar AC",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-091",
+      "sku": "GO-000427",
+      "availablePacks": "208L",
+      "viscosityGrade": 306
+    },
+    {
+      "productId": 160,
+      "stores": "GOPOL",
+      "productName": "Gulfmar AL",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-092",
+      "sku": "GO-000428",
+      "availablePacks": "208L",
+      "viscosityGrade": 315
+    },
+    {
+      "productId": 161,
+      "stores": "GOPOL",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-093",
+      "sku": "GO-000429",
+      "availablePacks": "208L",
+      "viscosityGrade": 315
+    },
+    {
+      "productId": 161,
+      "stores": "GOPOL",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-093",
+      "sku": "GO-000430",
+      "availablePacks": "208L",
+      "viscosityGrade": 412
+    },
+    {
+      "productId": 161,
+      "stores": "GOPOL",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-093",
+      "sku": "GO-000431",
+      "availablePacks": "208L",
+      "viscosityGrade": 415
+    },
+    {
+      "productId": 162,
+      "stores": "GOPOL",
+      "productName": "Gulfmar HP",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-094",
+      "sku": "GO-000432",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 162,
+      "stores": "GOPOL",
+      "productName": "Gulfmar HP",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-094",
+      "sku": "GO-000433",
+      "availablePacks": "20L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 163,
+      "stores": "GOPOL",
+      "productName": "Gulfmar MX",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-095",
+      "sku": "GO-000434",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 163,
+      "stores": "GOPOL",
+      "productName": "Gulfmar MX",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-095",
+      "sku": "GO-000435",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 164,
+      "stores": "GOPOL",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-096",
+      "sku": "GO-000436",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 164,
+      "stores": "GOPOL",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-096",
+      "sku": "GO-000437",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 164,
+      "stores": "GOPOL",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Produkty morskie",
+      "productID": "GOPOL-096",
+      "sku": "GO-000438",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 165,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-097",
+      "sku": "GO-000439",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 165,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-097",
+      "sku": "GO-000440",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 165,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-097",
+      "sku": "GO-000441",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00073",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00074",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00075",
+      "availablePacks": "5L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00076",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00077",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00078",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 166,
+      "stores": "GOPOL",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOPOL-014",
+      "sku": "GO-00079",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 167,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-029",
+      "sku": "GO-000128",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 167,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-029",
+      "sku": "GO-000129",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-030",
+      "sku": "GO-000130",
+      "availablePacks": "5L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-030",
+      "sku": "GO-000131",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-030",
+      "sku": "GO-000132",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-030",
+      "sku": "GO-000133",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 169,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional ECON",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-031",
+      "sku": "GO-000134",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 169,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional ECON",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-031",
+      "sku": "GO-000135",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 169,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional ECON",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-031",
+      "sku": "GO-000136",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 170,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-033",
+      "sku": "GO-000147",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 170,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-033",
+      "sku": "GO-000148",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 170,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOPOL-033",
+      "sku": "GO-000149",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-000150",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-000151",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-000152",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-000153",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-00154",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-00155",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-00156",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-00157",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 171,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOPOL-034",
+      "sku": "GO-000158",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-00200",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-00201",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-00202",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-000203",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-000204",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-000205",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-000206",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-00207",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 172,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOPOL-043",
+      "sku": "GO-00208",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000263",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000264",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000265",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000266",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000267",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000268",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000269",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000270",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 173,
+      "stores": "GOPOL",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oleje silnikowe",
+      "productID": "GOPOL-056",
+      "sku": "GO-000271",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 174,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-066",
+      "sku": "GO-00333",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-066",
+      "sku": "GO-00334",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-066",
+      "sku": "GO-00335",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOPOL",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Produkty pomocnicze",
+      "productID": "GOPOL-066",
+      "sku": "GO-00336",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00345",
+      "availablePacks": "20L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00346",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00347",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00348",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00349",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00350",
+      "availablePacks": "20L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 175,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-071",
+      "sku": "GO-00351",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 176,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek SY",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-072",
+      "sku": "GO-00352",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 176,
+      "stores": "GOPOL",
+      "productName": "Gulf Geartek SY",
+      "productCategory": "Oleje przekÅadniowe",
+      "productID": "GOPOL-072",
+      "sku": "GO-00353",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 177,
+      "stores": "GOPOL",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Oleje do piÅ ÅaÅcuchowych",
+      "productID": "GOPOL-083",
+      "sku": "GO-000405",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 177,
+      "stores": "GOPOL",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Oleje do piÅ ÅaÅcuchowych",
+      "productID": "GOPOL-083",
+      "sku": "GO-000406",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 177,
+      "stores": "GOPOL",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Oleje do piÅ ÅaÅcuchowych",
+      "productID": "GOPOL-083",
+      "sku": "GO-00407",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 178,
+      "stores": "GOPOL",
+      "productName": "Gulf Classic",
+      "productCategory": "Gulf Classic",
+      "productID": "GOPOL-084",
+      "sku": "GO-00408",
+      "availablePacks": "5L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 178,
+      "stores": "GOPOL",
+      "productName": "Gulf Classic",
+      "productCategory": "Gulf Classic",
+      "productID": "GOPOL-084",
+      "sku": "GO-00409",
+      "availablePacks": "208L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 179,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-085",
+      "sku": "GO-00410",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 179,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-085",
+      "sku": "GO-00411",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 179,
+      "stores": "GOPOL",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oleje hydrauliczne",
+      "productID": "GOPOL-085",
+      "sku": "GO-00412",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 180,
+      "stores": "GOPOL",
+      "productName": "Gulf Ultrasynth C2/C3",
+      "productCategory": "Gulf Ultrasynth",
+      "productID": "GOSEA-000001",
+      "sku": "GOPSA-0000011",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 180,
+      "stores": "GOPOL",
+      "productName": "Gulf Ultrasynth C2/C3",
+      "productCategory": "Gulf Ultrasynth",
+      "productID": "GOSEA-000001",
+      "sku": "GOPSA-00012",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000031",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000034",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000035",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000032",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000036",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000040",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-50"
+    },
+    {
+      "productId": 181,
+      "stores": "GOPOL",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000041",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-50"
+    },
+    {
+      "productId": 182,
+      "stores": "GOPOL",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oleje obiegowe do zastosowaÅ przemysÅowych",
+      "productID": "Gulf Security PMA",
+      "sku": "GOSCO-07120",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 182,
+      "stores": "GOPOL",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oleje obiegowe do zastosowaÅ przemysÅowych",
+      "productID": "Gulf Security PMA",
+      "sku": "GOSCO-07121",
+      "availablePacks": "1000L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 182,
+      "stores": "GOPOL",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oleje obiegowe do zastosowaÅ przemysÅowych",
+      "productID": "Gulf Security PMA",
+      "sku": "GOSCO-07122",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 182,
+      "stores": "GOPOL",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oleje obiegowe do zastosowaÅ przemysÅowych",
+      "productID": "Gulf Security PMA",
+      "sku": "GOSCO-07123",
+      "availablePacks": "1000L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 182,
+      "stores": "GOPOL",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oleje obiegowe do zastosowaÅ przemysÅowych",
+      "productID": "Gulf Security PMA",
+      "sku": "GOSCO-07125",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 182,
+      "stores": "GOPOL",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oleje obiegowe do zastosowaÅ przemysÅowych",
+      "productID": "Gulf Security PMA",
+      "sku": "GOSCO-07126",
+      "availablePacks": "1000L",
+      "viscosityGrade": 320
+    }
+  ]
+}

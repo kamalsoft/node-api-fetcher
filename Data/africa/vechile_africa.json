@@ -1,0 +1,124 @@
+{
+  "region": "Africa",
+  "sub-region": "",
+  "data_year": 2024,
+  "fuel_types": ["Gas", "Diesel", "Hybrid"],
+  "vehicle_brands": {
+    "Car": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Corolla",
+            "fuel_types": ["Gas"],
+            "engine": "1.8L I4",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          },
+          {
+            "name": "Starlet",
+            "fuel_types": ["Gas"],
+            "engine": "1.5L I4",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Volkswagen",
+        "trims": [
+          {
+            "name": "Polo",
+            "fuel_types": ["Gas"],
+            "engine": "1.0L I3",
+            "premium": "false",
+            "preffered_engine_oil": "5W-40"
+          }
+        ]
+      },
+      {
+        "brand": "Hyundai",
+        "trims": [
+          {
+            "name": "i20",
+            "fuel_types": ["Gas"],
+            "engine": "1.2L I4",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      }
+    ],
+    "Truck": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Hilux",
+            "fuel_types": ["Diesel"],
+            "engine": "2.8L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          },
+          {
+            "name": "Land Cruiser",
+            "fuel_types": ["Diesel", "Gas"],
+            "engine": "3.3L V6 Diesel",
+            "premium": "true",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Ford",
+        "trims": [
+          {
+            "name": "Ranger",
+            "fuel_types": ["Diesel"],
+            "engine": "2.0L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Isuzu",
+        "trims": [
+          {
+            "name": "D-Max",
+            "fuel_types": ["Diesel"],
+            "engine": "3.0L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "10W-30"
+          }
+        ]
+      }
+    ],
+    "Bus": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "HiAce",
+            "fuel_types": ["Diesel"],
+            "engine": "2.8L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "trims": [
+          {
+            "name": "Sprinter",
+            "fuel_types": ["Diesel"],
+            "engine": "2.0L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      }
+    ]
+  }
+}

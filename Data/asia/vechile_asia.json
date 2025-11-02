@@ -1,0 +1,141 @@
+{
+  "region": "Asia",
+  "sub-region": "",
+  "data_year": 2024,
+  "fuel_types": ["Gas", "Diesel", "Hybrid", "Electric"],
+  "vehicle_brands": {
+    "Car": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Corolla",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": "1.8L I4",
+            "premium": "false",
+            "preffered_engine_oil": "0W-16"
+          },
+          {
+            "name": "Camry",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": "2.5L I4",
+            "premium": "false",
+            "preffered_engine_oil": "0W-16"
+          }
+        ]
+      },
+      {
+        "brand": "Honda",
+        "trims": [
+          {
+            "name": "Civic",
+            "fuel_types": ["Gas"],
+            "engine": "1.5L I4 Turbo",
+            "premium": "false",
+            "preffered_engine_oil": "0W-20"
+          }
+        ]
+      },
+      {
+        "brand": "Hyundai",
+        "trims": [
+          {
+            "name": "Elantra",
+            "fuel_types": ["Gas"],
+            "engine": "1.6L I4",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "BYD",
+        "trims": [
+          {
+            "name": "Seal",
+            "fuel_types": ["Electric"],
+            "engine": "N/A",
+            "premium": "false",
+            "preffered_engine_oil": "N/A"
+          }
+        ]
+      },
+      {
+        "brand": "Suzuki",
+        "trims": [
+          {
+            "name": "Swift",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": "1.2L I4",
+            "premium": "false",
+            "preffered_engine_oil": "0W-20"
+          }
+        ]
+      }
+    ],
+    "Truck": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Hilux",
+            "fuel_types": ["Diesel"],
+            "engine": "2.8L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Isuzu",
+        "trims": [
+          {
+            "name": "D-Max",
+            "fuel_types": ["Diesel"],
+            "engine": "3.0L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "10W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Mitsubishi",
+        "trims": [
+          {
+            "name": "Triton",
+            "fuel_types": ["Diesel"],
+            "engine": "2.4L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      }
+    ],
+    "Bus": [
+      {
+        "brand": "Yutong",
+        "trims": [
+          {
+            "name": "ZK6122H",
+            "fuel_types": ["Diesel", "Electric"],
+            "engine": "10.8L I6 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "15W-40"
+          }
+        ]
+      },
+      {
+        "brand": "King Long",
+        "trims": [
+          {
+            "name": "XMQ6129Y",
+            "fuel_types": ["Diesel"],
+            "engine": "9.7L I6 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "15W-40"
+          }
+        ]
+      }
+    ]
+  }
+}

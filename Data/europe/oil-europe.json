@@ -1,0 +1,4367 @@
+{
+  "products": [
+    {
+      "productId": 436,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-001",
+      "sku": "GO-00001",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 436,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-001",
+      "sku": "GO-00002",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 436,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-001",
+      "sku": "GO-00003",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 436,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-001",
+      "sku": "GO-00004",
+      "availablePacks": "60L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 437,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula VFE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-002",
+      "sku": "GO-00005",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 437,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula VFE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-002",
+      "sku": "GO-00006",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 438,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-003",
+      "sku": "GO-00007",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 438,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-003",
+      "sku": "GO-00008",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 438,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-003",
+      "sku": "GO-00009",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 438,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-003",
+      "sku": "GO-00010",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 439,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-0004",
+      "sku": "GO-000011",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 439,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-0004",
+      "sku": "GO-000012",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 439,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-0004",
+      "sku": "GO-000013",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 439,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-0004",
+      "sku": "GO-000014",
+      "availablePacks": "60L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 439,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-0004",
+      "sku": "GO-000015",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 439,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-0004",
+      "sku": "GO-000016",
+      "availablePacks": "1000L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 440,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-005",
+      "sku": "GO-000017",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 440,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-005",
+      "sku": "GO-000018",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 440,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-005",
+      "sku": "GO-000019",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 440,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-005",
+      "sku": "GO-000020",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 441,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-006",
+      "sku": "GO-00021",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 441,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-006",
+      "sku": "GO-00022",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 441,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-006",
+      "sku": "GO-00023",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 441,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-006",
+      "sku": "GO-00024",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 442,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-007",
+      "sku": "GO-00025",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 442,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-007",
+      "sku": "GO-00026",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 442,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-007",
+      "sku": "GO-00028",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 442,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-007",
+      "sku": "GO-00029",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 442,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-007",
+      "sku": "GO-00030",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 442,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-007",
+      "sku": "GO-00031",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00032",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00033",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00035",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00036",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00037",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00038",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-00039",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-000010",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GO-0000012",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 443,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-008",
+      "sku": "GOI-000003",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00040",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00041",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00042",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00043",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00044",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00045",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 444,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-009",
+      "sku": "GO-00046",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00047",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00048",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00049",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00050",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00051",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00052",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 445,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-010",
+      "sku": "GO-00053",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 446,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-011",
+      "sku": "GO-00054",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 446,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-011",
+      "sku": "GO-00055",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 446,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-011",
+      "sku": "GO-00056",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 446,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-011",
+      "sku": "GO-00057",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 446,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-011",
+      "sku": "GO-00058",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 446,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-011",
+      "sku": "GO-00059",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 447,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-012",
+      "sku": "GO-00060",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 447,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-012",
+      "sku": "GO-00061",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 447,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-012",
+      "sku": "GO-00062",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 447,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-012",
+      "sku": "GO-00063",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 447,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-012",
+      "sku": "GO-00064",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 447,
+      "stores": "Gulfoil",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOSCO-012",
+      "sku": "GO-00065",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00066",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00067",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00068",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00069",
+      "availablePacks": "1L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00070",
+      "availablePacks": "4L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00071",
+      "availablePacks": "20L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 448,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-013",
+      "sku": "GO-00072",
+      "availablePacks": "208L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00073",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00074",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00075",
+      "availablePacks": "5L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00076",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00077",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00078",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 449,
+      "stores": "Gulfoil",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOSCO-014",
+      "sku": "GO-00079",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 450,
+      "stores": "Gulfoil",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-015",
+      "sku": "GO-000080",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 450,
+      "stores": "Gulfoil",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-015",
+      "sku": "GO-000081",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 450,
+      "stores": "Gulfoil",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-015",
+      "sku": "GO-000082",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 450,
+      "stores": "Gulfoil",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-015",
+      "sku": "GO-000083",
+      "availablePacks": "60L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 450,
+      "stores": "Gulfoil",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-015",
+      "sku": "GO-000084",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 451,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-016",
+      "sku": "GO-00085",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 451,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-016",
+      "sku": "GO-00086",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 451,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-016",
+      "sku": "GO-00087",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 451,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-016",
+      "sku": "GO-00088",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 452,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-017",
+      "sku": "GO-00089",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 452,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-017",
+      "sku": "GO-00090",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 452,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-017",
+      "sku": "GO-00091",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 452,
+      "stores": "Gulfoil",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-017",
+      "sku": "GO-00092",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 453,
+      "stores": "Gulfoil",
+      "productName": "Gulf eLEC Coolant",
+      "productCategory": "eLEC",
+      "productID": "GOSCO-018",
+      "sku": "GO-00093",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 454,
+      "stores": "Gulfoil",
+      "productName": "Gulf eLEC Brake Fluid",
+      "productCategory": "eLEC",
+      "productID": "GOSCO-019",
+      "sku": "GO-00094",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 455,
+      "stores": "Gulfoil",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Brake Fluids",
+      "productID": "GOSCO-020",
+      "sku": "GO-00096",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 456,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-021",
+      "sku": "GO-00097",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 456,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-021",
+      "sku": "GO-00098",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 456,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-021",
+      "sku": "GO-00099",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 456,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-021",
+      "sku": "GO-00100",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 457,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-022",
+      "sku": "GO-00101",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 457,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-022",
+      "sku": "GO-00102",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 457,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-022",
+      "sku": "GO-00103",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 457,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-022",
+      "sku": "GO-00104",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 458,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-023",
+      "sku": "GO-000105",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 458,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-023",
+      "sku": "GO-000106",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 459,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-024",
+      "sku": "GO-00107",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 459,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-024",
+      "sku": "GO-00108",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 459,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-024",
+      "sku": "GO-00109",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00110",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00111",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00112",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00113",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00114",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00116",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 460,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-025",
+      "sku": "GO-00117",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 461,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown MP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-026",
+      "sku": "GO-00118",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 461,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown MP",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-026",
+      "sku": "GO-00119",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 462,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-027",
+      "sku": "GO-00120",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 462,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-027",
+      "sku": "GO-00121",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 462,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-027",
+      "sku": "GO-00123",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 462,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-027",
+      "sku": "GO-00124",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 463,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "productID": "GOSCO-028",
+      "sku": "GO-00125",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 463,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "sku": "GO-00126",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 463,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "High-Performance Car Greases and Lubricants",
+      "sku": "GO-00127",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 464,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional",
+      "productCategory": "Gulf Superfleet Professional",
+      "productID": "GOSCO-029",
+      "sku": "GO-00128",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 464,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00129",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 465,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "productID": "GOSCO-030",
+      "sku": "GO-00130",
+      "availablePacks": "5L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 465,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00131",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 465,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00132",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 465,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00133",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 466,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional ECON",
+      "productCategory": "Gulf Superfleet Professional",
+      "productID": "GOSCO-031",
+      "sku": "GO-00134",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 466,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional ECON",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00135",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 466,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional ECON",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00136",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "productID": "GOSCO-032",
+      "sku": "GO-00137",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00138",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00139",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00140",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00141",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00142",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00143",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00144",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00145",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 467,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00146",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 468,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "productID": "GOSCO-033",
+      "sku": "GO-00147",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 468,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00148",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 468,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet Professional",
+      "sku": "GO-00149",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "productID": "GOSCO-034",
+      "sku": "GO-00150",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00151",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00152",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00153",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00154",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00155",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00156",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00157",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 469,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Superfleet Supreme",
+      "sku": "GO-00158",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 470,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Gear Oils",
+      "productID": "GOSCO-035",
+      "sku": "GO-00159",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 470,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00160",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 470,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00161",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 471,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "productID": "GOSCO-036",
+      "sku": "GO-00162",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 471,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00163",
+      "availablePacks": "4L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 471,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00164",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 471,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00165",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 471,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00166",
+      "availablePacks": "20L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 471,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00167",
+      "availablePacks": "208L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 472,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "productID": "GOSCO-037",
+      "sku": "GO-00168",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 472,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00169",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 472,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00170",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 472,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00171",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 473,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Gear Oils",
+      "productID": "GOSCO-038",
+      "sku": "GO-00172",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 473,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00173",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 474,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "productID": "GOSCO-039",
+      "sku": "GO-00174",
+      "availablePacks": "20L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 474,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00175",
+      "availablePacks": "60L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 474,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00176",
+      "availablePacks": "208L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 474,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00177",
+      "availablePacks": "1000L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 475,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Gear Oils",
+      "productID": "GOSCO-040",
+      "sku": "GO-00178",
+      "availablePacks": "1L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 475,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00179",
+      "availablePacks": "20L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 475,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Gear Oils",
+      "sku": "GO-00180",
+      "availablePacks": "208L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "productID": "GOSCO-041",
+      "sku": "GO-00181",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00182",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00183",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00184",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00185",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00186",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00187",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00188",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 476,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Automatic Transmission Fluids",
+      "sku": "GO-00189",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "productID": "GOSCO-042",
+      "sku": "GO-00190",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00191",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00192",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00193",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00194",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00195",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00196",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00197",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00198",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 477,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00199",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "productID": "GOSCO-043",
+      "sku": "GO-00200",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00201",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00202",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00203",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00204",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00205",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00206",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00207",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 478,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00208",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "productID": "GOSCO-044",
+      "sku": "GO-00209",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00210",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00211",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00212",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00213",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00214",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00215",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00216",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 479,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00217",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 480,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "productID": "GOSCO-045",
+      "sku": "GO-00218",
+      "availablePacks": "20L",
+      "viscosityGrade": "8W-90"
+    },
+    {
+      "productId": 480,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Lubricants for Off-Road Vehicles",
+      "sku": "GO-00219",
+      "availablePacks": "208L",
+      "viscosityGrade": "8W-90"
+    },
+    {
+      "productId": 481,
+      "stores": "Gulfoil",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Brake Fluids",
+      "productID": "GOSCO-046",
+      "sku": "GO-00221",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 482,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-047",
+      "sku": "GO-00222",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 482,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-047",
+      "sku": "GO-00223",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 482,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-047",
+      "sku": "GO-00224",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 482,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-047",
+      "sku": "GO-00225",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 483,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-048",
+      "sku": "GO-00226",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 483,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-048",
+      "sku": "GO-00227",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 483,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-048",
+      "sku": "GO-00228",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 483,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-048",
+      "sku": "GO-00229",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 484,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-049",
+      "sku": "GO-000230",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 484,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-049",
+      "sku": "GO-000231",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 485,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-050",
+      "sku": "GO-00232",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 485,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-050",
+      "sku": "GO-00233",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 485,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Antifreeze & Coolants",
+      "productID": "GOSCO-050",
+      "sku": "GO-00234",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00235",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00236",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00237",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00238",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00239",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00241",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 486,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-051",
+      "sku": "GO-00242",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 487,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-052",
+      "sku": "GO-00243",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 487,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-052",
+      "sku": "GO-00244",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 488,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-053",
+      "sku": "GO-00245",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 488,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-053",
+      "sku": "GO-00246",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 488,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-053",
+      "sku": "GO-00248",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 488,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-053",
+      "sku": "GO-00249",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 489,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-054",
+      "sku": "GO-00250",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 489,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-054",
+      "sku": "GO-00251",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 489,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases for Commercial Vehicles",
+      "productID": "GOSCO-054",
+      "sku": "GO-00252",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00253",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00254",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00255",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00256",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00257",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00258",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00259",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00260",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00261",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 490,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-055",
+      "sku": "GO-00262",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00263",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00264",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00265",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00266",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00267",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00268",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00269",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00270",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 491,
+      "stores": "Gulfoil",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Engine Oils for Agricultural Machinery",
+      "productID": "GOSCO-056",
+      "sku": "GO-00271",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 492,
+      "stores": "Gulfoil",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-057",
+      "sku": "GO-00272",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 492,
+      "stores": "Gulfoil",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-057",
+      "sku": "GO-00273",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 492,
+      "stores": "Gulfoil",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-057",
+      "sku": "GO-00274",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 492,
+      "stores": "Gulfoil",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-057",
+      "sku": "GO-00275",
+      "availablePacks": "1000L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 492,
+      "stores": "Gulfoil",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-057",
+      "sku": "GO-00276",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 493,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-058",
+      "sku": "GO-00277",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 493,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-058",
+      "sku": "GO-00278",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 493,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-058",
+      "sku": "GO-00279",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 493,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-058",
+      "sku": "GO-00280",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 494,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-059",
+      "sku": "GO-00281",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 494,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-059",
+      "sku": "GO-00282",
+      "availablePacks": "4L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 494,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-059",
+      "sku": "GO-00283",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 494,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-059",
+      "sku": "GO-00284",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 494,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-059",
+      "sku": "GO-00285",
+      "availablePacks": "20L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 494,
+      "stores": "Gulfoil",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-059",
+      "sku": "GO-00286",
+      "availablePacks": "208L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00287",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00288",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00289",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00290",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00291",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00292",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00293",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00294",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 495,
+      "stores": "Gulfoil",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Transmission Fluids for Agricultural Machinery",
+      "productID": "GOSCO-060",
+      "sku": "GO-00295",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00296",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00297",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00298",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00299",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00300",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00301",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00302",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00303",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00304",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00305",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 496,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-061",
+      "sku": "GO-00306",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00307",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00308",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00309",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00310",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00311",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00312",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00313",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00314",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00315",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00316",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00317",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 497,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-062",
+      "sku": "GO-00318",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 498,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-063",
+      "sku": "GO-00319",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 498,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-063",
+      "sku": "GO-00320",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 498,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-063",
+      "sku": "GO-00321",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00322",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00323",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00324",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00325",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00326",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00327",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 499,
+      "stores": "Gulfoil",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Super Tractor Oil Universal",
+      "productID": "GOSCO-064",
+      "sku": "GO-00328",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 500,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-065",
+      "sku": "GO-00329",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 500,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-065",
+      "sku": "GO-00330",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 500,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-065",
+      "sku": "GO-00331",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 500,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-065",
+      "sku": "GO-00332",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 501,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-066",
+      "sku": "GO-00333",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 501,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-066",
+      "sku": "GO-00334",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 501,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-066",
+      "sku": "GO-00335",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 501,
+      "stores": "Gulfoil",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-066",
+      "sku": "GO-00336",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 502,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-067",
+      "sku": "GO-000337",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 502,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-067",
+      "sku": "GO-000338",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 503,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-068",
+      "sku": "GO-00339",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 503,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-068",
+      "sku": "GO-00340",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 503,
+      "stores": "Gulfoil",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-068",
+      "sku": "GO-00341",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 504,
+      "stores": "Gulfoil",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Ancillary Products for Agricultural Machinery",
+      "productID": "GOSCO-069",
+      "sku": "GO-00342",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 505,
+      "stores": "Gulfoil",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Chain Oils for Agricultural Equipment",
+      "productID": "GOSCO-070",
+      "sku": "GO-00344",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000345",
+      "availablePacks": "20L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000346",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000347",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000348",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000349",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000350",
+      "availablePacks": "20L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 506,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-071",
+      "sku": "GO-000351",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 507,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek SY",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-072",
+      "sku": "GO-00352",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 507,
+      "stores": "Gulfoil",
+      "productName": "Gulf Geartek SY",
+      "productCategory": "Industrial Gear Oils",
+      "productID": "GOSCO-072",
+      "sku": "GO-00353",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00354",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00355",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00356",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00357",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00358",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00359",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00360",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00361",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00362",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00363",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 508,
+      "stores": "Gulfoil",
+      "productName": "Harmony AW",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-073",
+      "sku": "GO-00364",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00365",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00366",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00367",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00368",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00369",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00370",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00371",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00372",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00373",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00374",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00375",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 509,
+      "stores": "Gulfoil",
+      "productName": "Harmony HVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-074",
+      "sku": "GO-00376",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 510,
+      "stores": "Gulfoil",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-075",
+      "sku": "GO-00377",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 510,
+      "stores": "Gulfoil",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-075",
+      "sku": "GO-00378",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 510,
+      "stores": "Gulfoil",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-075",
+      "sku": "GO-00379",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 511,
+      "stores": "Gulfoil",
+      "productName": "Gulf Way",
+      "productCategory": "Slideway Oils for Industrial Machinery",
+      "productID": "GOSCO-076",
+      "sku": "GO-00380",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 511,
+      "stores": "Gulfoil",
+      "productName": "Gulf Way",
+      "productCategory": "Slideway Oils for Industrial Machinery",
+      "productID": "GOSCO-076",
+      "sku": "GO-00381",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 512,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-077",
+      "sku": "GO-00382",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 512,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-077",
+      "sku": "GO-00384",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 512,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-077",
+      "sku": "GO-00385",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 513,
+      "stores": "Gulfoil",
+      "productName": "Gulf Bavex",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-078",
+      "sku": "GO-00386",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 513,
+      "stores": "Gulfoil",
+      "productName": "Gulf Bavex",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-078",
+      "sku": "GO-00387",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 514,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-079",
+      "sku": "GO-00388",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 514,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-079",
+      "sku": "GO-00389",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 515,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-080",
+      "sku": "GO-00390",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 515,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-080",
+      "sku": "GO-00391",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 515,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-080",
+      "sku": "GO-00393",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 515,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-080",
+      "sku": "GO-00394",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 516,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-081",
+      "sku": "GO-00395",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 516,
+      "stores": "Gulfoil",
+      "productName": "Gulflex EPG",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-081",
+      "sku": "GO-00396",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00397",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00398",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00399",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00400",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00401",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00403",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 517,
+      "stores": "Gulfoil",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Industrial Greases",
+      "productID": "GOSCO-082",
+      "sku": "GO-00404",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 518,
+      "stores": "Gulfoil",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Chain Oils for Agricultural Equipment",
+      "productID": "GOSCO-083",
+      "sku": "GO-00405",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 518,
+      "stores": "Gulfoil",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Chain Oils for Agricultural Equipment",
+      "productID": "GOSCO-083",
+      "sku": "GO-00406",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 518,
+      "stores": "Gulfoil",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Chain Oils for Agricultural Equipment",
+      "productID": "GOSCO-083",
+      "sku": "GO-00407",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 519,
+      "stores": "Gulfoil",
+      "productName": "Gulf Classic",
+      "productCategory": "Gulf Classic",
+      "productID": "GOSCO-084",
+      "sku": "GO-00408",
+      "availablePacks": "5L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 519,
+      "stores": "Gulfoil",
+      "productName": "Gulf Classic",
+      "productCategory": "Gulf Classic",
+      "productID": "GOSCO-084",
+      "sku": "GO-00409",
+      "availablePacks": "208L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 520,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-085",
+      "sku": "GO-00410",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 520,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-085",
+      "sku": "GO-00411",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 520,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Hydraulic Oils for Agricultural Machinery",
+      "productID": "GOSCO-085",
+      "sku": "GO-00412",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 521,
+      "stores": "Gulfoil",
+      "productName": "Gulf Pride",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-086",
+      "sku": "GO-00413",
+      "availablePacks": "1L",
+      "viscosityGrade": 3000
+    },
+    {
+      "productId": 521,
+      "stores": "Gulfoil",
+      "productName": "Gulf Pride",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-086",
+      "sku": "GO-00415",
+      "availablePacks": "1L",
+      "viscosityGrade": 4004
+    },
+    {
+      "productId": 521,
+      "stores": "Gulfoil",
+      "productName": "Gulf Pride",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-086",
+      "sku": "GO-00417",
+      "availablePacks": "208L",
+      "viscosityGrade": 4004
+    },
+    {
+      "productId": 522,
+      "stores": "Gulfoil",
+      "productName": "Gulf Racing",
+      "productCategory": "Gulf Racing",
+      "productID": "GOSCO-087",
+      "sku": "GO-00419",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-60"
+    },
+    {
+      "productId": 523,
+      "stores": "Gulfoil",
+      "productName": "Gulf Racing Brakefluid Dot 5.1",
+      "productCategory": "Gulf Racing",
+      "productID": "GOSCO-088",
+      "sku": "GO-00420",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 524,
+      "stores": "Gulfoil",
+      "productName": "Gulf Therm",
+      "productCategory": "Heat Transfer Oils for Industrial Application",
+      "productID": "GOSCO-089",
+      "sku": "GO-00421",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 524,
+      "stores": "Gulfoil",
+      "productName": "Gulf Therm",
+      "productCategory": "Heat Transfer Oils for Industrial Application",
+      "productID": "GOSCO-089",
+      "sku": "GO-00422",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 524,
+      "stores": "Gulfoil",
+      "productName": "Gulf Therm",
+      "productCategory": "Heat Transfer Oils for Industrial Application",
+      "productID": "GOSCO-089",
+      "sku": "GO-00423",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 525,
+      "stores": "Gulfoil",
+      "productName": "Gulfco LA",
+      "productCategory": "Gas Engine Oils for Industrial Applications",
+      "productID": "GOSCO-090",
+      "sku": "GO-00424",
+      "availablePacks": "20L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 525,
+      "stores": "Gulfoil",
+      "productName": "Gulfco LA",
+      "productCategory": "Gas Engine Oils for Industrial Applications",
+      "productID": "GOSCO-090",
+      "sku": "GO-00425",
+      "availablePacks": "208L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 526,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar AC",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-091",
+      "sku": "GO-00426",
+      "availablePacks": "20L",
+      "viscosityGrade": 306
+    },
+    {
+      "productId": 526,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar AC",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-091",
+      "sku": "GO-00427",
+      "availablePacks": "208L",
+      "viscosityGrade": 306
+    },
+    {
+      "productId": 527,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar AL",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-092",
+      "sku": "GO-00428",
+      "availablePacks": "208L",
+      "viscosityGrade": 315
+    },
+    {
+      "productId": 528,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-093",
+      "sku": "GO-00429",
+      "availablePacks": "208L",
+      "viscosityGrade": 315
+    },
+    {
+      "productId": 528,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-093",
+      "sku": "GO-00430",
+      "availablePacks": "208L",
+      "viscosityGrade": 412
+    },
+    {
+      "productId": 528,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-093",
+      "sku": "GO-00431",
+      "availablePacks": "208L",
+      "viscosityGrade": 415
+    },
+    {
+      "productId": 529,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar HP",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-094",
+      "sku": "GO-00432",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 529,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar HP",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-094",
+      "sku": "GO-00433",
+      "availablePacks": "208L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 530,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar MX",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-095",
+      "sku": "GO-00434",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 530,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar MX",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-095",
+      "sku": "GO-00435",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 531,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-096",
+      "sku": "GO-00436",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 531,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-096",
+      "sku": "GO-00437",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 531,
+      "stores": "Gulfoil",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Advanced Marine Lubricants from Gulf Oil",
+      "productID": "GOSCO-096",
+      "sku": "GO-00438",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 532,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-097",
+      "sku": "GO-00439",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 532,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-097",
+      "sku": "GO-00440",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 532,
+      "stores": "Gulfoil",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Hydraulic Oils for Industrial Applications",
+      "productID": "GOSCO-097",
+      "sku": "GO-00441",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 533,
+      "stores": "Gulfoil",
+      "productName": "Gulf Ultrasynth C2/C3",
+      "productCategory": "Gulf Ultrasynth",
+      "productID": "GOSEA-000001",
+      "sku": "GOPSA-00001",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 533,
+      "stores": "Gulfoil",
+      "productName": "Gulf Ultrasynth C2/C3",
+      "productCategory": "Gulf Ultrasynth",
+      "productID": "GOSEA-000001",
+      "sku": "GOPSA-0000011",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000031",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000034",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000035",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000032",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000036",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000037",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-50"
+    },
+    {
+      "productId": 534,
+      "stores": "Gulfoil",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000038",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-50"
+    },
+    {
+      "productId": 535,
+      "stores": "Gulfoil",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Circulating Oils for Industrial Application",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07120",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 535,
+      "stores": "Gulfoil",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Circulating Oils for Industrial Application",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07121",
+      "availablePacks": "1000L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 535,
+      "stores": "Gulfoil",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Circulating Oils for Industrial Application",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07122",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 535,
+      "stores": "Gulfoil",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Circulating Oils for Industrial Application",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07123",
+      "availablePacks": "1000L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 535,
+      "stores": "Gulfoil",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Circulating Oils for Industrial Application",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07125",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 535,
+      "stores": "Gulfoil",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Circulating Oils for Industrial Application",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07126",
+      "availablePacks": "1000L",
+      "viscosityGrade": 320
+    }
+  ]
+}

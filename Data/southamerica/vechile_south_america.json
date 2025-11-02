@@ -1,0 +1,105 @@
+{
+  "region": "South America",
+  "sub-region": "",
+  "data_year": 2024,
+  "fuel_types": ["Gas", "Diesel", "Ethanol"],
+  "vehicle_brands": {
+    "Car": [
+      {
+        "brand": "Chevrolet",
+        "trims": [
+          {
+            "name": "Onix",
+            "fuel_types": ["Gas", "Ethanol"],
+            "engine": "1.0L I3",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Fiat",
+        "trims": [
+          {
+            "name": "Strada",
+            "fuel_types": ["Gas", "Ethanol"],
+            "engine": "1.3L I4",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          },
+          {
+            "name": "Argo",
+            "fuel_types": ["Gas", "Ethanol"],
+            "engine": "1.0L I3",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Volkswagen",
+        "trims": [
+          {
+            "name": "Gol",
+            "fuel_types": ["Gas", "Ethanol"],
+            "engine": "1.0L I3",
+            "premium": "false",
+            "preffered_engine_oil": "5W-40"
+          }
+        ]
+      }
+    ],
+    "Truck": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Hilux",
+            "fuel_types": ["Diesel"],
+            "engine": "2.8L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Chevrolet",
+        "trims": [
+          {
+            "name": "S10",
+            "fuel_types": ["Diesel"],
+            "engine": "2.8L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "5W-30"
+          }
+        ]
+      }
+    ],
+    "Bus": [
+      {
+        "brand": "Mercedes-Benz",
+        "trims": [
+          {
+            "name": "OF 1721",
+            "fuel_types": ["Diesel"],
+            "engine": "4.8L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "15W-40"
+          }
+        ]
+      },
+      {
+        "brand": "Marcopolo",
+        "trims": [
+          {
+            "name": "Torino",
+            "fuel_types": ["Diesel"],
+            "engine": "Various",
+            "premium": "false",
+            "preffered_engine_oil": "15W-40"
+          }
+        ]
+      }
+    ]
+  }
+}

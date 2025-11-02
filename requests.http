@@ -1,0 +1,60 @@
+# REST Client requests file
+# This file allows you to test your API endpoints directly from VS Code.
+# Make sure you have the "REST Client" extension by Huachao Mao installed.
+#
+# You can set the API key here or in your VS Code user/workspace settings
+# for better security (e.g., "rest-client.environmentVariables": { "$shared": { "apiKey": "your-key" } }).
+
+# --- Variables ---
+@hostname = localhost
+@port = 3000
+@host = http://{{hostname}}:{{port}}/api
+@api_key = 9G7D3MYiw0CBSvMbUa14TAc
+@region = europe
+
+###
+# @name HealthCheck
+# Verifies that the API is running.
+GET {{host}}/health
+
+###
+# @name GetVehiclesForRegion
+# Fetches all vehicle data for the specified region.
+GET {{host}}/vehicles/{{region}}
+x-api-key: {{api_key}}
+
+###
+# @name FilterVehicles
+# Fetches only BMW cars for the specified region.
+GET {{host}}/vehicles/{{region}}?type=Car&brand=BMW
+x-api-key: {{api_key}}
+
+###
+# @name EnrichVehiclesWithOils
+# Fetches all vehicle data for the region and includes recommended oils.
+# The first request will be slower as it reads from the filesystem.
+# Subsequent requests will be served from the cache and will be much faster.
+GET {{host}}/vehicles/{{region}}?include_oils=true
+x-api-key: {{api_key}}
+
+###
+# @name ClearCacheForRegion
+# Clears the cache for a specific region.
+# This is a protected endpoint and requires the admin API key.
+POST {{host}}/cache/clear
+Content-Type: application/json
+x-api-key: {{api_key}}
+
+{
+  "region": "{{region}}"
+}
+
+###
+# @name ClearAllCache
+# Clears the entire cache.
+# This is a protected endpoint and requires the admin API key.
+POST {{host}}/cache/clear
+Content-Type: application/json
+x-api-key: {{api_key}}
+
+{}

@@ -1,0 +1,1879 @@
+{
+  "continent": "Europe",
+  "data_year": 2024,
+  "code": "PL",
+  "fuel_types": ["Gas", "Diesel", "Hybrid"],
+  "car_brands": [
+    "BMW",
+    "Mercedes",
+    "Audi",
+    "Porsche",
+    "Volkswagen",
+    "Fiat",
+    "Alfa Romeo",
+    "Lancia",
+    "Ferrari",
+    "Lamborghini",
+    "Maserati",
+    "Renault",
+    "Peugeot",
+    "Citroen",
+    "Seat",
+    "Skoda",
+    "Volvo",
+    "Jaguar",
+    "Land Rover",
+    "Mini",
+    "Opel",
+    "DS Automobiles",
+    "Tesla",
+    "Ford",
+    "Chevrolet",
+    "Nissan",
+    "Toyota",
+    "Honda",
+    "Mazda",
+    "Hyundai",
+    "Kia",
+    "Suzuki",
+    "Subaru",
+    "Dacia",
+    "Smart",
+    "Bentley",
+    "Rolls-Royce",
+    "Aston Martin",
+    "McLaren",
+    "Cadillac",
+    "Chrysler",
+    "Jeep",
+    "Dodge",
+    "Ram",
+    "GMC",
+    "Lexus",
+    "Infiniti",
+    "Mitsubishi",
+    "Mitsuoka"
+  ],
+  "vehicle_brands": {
+    "Car": [
+      {
+        "brand": "BMW",
+        "trims": [
+          {
+            "name": "3 Series",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "5 Series",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "7 Series",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X5",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X6",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X7",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "3.0L I6 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X3",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X4",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X1",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "X2",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Z4",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Z3",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Z8",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "trims": [
+          {
+            "name": "A-Class",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.3L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "C-Class",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "E-Class",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "GLA",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.3L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "GLC",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Audi",
+        "trims": [
+          {
+            "name": "A3",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "A4",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Q3",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Q5",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Porsche",
+        "trims": [
+          {
+            "name": "911",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "3.0L Flat-6 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Macan",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Cayenne",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "3.0L V6 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Volkswagen",
+        "trims": [
+          {
+            "name": "Golf",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Polo",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "T-Roc",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.5L I4 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Tiguan",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Fiat",
+        "trims": [
+          {
+            "name": "500",
+            "fuel_types": ["Gas", "Hybrid", "Electric"],
+            "engine": {
+              "type": "1.0L I3 Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Panda",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Tipo",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.0L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "500X",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Turbo Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Alfa Romeo",
+        "trims": [
+          {
+            "name": "Giulia",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Stelvio",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Tonale",
+            "fuel_types": ["Hybrid", "Diesel"],
+            "engine": {
+              "type": "1.5L I4 Turbo Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Lancia",
+        "trims": [
+          {
+            "name": "Ypsilon",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Delta",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Musa",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Ferrari",
+        "trims": [
+          {
+            "name": "SF90 Stradale",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "296 GTB",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "3.0L V6 Twin-Turbo Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Roma",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "3.9L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "812 Superfast",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Lamborghini",
+        "trims": [
+          {
+            "name": "Urus",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Huracan",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "5.2L V10",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Revuelto",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "6.5L V12 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Maserati",
+        "trims": [
+          {
+            "name": "Grecale",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Levante",
+            "fuel_types": ["Gas", "Hybrid", "Diesel"],
+            "engine": {
+              "type": "3.0L V6 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Renault",
+        "trims": [
+          {
+            "name": "Clio",
+            "fuel_types": ["Gas", "Hybrid", "Diesel"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Captur",
+            "fuel_types": ["Gas", "Hybrid", "Diesel"],
+            "engine": {
+              "type": "1.3L I4",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Arkana",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.6L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Peugeot",
+        "trims": [
+          {
+            "name": "208",
+            "fuel_types": ["Gas", "Diesel", "Electric"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "2008",
+            "fuel_types": ["Gas", "Diesel", "Electric"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "3008",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Citroen",
+        "trims": [
+          {
+            "name": "C3",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "C3 Aircross",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "C5 Aircross",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Seat",
+        "trims": [
+          {
+            "name": "Ibiza",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Arona",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.0L I3 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Leon",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Skoda",
+        "trims": [
+          {
+            "name": "Octavia",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Kamiq",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.0L I3 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Karoq",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.5L I4 TSI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Volvo",
+        "trims": [
+          {
+            "name": "XC40",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.5L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "XC60",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "XC90",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "XC70",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Turbo",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Jaguar",
+        "trims": [
+          {
+            "name": "E-Pace",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "F-Pace",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Land Rover",
+        "trims": [
+          {
+            "name": "Range Rover Evoque",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Discovery Sport",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Defender",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "3.0L I6 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Mini",
+        "trims": [
+          {
+            "name": "Cooper",
+            "fuel_types": ["Gas", "Electric"],
+            "engine": {
+              "type": "1.5L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Countryman",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.5L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Opel",
+        "trims": [
+          {
+            "name": "Corsa",
+            "fuel_types": ["Gas", "Diesel", "Electric"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Mokka",
+            "fuel_types": ["Gas", "Diesel", "Electric"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "DS Automobiles",
+        "trims": [
+          {
+            "name": "DS 3 Crossback",
+            "fuel_types": ["Gas", "Diesel", "Electric"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "DS 7 Crossback",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Tesla",
+        "trims": [
+          {
+            "name": "Model 3",
+            "fuel_types": ["Electric"],
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Model Y",
+            "fuel_types": ["Electric"],
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Ford",
+        "trims": [
+          {
+            "name": "Puma",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 EcoBoost Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Kuga",
+            "fuel_types": ["Hybrid", "Diesel"],
+            "engine": {
+              "type": "2.5L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Focus",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 EcoBoost",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Chevrolet",
+        "trims": [
+          {
+            "name": "Aveo",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.2L I4",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Spark",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Nissan",
+        "trims": [
+          {
+            "name": "Qashqai",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.3L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Juke",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Micra",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Yaris",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.5L I3 Hybrid",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Yaris Cross",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.5L I3 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "C-HR",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.8L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Honda",
+        "trims": [
+          {
+            "name": "HR-V",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Jazz",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Mazda",
+        "trims": [
+          {
+            "name": "CX-30",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Skyactiv-G",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Mazda2",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.5L I4 Skyactiv-G",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Hyundai",
+        "trims": [
+          {
+            "name": "Tucson",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.6L I4 CRDi",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "i20",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 T-GDi",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Kona",
+            "fuel_types": ["Gas", "Hybrid", "Electric"],
+            "engine": {
+              "type": "1.0L I3 T-GDi",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Kia",
+        "trims": [
+          {
+            "name": "Sportage",
+            "fuel_types": ["Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.6L I4 CRDi",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Stonic",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 T-GDi",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Picanto",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Suzuki",
+        "trims": [
+          {
+            "name": "Swift",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.2L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Vitara",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.4L I4 Turbo Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Ignis",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "1.2L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Subaru",
+        "trims": [
+          {
+            "name": "XV",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.0L Flat-4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Forester",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.0L Flat-4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Dacia",
+        "trims": [
+          {
+            "name": "Sandero",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.0L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Duster",
+            "fuel_types": ["Gas", "Diesel"],
+            "engine": {
+              "type": "1.0L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Jogger",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Smart",
+        "trims": [
+          {
+            "name": "EQ fortwo",
+            "fuel_types": ["Electric"],
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "#1",
+            "fuel_types": ["Electric"],
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Bentley",
+        "trims": [
+          {
+            "name": "Bentayga",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Continental GT",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Rolls-Royce",
+        "trims": [
+          {
+            "name": "Cullinan",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "6.75L V12 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Ghost",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "6.75L V12 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Aston Martin",
+        "trims": [
+          {
+            "name": "DBX",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Vantage",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "McLaren",
+        "trims": [
+          {
+            "name": "Artura",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "3.0L V6 Twin-Turbo Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "720S",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Cadillac",
+        "trims": [
+          {
+            "name": "XT4",
+            "fuel_types": ["Diesel"],
+            "engine": {
+              "type": "2.0L I4 Turbo Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Chrysler",
+        "trims": []
+      },
+      {
+        "brand": "Jeep",
+        "trims": [
+          {
+            "name": "Renegade",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Compass",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.3L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Avenger",
+            "fuel_types": ["Gas", "Electric"],
+            "engine": {
+              "type": "1.2L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Dodge",
+        "trims": [
+          {
+            "name": "Challenger",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "3.6L V6",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Charger",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "3.6L V6",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Ram",
+        "trims": [
+          {
+            "name": "1500",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "5.7L V8 HEMI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "GMC",
+        "trims": []
+      },
+      {
+        "brand": "Lexus",
+        "trims": [
+          {
+            "name": "UX",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "NX",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.5L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Infiniti",
+        "trims": []
+      },
+      {
+        "brand": "Mitsubishi",
+        "trims": [
+          {
+            "name": "Space Star",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Eclipse Cross",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.4L I4 PHEV",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Smart",
+        "trims": [
+          {
+            "name": "EQ fortwo",
+            "fuel_types": ["Electric"],
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "#1",
+            "fuel_types": ["Electric"],
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Bentley",
+        "trims": [
+          {
+            "name": "Bentayga",
+            "fuel_types": ["Gas", "Hybrid"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Continental GT",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Rolls-Royce",
+        "trims": [
+          {
+            "name": "Cullinan",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "6.75L V12 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Ghost",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "6.75L V12 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Aston Martin",
+        "trims": [
+          {
+            "name": "DBX",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "Vantage",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "McLaren",
+        "trims": [
+          {
+            "name": "Artura",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "3.0L V6 Twin-Turbo Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "720S",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "4.0L V8 Twin-Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Cadillac",
+        "trims": [
+          {
+            "name": "XT4",
+            "fuel_types": ["Diesel"],
+            "engine": {
+              "type": "2.0L I4 Turbo Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Chrysler",
+        "trims": []
+      },
+      {
+        "brand": "Jeep",
+        "trims": [
+          {
+            "name": "Renegade",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.0L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Compass",
+            "fuel_types": ["Gas", "Diesel", "Hybrid"],
+            "engine": {
+              "type": "1.3L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Avenger",
+            "fuel_types": ["Gas", "Electric"],
+            "engine": {
+              "type": "1.2L I3 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Dodge",
+        "trims": [
+          {
+            "name": "Challenger",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "3.6L V6",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Charger",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "3.6L V6",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Ram",
+        "trims": [
+          {
+            "name": "1500",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "5.7L V8 HEMI",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "GMC",
+        "trims": []
+      },
+      {
+        "brand": "Lexus",
+        "trims": [
+          {
+            "name": "UX",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.0L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "true"
+          },
+          {
+            "name": "NX",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.5L I4 Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "true"
+          }
+        ]
+      },
+      {
+        "brand": "Infiniti",
+        "trims": []
+      },
+      {
+        "brand": "Mitsubishi",
+        "trims": [
+          {
+            "name": "Space Star",
+            "fuel_types": ["Gas"],
+            "engine": {
+              "type": "1.2L I3",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          },
+          {
+            "name": "Eclipse Cross",
+            "fuel_types": ["Hybrid"],
+            "engine": {
+              "type": "2.4L I4 PHEV",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
+          }
+        ]
+      },
+      {
+        "brand": "Mitsuoka",
+        "trims": []
+      }
+    ]
+  }
+}

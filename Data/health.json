@@ -1,0 +1,22 @@
+{
+    "health": {
+        "get": {
+        "tags": ["Health"],
+        "summary": "Check API Health",
+        "description": "Endpoint to check if the API is running.",
+        "responses": {
+            "200": {
+            "description": "A confirmation message that the API is running.",
+            "content": {
+                "text/plain": {
+                "schema": {
+                    "type": "string",
+                    "example": "API is running. Please specify a valid endpoint."
+                }
+                }
+            }
+            }
+        }
+        }
+    }
+}

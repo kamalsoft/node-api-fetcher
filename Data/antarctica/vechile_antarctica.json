@@ -1,0 +1,36 @@
+{
+  "region": "Antarctica",
+  "sub-region": "",
+  "data_year": 2024,
+  "fuel_types": ["Diesel", "Gas"],
+  "vehicle_brands": {
+    "Car": [],
+    "Truck": [
+      {
+        "brand": "Toyota",
+        "trims": [
+          {
+            "name": "Hilux (modified)",
+            "fuel_types": ["Diesel"],
+            "engine": "3.0L I4 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "0W-30"
+          }
+        ]
+      },
+      {
+        "brand": "Hägglunds",
+        "trims": [
+          {
+            "name": "Bandvagn 206",
+            "fuel_types": ["Diesel"],
+            "engine": "2.8L I5 Diesel",
+            "premium": "false",
+            "preffered_engine_oil": "15W-40"
+          }
+        ]
+      }
+    ],
+    "Bus": []
+  }
+}

@@ -1,0 +1,4810 @@
+[
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Andorra la Vella",
+    "isd_code": "+376",
+    "languages": ["ca"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate; snowy, cold winters and warm, dry summers.",
+    "seasons": {
+      "summer": {
+        "centigrade": "15-25°C",
+        "fahrenheit": "59-77°F"
+      },
+      "winter": {
+        "centigrade": "-2-5°C",
+        "fahrenheit": "28-41°F"
+      },
+      "spring": {
+        "centigrade": "5-15°C",
+        "fahrenheit": "41-59°F"
+      },
+      "autumn": {
+        "centigrade": "5-15°C",
+        "fahrenheit": "41-59°F"
+      }
+    }
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Abu Dhabi",
+    "isd_code": "+971",
+    "languages": ["ar"],
+    "currency": {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "د.إ"
+    },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Desert; cooler in eastern mountains.",
+    "seasons": {
+      "summer": {
+        "centigrade": "30-45°C",
+        "fahrenheit": "86-113°F"
+      },
+      "winter": {
+        "centigrade": "15-25°C",
+        "fahrenheit": "59-77°F"
+      },
+      "spring": {
+        "centigrade": "22-35°C",
+        "fahrenheit": "72-95°F"
+      },
+      "autumn": {
+        "centigrade": "25-38°C",
+        "fahrenheit": "77-100°F"
+      }
+    }
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Kabul",
+    "isd_code": "+93",
+    "languages": ["ps", "uz", "tk"],
+    "currency": { "code": "AFN", "name": "Afghan afghani", "symbol": "؋" },
+    "timezone": ["UTC+04:30"],
+    "climatic_condition": "Arid to semiarid; cold winters and hot summers.",
+    "seasons": {
+      "summer": {
+        "centigrade": "20-35°C",
+        "fahrenheit": "68-95°F"
+      },
+      "winter": {
+        "centigrade": "-5-5°C",
+        "fahrenheit": "23-41°F"
+      },
+      "spring": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      },
+      "autumn": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      }
+    }
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Saint John's",
+    "isd_code": "+1-268",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical maritime; little seasonal temperature variation.",
+    "seasons": {
+      "summer": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "winter": {
+        "centigrade": "22-28°C",
+        "fahrenheit": "72-82°F"
+      },
+      "spring": {
+        "centigrade": "24-29°C",
+        "fahrenheit": "75-84°F"
+      },
+      "autumn": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      }
+    }
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "The Valley",
+    "isd_code": "+1-264",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; moderated by northeast trade winds.",
+    "seasons": {
+      "summer": {
+        "centigrade": "26-31°C",
+        "fahrenheit": "79-88°F"
+      },
+      "winter": {
+        "centigrade": "23-28°C",
+        "fahrenheit": "73-82°F"
+      },
+      "spring": {
+        "centigrade": "24-29°C",
+        "fahrenheit": "75-84°F"
+      },
+      "autumn": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      }
+    }
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Tirana",
+    "isd_code": "+355",
+    "languages": ["sq"],
+    "currency": { "code": "ALL", "name": "Albanian lek", "symbol": "L" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter.",
+    "seasons": {
+      "summer": {
+        "centigrade": "20-30°C",
+        "fahrenheit": "68-86°F"
+      },
+      "winter": {
+        "centigrade": "2-10°C",
+        "fahrenheit": "36-50°F"
+      },
+      "spring": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      },
+      "autumn": {
+        "centigrade": "12-22°C",
+        "fahrenheit": "54-72°F"
+      }
+    }
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Yerevan",
+    "isd_code": "+374",
+    "languages": ["hy", "ru"],
+    "currency": { "code": "AMD", "name": "Armenian dram", "symbol": "֏" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Highland continental, hot summers, cold winters.",
+    "seasons": {
+      "summer": {
+        "centigrade": "18-30°C",
+        "fahrenheit": "64-86°F"
+      },
+      "winter": {
+        "centigrade": "-5-5°C",
+        "fahrenheit": "23-41°F"
+      },
+      "spring": {
+        "centigrade": "7-18°C",
+        "fahrenheit": "45-64°F"
+      },
+      "autumn": {
+        "centigrade": "8-20°C",
+        "fahrenheit": "46-68°F"
+      }
+    }
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Luanda",
+    "isd_code": "+244",
+    "languages": ["pt"],
+    "currency": { "code": "AOA", "name": "Angolan kwanza", "symbol": "Kz" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Semiarid in south and along coast to Luanda; north has a cool, dry season and a hot, rainy season.",
+    "seasons": {
+      "summer": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "winter": {
+        "centigrade": "20-25°C",
+        "fahrenheit": "68-77°F"
+      },
+      "spring": {
+        "centigrade": "22-28°C",
+        "fahrenheit": "72-82°F"
+      },
+      "autumn": {
+        "centigrade": "23-29°C",
+        "fahrenheit": "73-84°F"
+      }
+    }
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "region": "Antarctic",
+    "sub-region": "",
+    "capital": "",
+    "isd_code": "+672",
+    "languages": [],
+    "currency": { "code": "", "name": "", "symbol": "" },
+    "timezone": [
+      "UTC-03:00",
+      "UTC+00:00",
+      "UTC+02:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "climatic_condition": "Severe low temperatures; varies with latitude, elevation, and distance from the ocean.",
+    "seasons": {
+      "summer": {
+        "centigrade": "-25-0°C",
+        "fahrenheit": "-13-32°F"
+      },
+      "winter": {
+        "centigrade": "-60--30°C",
+        "fahrenheit": "-76--22°F"
+      },
+      "spring": {
+        "centigrade": "-50--20°C",
+        "fahrenheit": "-58--4°F"
+      },
+      "autumn": {
+        "centigrade": "-50--20°C",
+        "fahrenheit": "-58--4°F"
+      }
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Buenos Aires",
+    "isd_code": "+54",
+    "languages": ["es", "gn"],
+    "currency": { "code": "ARS", "name": "Argentine peso", "symbol": "$" },
+    "timezone": ["UTC-03:00"],
+    "climatic_condition": "Mostly temperate; arid in southeast; subantarctic in southwest.",
+    "seasons": {
+      "summer": {
+        "centigrade": "20-30°C",
+        "fahrenheit": "68-86°F"
+      },
+      "winter": {
+        "centigrade": "5-15°C",
+        "fahrenheit": "41-59°F"
+      },
+      "spring": {
+        "centigrade": "12-22°C",
+        "fahrenheit": "54-72°F"
+      },
+      "autumn": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      }
+    }
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Pago Pago",
+    "isd_code": "+1-684",
+    "languages": ["en", "sm"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-11:00"],
+    "climatic_condition": "Tropical marine, moderated by southeast trade winds; rainy season (November to April), dry season (May to October).",
+    "seasons": {
+      "summer": {
+        "centigrade": "26-31°C",
+        "fahrenheit": "79-88°F"
+      },
+      "winter": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "spring": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "autumn": {
+        "centigrade": "26-31°C",
+        "fahrenheit": "79-88°F"
+      }
+    }
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Vienna",
+    "isd_code": "+43",
+    "languages": ["de"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate; continental, cloudy; cold winters with frequent rain; cool summers with occasional showers.",
+    "seasons": {
+      "summer": {
+        "centigrade": "15-25°C",
+        "fahrenheit": "59-77°F"
+      },
+      "winter": {
+        "centigrade": "-3-4°C",
+        "fahrenheit": "27-39°F"
+      },
+      "spring": {
+        "centigrade": "5-15°C",
+        "fahrenheit": "41-59°F"
+      },
+      "autumn": {
+        "centigrade": "6-14°C",
+        "fahrenheit": "43-57°F"
+      }
+    }
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "region": "Oceania",
+    "sub-region": "Australia and New Zealand",
+    "capital": "Canberra",
+    "isd_code": "+61",
+    "languages": ["en"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+    "timezone": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ],
+    "climatic_condition": "Generally arid to semiarid; temperate in south and east; tropical in north.",
+    "seasons": {
+      "summer": {
+        "centigrade": "20-35°C",
+        "fahrenheit": "68-95°F"
+      },
+      "winter": {
+        "centigrade": "5-20°C",
+        "fahrenheit": "41-68°F"
+      },
+      "spring": {
+        "centigrade": "15-25°C",
+        "fahrenheit": "59-77°F"
+      },
+      "autumn": {
+        "centigrade": "10-25°C",
+        "fahrenheit": "50-77°F"
+      }
+    }
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Oranjestad",
+    "isd_code": "+297",
+    "languages": ["nl", "pa"],
+    "currency": { "code": "AWG", "name": "Aruban florin", "symbol": "ƒ" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical marine; little seasonal temperature variation.",
+    "seasons": {
+      "summer": {
+        "centigrade": "27-32°C",
+        "fahrenheit": "81-90°F"
+      },
+      "winter": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "spring": {
+        "centigrade": "26-31°C",
+        "fahrenheit": "79-88°F"
+      },
+      "autumn": {
+        "centigrade": "26-32°C",
+        "fahrenheit": "79-90°F"
+      }
+    }
+  },
+  {
+    "code": "AX",
+    "name": "Åland Islands",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Mariehamn",
+    "isd_code": "+358",
+    "languages": ["sv"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Continental with mild summers and cold winters.",
+    "seasons": {
+      "summer": {
+        "centigrade": "15-20°C",
+        "fahrenheit": "59-68°F"
+      },
+      "winter": {
+        "centigrade": "-5-0°C",
+        "fahrenheit": "23-32°F"
+      },
+      "spring": {
+        "centigrade": "2-10°C",
+        "fahrenheit": "36-50°F"
+      },
+      "autumn": {
+        "centigrade": "5-12°C",
+        "fahrenheit": "41-54°F"
+      }
+    }
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Baku",
+    "isd_code": "+994",
+    "languages": ["az"],
+    "currency": { "code": "AZN", "name": "Azerbaijani manat", "symbol": "₼" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Dry, semiarid steppe.",
+    "seasons": {
+      "summer": {
+        "centigrade": "22-32°C",
+        "fahrenheit": "72-90°F"
+      },
+      "winter": {
+        "centigrade": "2-8°C",
+        "fahrenheit": "36-46°F"
+      },
+      "spring": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      },
+      "autumn": {
+        "centigrade": "12-22°C",
+        "fahrenheit": "54-72°F"
+      }
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Sarajevo",
+    "isd_code": "+387",
+    "languages": ["bs", "hr", "sr"],
+    "currency": {
+      "code": "BAM",
+      "name": "Bosnia and Herzegovina convertible mark",
+      "symbol": "KM"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters.",
+    "seasons": {
+      "summer": {
+        "centigrade": "18-28°C",
+        "fahrenheit": "64-82°F"
+      },
+      "winter": {
+        "centigrade": "-2-5°C",
+        "fahrenheit": "28-41°F"
+      },
+      "spring": {
+        "centigrade": "8-18°C",
+        "fahrenheit": "46-64°F"
+      },
+      "autumn": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      }
+    }
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Bridgetown",
+    "isd_code": "+1-246",
+    "languages": ["en"],
+    "currency": { "code": "BBD", "name": "Barbadian dollar", "symbol": "$" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; rainy season (June to October).",
+    "seasons": {
+      "summer": {
+        "centigrade": "26-31°C",
+        "fahrenheit": "79-88°F"
+      },
+      "winter": {
+        "centigrade": "24-29°C",
+        "fahrenheit": "75-84°F"
+      },
+      "spring": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "autumn": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      }
+    }
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Dhaka",
+    "isd_code": "+880",
+    "languages": ["bn"],
+    "currency": { "code": "BDT", "name": "Bangladeshi taka", "symbol": "৳" },
+    "timezone": ["UTC+06:00"],
+    "climatic_condition": "Tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October).",
+    "seasons": {
+      "summer": {
+        "centigrade": "28-35°C",
+        "fahrenheit": "82-95°F"
+      },
+      "winter": {
+        "centigrade": "15-25°C",
+        "fahrenheit": "59-77°F"
+      },
+      "spring": {
+        "centigrade": "25-34°C",
+        "fahrenheit": "77-93°F"
+      },
+      "autumn": {
+        "centigrade": "25-32°C",
+        "fahrenheit": "77-90°F"
+      }
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Brussels",
+    "isd_code": "+32",
+    "languages": ["nl", "fr", "de"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate; mild winters, cool summers; rainy, humid, cloudy.",
+    "seasons": {
+      "summer": {
+        "centigrade": "14-23°C",
+        "fahrenheit": "57-73°F"
+      },
+      "winter": {
+        "centigrade": "1-6°C",
+        "fahrenheit": "34-43°F"
+      },
+      "spring": {
+        "centigrade": "6-15°C",
+        "fahrenheit": "43-59°F"
+      },
+      "autumn": {
+        "centigrade": "7-14°C",
+        "fahrenheit": "45-57°F"
+      }
+    }
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Ouagadougou",
+    "isd_code": "+226",
+    "languages": ["fr", "ff"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; warm, dry winters; hot, wet summers.",
+    "seasons": {
+      "summer": {
+        "centigrade": "25-35°C",
+        "fahrenheit": "77-95°F"
+      },
+      "winter": {
+        "centigrade": "20-30°C",
+        "fahrenheit": "68-86°F"
+      },
+      "spring": {
+        "centigrade": "28-40°C",
+        "fahrenheit": "82-104°F"
+      },
+      "autumn": {
+        "centigrade": "25-35°C",
+        "fahrenheit": "77-95°F"
+      }
+    }
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Sofia",
+    "isd_code": "+359",
+    "languages": ["bg"],
+    "currency": { "code": "BGN", "name": "Bulgarian lev", "symbol": "лв" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; cold, damp winters; hot, dry summers.",
+    "seasons": {
+      "summer": {
+        "centigrade": "18-28°C",
+        "fahrenheit": "64-82°F"
+      },
+      "winter": {
+        "centigrade": "-2-5°C",
+        "fahrenheit": "28-41°F"
+      },
+      "spring": {
+        "centigrade": "8-18°C",
+        "fahrenheit": "46-64°F"
+      },
+      "autumn": {
+        "centigrade": "10-20°C",
+        "fahrenheit": "50-68°F"
+      }
+    }
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Manama",
+    "isd_code": "+973",
+    "languages": ["ar"],
+    "currency": { "code": "BHD", "name": "Bahraini dinar", "symbol": ".د.ب" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Arid; mild, pleasant winters; very hot, humid summers.",
+    "seasons": {
+      "summer": {
+        "centigrade": "30-40°C",
+        "fahrenheit": "86-104°F"
+      },
+      "winter": {
+        "centigrade": "15-22°C",
+        "fahrenheit": "59-72°F"
+      },
+      "spring": {
+        "centigrade": "22-32°C",
+        "fahrenheit": "72-90°F"
+      },
+      "autumn": {
+        "centigrade": "25-35°C",
+        "fahrenheit": "77-95°F"
+      }
+    }
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Bujumbura",
+    "isd_code": "+257",
+    "languages": ["fr", "rn"],
+    "currency": { "code": "BIF", "name": "Burundian franc", "symbol": "Fr" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Equatorial; high plateau with considerable altitude variation; temperature varies with altitude.",
+    "seasons": {
+      "summer": {
+        "centigrade": "18-28°C",
+        "fahrenheit": "64-82°F"
+      },
+      "winter": {
+        "centigrade": "17-27°C",
+        "fahrenheit": "63-81°F"
+      },
+      "spring": {
+        "centigrade": "18-28°C",
+        "fahrenheit": "64-82°F"
+      },
+      "autumn": {
+        "centigrade": "18-28°C",
+        "fahrenheit": "64-82°F"
+      }
+    }
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Porto-Novo",
+    "isd_code": "+229",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Tropical; hot, humid in south; semiarid in north.",
+    "seasons": {
+      "summer": {
+        "centigrade": "25-32°C",
+        "fahrenheit": "77-90°F"
+      },
+      "winter": {
+        "centigrade": "24-31°C",
+        "fahrenheit": "75-88°F"
+      },
+      "spring": {
+        "centigrade": "26-35°C",
+        "fahrenheit": "79-95°F"
+      },
+      "autumn": {
+        "centigrade": "25-32°C",
+        "fahrenheit": "77-90°F"
+      }
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Gustavia",
+    "isd_code": "+590",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical, with practically no temperature variation.",
+    "seasons": {
+      "summer": {
+        "centigrade": "27-32°C",
+        "fahrenheit": "81-90°F"
+      },
+      "winter": {
+        "centigrade": "24-29°C",
+        "fahrenheit": "75-84°F"
+      },
+      "spring": {
+        "centigrade": "25-30°C",
+        "fahrenheit": "77-86°F"
+      },
+      "autumn": {
+        "centigrade": "26-31°C",
+        "fahrenheit": "79-88°F"
+      }
+    }
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "region": "Americas",
+    "sub-region": "Northern America",
+    "capital": "Hamilton",
+    "isd_code": "+1-441",
+    "languages": ["en"],
+    "currency": { "code": "BMD", "name": "Bermudian dollar", "symbol": "$" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Subtropical; mild, humid; gales, strong winds common in winter.",
+    "seasons": {
+      "summer": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "winter": { "centigrade": "18-22°C", "fahrenheit": "64-72°F" },
+      "spring": { "centigrade": "20-24°C", "fahrenheit": "68-75°F" },
+      "autumn": { "centigrade": "22-26°C", "fahrenheit": "72-79°F" }
+    }
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Bandar Seri Begawan",
+    "isd_code": "+673",
+    "languages": ["ms"],
+    "currency": { "code": "BND", "name": "Brunei dollar", "symbol": "$" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Tropical; hot, humid, and rainy.",
+    "seasons": {
+      "summer": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "winter": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "spring": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "autumn": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" }
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Sucre",
+    "isd_code": "+591",
+    "languages": ["es", "ay", "qu"],
+    "currency": {
+      "code": "BOB",
+      "name": "Bolivian boliviano",
+      "symbol": "Bs."
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Varies with altitude; from humid and tropical to cold and semiarid.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" }
+    }
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Kralendijk",
+    "isd_code": "+599",
+    "languages": ["nl"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical marine with little seasonal variation.",
+    "seasons": {
+      "summer": { "centigrade": "27-32°C", "fahrenheit": "81-90°F" },
+      "winter": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "spring": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "autumn": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" }
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Brasília",
+    "isd_code": "+55",
+    "languages": ["pt"],
+    "currency": { "code": "BRL", "name": "Brazilian real", "symbol": "R$" },
+    "timezone": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"],
+    "climatic_condition": "Mostly tropical, but temperate in south.",
+    "seasons": {
+      "summer": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "winter": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" },
+      "spring": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "autumn": { "centigrade": "16-26°C", "fahrenheit": "61-79°F" }
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Nassau",
+    "isd_code": "+1-242",
+    "languages": ["en"],
+    "currency": { "code": "BSD", "name": "Bahamian dollar", "symbol": "$" },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical marine; moderated by warm waters of Gulf Stream.",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "20-26°C", "fahrenheit": "68-79°F" },
+      "spring": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Thimphu",
+    "isd_code": "+975",
+    "languages": ["dz"],
+    "currency": {
+      "code": "BTN",
+      "name": "Bhutanese ngultrum",
+      "symbol": "Nu."
+    },
+    "timezone": ["UTC+06:00"],
+    "climatic_condition": "Varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "-4-5°C", "fahrenheit": "25-41°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "8-20°C", "fahrenheit": "46-68°F" }
+    }
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "region": "Antarctic",
+    "sub-region": "",
+    "capital": "",
+    "isd_code": "+47",
+    "languages": [],
+    "currency": { "code": "NOK", "name": "Norwegian krone", "symbol": "kr" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Antarctic; weather is cold and overcast.",
+    "seasons": {
+      "summer": { "centigrade": "-1-2°C", "fahrenheit": "30-36°F" },
+      "winter": { "centigrade": "-5--3°C", "fahrenheit": "23-27°F" },
+      "spring": { "centigrade": "-3-0°C", "fahrenheit": "27-32°F" },
+      "autumn": { "centigrade": "-3-0°C", "fahrenheit": "27-32°F" }
+    }
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "region": "Africa",
+    "sub-region": "Southern Africa",
+    "capital": "Gaborone",
+    "isd_code": "+267",
+    "languages": ["en", "tn"],
+    "currency": { "code": "BWP", "name": "Botswana pula", "symbol": "P" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Semiarid; warm winters and hot summers.",
+    "seasons": {
+      "summer": { "centigrade": "22-35°C", "fahrenheit": "72-95°F" },
+      "winter": { "centigrade": "5-22°C", "fahrenheit": "41-72°F" },
+      "spring": { "centigrade": "18-32°C", "fahrenheit": "64-90°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Minsk",
+    "isd_code": "+375",
+    "languages": ["be", "ru"],
+    "currency": {
+      "code": "BYN",
+      "name": "New Belarusian ruble",
+      "symbol": "Br"
+    },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Cold winters, cool and moist summers; transitional between continental and maritime.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "-8--2°C", "fahrenheit": "18-28°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "4-12°C", "fahrenheit": "39-54°F" }
+    }
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "Belmopan",
+    "isd_code": "+501",
+    "languages": ["en", "es"],
+    "currency": { "code": "BZD", "name": "Belize dollar", "symbol": "$" },
+    "timezone": ["UTC-06:00"],
+    "climatic_condition": "Tropical; very hot and humid; rainy season (May to November); dry season (February to May).",
+    "seasons": {
+      "summer": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "winter": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "spring": { "centigrade": "22-31°C", "fahrenheit": "72-88°F" },
+      "autumn": { "centigrade": "23-30°C", "fahrenheit": "73-86°F" }
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "region": "Americas",
+    "sub-region": "Northern America",
+    "capital": "Ottawa",
+    "isd_code": "+1",
+    "languages": ["en", "fr"],
+    "currency": { "code": "CAD", "name": "Canadian dollar", "symbol": "$" },
+    "timezone": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "climatic_condition": "Varies from temperate in south to subarctic and arctic in north.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "-15--5°C", "fahrenheit": "5-23°F" },
+      "spring": { "centigrade": "2-12°C", "fahrenheit": "36-54°F" },
+      "autumn": { "centigrade": "3-13°C", "fahrenheit": "37-55°F" }
+    }
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "region": "Oceania",
+    "sub-region": "Australia and New Zealand",
+    "capital": "West Island",
+    "isd_code": "+61",
+    "languages": ["en"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+    "timezone": ["UTC+06:30"],
+    "climatic_condition": "Tropical; moderated by the southeast trade winds for about nine months of the year.",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "CD",
+    "name": "Congo, Democratic Republic of the",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Kinshasa",
+    "isd_code": "+243",
+    "languages": ["fr", "ln", "kg", "sw", "lu"],
+    "currency": { "code": "CDF", "name": "Congolese franc", "symbol": "Fr" },
+    "timezone": ["UTC+01:00", "UTC+02:00"],
+    "climatic_condition": "Tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands.",
+    "seasons": {
+      "summer": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "winter": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "spring": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "autumn": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" }
+    }
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Bangui",
+    "isd_code": "+236",
+    "languages": ["fr", "sg"],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Tropical; hot, dry winters; mild to hot, wet summers.",
+    "seasons": {
+      "summer": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "winter": { "centigrade": "20-33°C", "fahrenheit": "68-91°F" },
+      "spring": { "centigrade": "24-34°C", "fahrenheit": "75-93°F" },
+      "autumn": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" }
+    }
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Brazzaville",
+    "isd_code": "+242",
+    "languages": ["fr", "ln"],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Tropical; consistently high temperatures and humidity; rainy season (March to June); dry season (June to October).",
+    "seasons": {
+      "summer": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "winter": { "centigrade": "21-27°C", "fahrenheit": "70-81°F" },
+      "spring": { "centigrade": "23-30°C", "fahrenheit": "73-86°F" },
+      "autumn": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" }
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Bern",
+    "isd_code": "+41",
+    "languages": ["de", "fr", "it"],
+    "currency": { "code": "CHF", "name": "Swiss franc", "symbol": "Fr" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers.",
+    "seasons": {
+      "summer": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "winter": { "centigrade": "-2-7°C", "fahrenheit": "28-45°F" },
+      "spring": { "centigrade": "8-17°C", "fahrenheit": "46-63°F" },
+      "autumn": { "centigrade": "8-17°C", "fahrenheit": "46-63°F" }
+    }
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Yamoussoukro",
+    "isd_code": "+225",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October).",
+    "seasons": {
+      "summer": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" },
+      "winter": { "centigrade": "23-30°C", "fahrenheit": "73-86°F" },
+      "spring": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "autumn": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" }
+    }
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Avarua",
+    "isd_code": "+682",
+    "languages": ["en"],
+    "currency": { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+    "timezone": ["UTC-10:00"],
+    "climatic_condition": "Tropical, moderated by trade winds.",
+    "seasons": {
+      "summer": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "winter": { "centigrade": "22-27°C", "fahrenheit": "72-81°F" },
+      "spring": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" },
+      "autumn": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" }
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Santiago",
+    "isd_code": "+56",
+    "languages": ["es"],
+    "currency": { "code": "CLP", "name": "Chilean peso", "symbol": "$" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Temperate; desert in north; Mediterranean in central region; cool and damp in south.",
+    "seasons": {
+      "summer": { "centigrade": "12-29°C", "fahrenheit": "54-84°F" },
+      "winter": { "centigrade": "3-15°C", "fahrenheit": "37-59°F" },
+      "spring": { "centigrade": "8-22°C", "fahrenheit": "46-72°F" },
+      "autumn": { "centigrade": "7-20°C", "fahrenheit": "45-68°F" }
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Yaoundé",
+    "isd_code": "+237",
+    "languages": ["en", "fr"],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Varies; equatorial in south, tropical in center, semiarid in north.",
+    "seasons": {
+      "summer": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "Beijing",
+    "isd_code": "+86",
+    "languages": ["zh"],
+    "currency": { "code": "CNY", "name": "Chinese yuan", "symbol": "¥" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Extremely diverse; tropical in south to subarctic in north.",
+    "seasons": {
+      "summer": { "centigrade": "25-33°C", "fahrenheit": "77-91°F" },
+      "winter": { "centigrade": "-10-5°C", "fahrenheit": "14-41°F" },
+      "spring": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" },
+      "autumn": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" }
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Bogotá",
+    "isd_code": "+57",
+    "languages": ["es"],
+    "currency": { "code": "COP", "name": "Colombian peso", "symbol": "$" },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical along coast and eastern plains; cooler in highlands.",
+    "seasons": {
+      "summer": { "centigrade": "12-19°C", "fahrenheit": "54-66°F" },
+      "winter": { "centigrade": "12-19°C", "fahrenheit": "54-66°F" },
+      "spring": { "centigrade": "12-19°C", "fahrenheit": "54-66°F" },
+      "autumn": { "centigrade": "12-19°C", "fahrenheit": "54-66°F" }
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "San José",
+    "isd_code": "+506",
+    "languages": ["es"],
+    "currency": { "code": "CRC", "name": "Costa Rican colón", "symbol": "₡" },
+    "timezone": ["UTC-06:00"],
+    "climatic_condition": "Tropical and subtropical; dry season (December to April); rainy season (May to November).",
+    "seasons": {
+      "summer": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "winter": { "centigrade": "21-27°C", "fahrenheit": "70-81°F" },
+      "spring": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "autumn": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" }
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Havana",
+    "isd_code": "+53",
+    "languages": ["es"],
+    "currency": {
+      "code": "CUC",
+      "name": "Cuban convertible peso",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical; moderated by trade winds; dry season (November to April); rainy season (May to October).",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "20-27°C", "fahrenheit": "68-81°F" },
+      "spring": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "autumn": { "centigrade": "24-31°C", "fahrenheit": "75-88°F" }
+    }
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Praia",
+    "isd_code": "+238",
+    "languages": ["pt"],
+    "currency": {
+      "code": "CVE",
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    },
+    "timezone": ["UTC-01:00"],
+    "climatic_condition": "Temperate; warm, dry summer; precipitation meager and erratic.",
+    "seasons": {
+      "summer": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "winter": { "centigrade": "21-25°C", "fahrenheit": "70-77°F" },
+      "spring": { "centigrade": "22-26°C", "fahrenheit": "72-79°F" },
+      "autumn": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" }
+    }
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Willemstad",
+    "isd_code": "+599",
+    "languages": ["nl", "pa", "en"],
+    "currency": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical marine climate, with a wet season and a dry season.",
+    "seasons": {
+      "summer": { "centigrade": "27-32°C", "fahrenheit": "81-90°F" },
+      "winter": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "spring": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "autumn": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" }
+    }
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "region": "Oceania",
+    "sub-region": "Australia and New Zealand",
+    "capital": "Flying Fish Cove",
+    "isd_code": "+61",
+    "languages": ["en"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+    "timezone": ["UTC+07:00"],
+    "climatic_condition": "Tropical with a wet and dry season.",
+    "seasons": {
+      "summer": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "winter": { "centigrade": "23-27°C", "fahrenheit": "73-81°F" },
+      "spring": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" },
+      "autumn": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" }
+    }
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Nicosia",
+    "isd_code": "+357",
+    "languages": ["el", "tr", "hy"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; Mediterranean with hot, dry summers and cool winters.",
+    "seasons": {
+      "summer": { "centigrade": "22-38°C", "fahrenheit": "72-100°F" },
+      "winter": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Prague",
+    "isd_code": "+420",
+    "languages": ["cs"],
+    "currency": { "code": "CZK", "name": "Czech koruna", "symbol": "Kč" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate; cool summers; cold, cloudy, humid winters.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "-3-2°C", "fahrenheit": "27-36°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "6-14°C", "fahrenheit": "43-57°F" }
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Berlin",
+    "isd_code": "+49",
+    "languages": ["de"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain wind.",
+    "seasons": {
+      "summer": { "centigrade": "16-25°C", "fahrenheit": "61-77°F" },
+      "winter": { "centigrade": "-2-4°C", "fahrenheit": "28-39°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "6-14°C", "fahrenheit": "43-57°F" }
+    }
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Djibouti",
+    "isd_code": "+253",
+    "languages": ["fr", "ar"],
+    "currency": { "code": "DJF", "name": "Djiboutian franc", "symbol": "Fr" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Desert; torrid, dry.",
+    "seasons": {
+      "summer": { "centigrade": "30-45°C", "fahrenheit": "86-113°F" },
+      "winter": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" },
+      "spring": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "autumn": { "centigrade": "26-38°C", "fahrenheit": "79-100°F" }
+    }
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Copenhagen",
+    "isd_code": "+45",
+    "languages": ["da"],
+    "currency": { "code": "DKK", "name": "Danish krone", "symbol": "kr" },
+    "timezone": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00",
+      "UTC+01:00"
+    ],
+    "climatic_condition": "Temperate; humid and overcast; mild, windy winters and cool summers.",
+    "seasons": {
+      "summer": { "centigrade": "15-22°C", "fahrenheit": "59-72°F" },
+      "winter": { "centigrade": "-1-4°C", "fahrenheit": "30-39°F" },
+      "spring": { "centigrade": "5-12°C", "fahrenheit": "41-54°F" },
+      "autumn": { "centigrade": "8-15°C", "fahrenheit": "46-59°F" }
+    }
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Roseau",
+    "isd_code": "+1-767",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; hot, humid; rainy season (May to November).",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" }
+    }
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Santo Domingo",
+    "isd_code": "+1-809",
+    "languages": ["es"],
+    "currency": { "code": "DOP", "name": "Dominican peso", "symbol": "$" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical maritime; little seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "Algiers",
+    "isd_code": "+213",
+    "languages": ["ar"],
+    "currency": { "code": "DZD", "name": "Algerian dinar", "symbol": "د.ج" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau.",
+    "seasons": {
+      "summer": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "winter": { "centigrade": "8-15°C", "fahrenheit": "46-59°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" }
+    }
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Quito",
+    "isd_code": "+593",
+    "languages": ["es"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-05:00", "UTC-06:00"],
+    "climatic_condition": "Tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands.",
+    "seasons": {
+      "summer": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "winter": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" }
+    }
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Tallinn",
+    "isd_code": "+372",
+    "languages": ["et"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Maritime, wet, with moderate winters and cool summers.",
+    "seasons": {
+      "summer": { "centigrade": "15-20°C", "fahrenheit": "59-68°F" },
+      "winter": { "centigrade": "-5-0°C", "fahrenheit": "23-32°F" },
+      "spring": { "centigrade": "2-10°C", "fahrenheit": "36-50°F" },
+      "autumn": { "centigrade": "5-12°C", "fahrenheit": "41-54°F" }
+    }
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "Cairo",
+    "isd_code": "+20",
+    "languages": ["ar"],
+    "currency": { "code": "EGP", "name": "Egyptian pound", "symbol": "£" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Desert; hot, dry summers with moderate winters.",
+    "seasons": {
+      "summer": { "centigrade": "22-40°C", "fahrenheit": "72-104°F" },
+      "winter": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "spring": { "centigrade": "15-30°C", "fahrenheit": "59-86°F" },
+      "autumn": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" }
+    }
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "El Aaiún",
+    "isd_code": "+212",
+    "languages": ["es"],
+    "currency": { "code": "MAD", "name": "Moroccan dirham", "symbol": "د.م." },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew.",
+    "seasons": {
+      "summer": { "centigrade": "25-40°C", "fahrenheit": "77-104°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "autumn": { "centigrade": "22-35°C", "fahrenheit": "72-95°F" }
+    }
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Asmara",
+    "isd_code": "+291",
+    "languages": ["ti", "ar", "en"],
+    "currency": { "code": "ERN", "name": "Eritrean nakfa", "symbol": "Nfk" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands.",
+    "seasons": {
+      "summer": { "centigrade": "17-27°C", "fahrenheit": "63-81°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "17-27°C", "fahrenheit": "63-81°F" },
+      "autumn": { "centigrade": "16-26°C", "fahrenheit": "61-79°F" }
+    }
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Madrid",
+    "isd_code": "+34",
+    "languages": ["es"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+00:00", "UTC+01:00"],
+    "climatic_condition": "Temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "2-10°C", "fahrenheit": "36-50°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" }
+    }
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Addis Ababa",
+    "isd_code": "+251",
+    "languages": ["am"],
+    "currency": { "code": "ETB", "name": "Ethiopian birr", "symbol": "Br" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Tropical monsoon with wide topographic-induced variation.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" }
+    }
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Helsinki",
+    "isd_code": "+358",
+    "languages": ["fi", "sv"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes.",
+    "seasons": {
+      "summer": { "centigrade": "15-22°C", "fahrenheit": "59-72°F" },
+      "winter": { "centigrade": "-8--2°C", "fahrenheit": "18-28°F" },
+      "spring": { "centigrade": "2-10°C", "fahrenheit": "36-50°F" },
+      "autumn": { "centigrade": "3-10°C", "fahrenheit": "37-50°F" }
+    }
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "region": "Oceania",
+    "sub-region": "Melanesia",
+    "capital": "Suva",
+    "isd_code": "+679",
+    "languages": ["en", "fj", "hi", "ur"],
+    "currency": { "code": "FJD", "name": "Fijian dollar", "symbol": "$" },
+    "timezone": ["UTC+12:00"],
+    "climatic_condition": "Tropical marine; only slight seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "24-31°C", "fahrenheit": "75-88°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" },
+      "autumn": { "centigrade": "23-30°C", "fahrenheit": "73-86°F" }
+    }
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Stanley",
+    "isd_code": "+500",
+    "languages": ["en"],
+    "currency": {
+      "code": "FKP",
+      "name": "Falkland Islands pound",
+      "symbol": "£"
+    },
+    "timezone": ["UTC-03:00"],
+    "climatic_condition": "Cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year.",
+    "seasons": {
+      "summer": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "winter": { "centigrade": "0-5°C", "fahrenheit": "32-41°F" },
+      "spring": { "centigrade": "2-10°C", "fahrenheit": "36-50°F" },
+      "autumn": { "centigrade": "2-10°C", "fahrenheit": "36-50°F" }
+    }
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia, Federated States of",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "Palikir",
+    "isd_code": "+691",
+    "languages": ["en"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Tórshavn",
+    "isd_code": "+298",
+    "languages": ["fo"],
+    "currency": { "code": "DKK", "name": "Danish krone", "symbol": "kr" }
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Paris",
+    "isd_code": "+33",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Libreville",
+    "isd_code": "+241",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Tropical; always hot, humid.",
+    "seasons": {
+      "summer": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" },
+      "winter": { "centigrade": "23-27°C", "fahrenheit": "73-81°F" },
+      "spring": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "autumn": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" }
+    }
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "London",
+    "isd_code": "+44",
+    "languages": ["en"],
+    "currency": { "code": "GBP", "name": "British pound", "symbol": "£" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "2-7°C", "fahrenheit": "36-45°F" },
+      "spring": { "centigrade": "8-15°C", "fahrenheit": "46-59°F" },
+      "autumn": { "centigrade": "8-15°C", "fahrenheit": "46-59°F" }
+    }
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "St. George's",
+    "isd_code": "+1-473",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; tempered by northeast trade winds.",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Tbilisi",
+    "isd_code": "+995",
+    "languages": ["ka"],
+    "currency": { "code": "GEL", "name": "Georgian Lari", "symbol": "ლ" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Warm and pleasant; Mediterranean-like on the Black Sea coast.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "2-8°C", "fahrenheit": "36-46°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" }
+    }
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Cayenne",
+    "isd_code": "+594",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC-03:00"],
+    "climatic_condition": "Tropical; hot, humid; little seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-29°C", "fahrenheit": "77-84°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "St. Peter Port",
+    "isd_code": "+44",
+    "languages": ["en", "fr"],
+    "currency": { "code": "GBP", "name": "British pound", "symbol": "£" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Temperate with mild winters and cool summers.",
+    "seasons": {
+      "summer": { "centigrade": "15-20°C", "fahrenheit": "59-68°F" },
+      "winter": { "centigrade": "6-9°C", "fahrenheit": "43-48°F" },
+      "spring": { "centigrade": "8-14°C", "fahrenheit": "46-57°F" },
+      "autumn": { "centigrade": "10-16°C", "fahrenheit": "50-61°F" }
+    }
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Accra",
+    "isd_code": "+233",
+    "languages": ["en"],
+    "currency": { "code": "GHS", "name": "Ghanaian cedi", "symbol": "₵" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north.",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "spring": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Gibraltar",
+    "isd_code": "+350",
+    "languages": ["en"],
+    "currency": { "code": "GIP", "name": "Gibraltar pound", "symbol": "£" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Mediterranean with mild winters and warm summers.",
+    "seasons": {
+      "summer": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "winter": { "centigrade": "10-15°C", "fahrenheit": "50-59°F" },
+      "spring": { "centigrade": "14-20°C", "fahrenheit": "57-68°F" },
+      "autumn": { "centigrade": "16-22°C", "fahrenheit": "61-72°F" }
+    }
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "region": "Americas",
+    "sub-region": "Northern America",
+    "capital": "Nuuk",
+    "isd_code": "+299",
+    "languages": ["kl"],
+    "currency": { "code": "DKK", "name": "Danish krone", "symbol": "kr" },
+    "timezone": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC+00:00"],
+    "climatic_condition": "Arctic to subarctic; cool summers, cold winters.",
+    "seasons": {
+      "summer": { "centigrade": "5-10°C", "fahrenheit": "41-50°F" },
+      "winter": { "centigrade": "-20--5°C", "fahrenheit": "-4-23°F" },
+      "spring": { "centigrade": "-10-0°C", "fahrenheit": "14-32°F" },
+      "autumn": { "centigrade": "-5-5°C", "fahrenheit": "23-41°F" }
+    }
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Banjul",
+    "isd_code": "+220",
+    "languages": ["en"],
+    "currency": { "code": "GMD", "name": "Gambian dalasi", "symbol": "D" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, rainy season (June to November); cooler, dry season (November to May).",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "24-35°C", "fahrenheit": "75-95°F" },
+      "autumn": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" }
+    }
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Conakry",
+    "isd_code": "+224",
+    "languages": ["fr", "ff"],
+    "currency": { "code": "GNF", "name": "Guinean franc", "symbol": "Fr" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds.",
+    "seasons": {
+      "summer": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" },
+      "winter": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "spring": { "centigrade": "24-34°C", "fahrenheit": "75-93°F" },
+      "autumn": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" }
+    }
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Basse-Terre",
+    "isd_code": "+590",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Subtropical tempered by trade winds; moderately high humidity.",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "22-29°C", "fahrenheit": "72-84°F" },
+      "spring": { "centigrade": "23-30°C", "fahrenheit": "73-86°F" },
+      "autumn": { "centigrade": "24-31°C", "fahrenheit": "75-88°F" }
+    }
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "Malabo",
+    "isd_code": "+240",
+    "languages": ["es", "fr"],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Tropical; always hot, humid.",
+    "seasons": {
+      "summer": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" },
+      "winter": { "centigrade": "23-27°C", "fahrenheit": "73-81°F" },
+      "spring": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "autumn": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" }
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Athens",
+    "isd_code": "+30",
+    "languages": ["el"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; mild, wet winters; hot, dry summers.",
+    "seasons": {
+      "summer": { "centigrade": "24-34°C", "fahrenheit": "75-93°F" },
+      "winter": { "centigrade": "5-13°C", "fahrenheit": "41-55°F" },
+      "spring": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" },
+      "autumn": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" }
+    }
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "region": "Antarctic",
+    "sub-region": "",
+    "capital": "King Edward Point",
+    "isd_code": "+500",
+    "languages": ["en"],
+    "currency": { "code": "GBP", "name": "British pound", "symbol": "£" },
+    "timezone": ["UTC-02:00"],
+    "climatic_condition": "Polar; variable, with mostly westerly winds throughout the year interspersed with periods of calm.",
+    "seasons": {
+      "summer": { "centigrade": "0-8°C", "fahrenheit": "32-46°F" },
+      "winter": { "centigrade": "-10-0°C", "fahrenheit": "14-32°F" },
+      "spring": { "centigrade": "-5-2°C", "fahrenheit": "23-36°F" },
+      "autumn": { "centigrade": "-5-2°C", "fahrenheit": "23-36°F" }
+    }
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "Guatemala City",
+    "isd_code": "+502",
+    "languages": ["es"],
+    "currency": { "code": "GTQ", "name": "Guatemalan quetzal", "symbol": "Q" },
+    "timezone": ["UTC-06:00"],
+    "climatic_condition": "Tropical; hot, humid in lowlands; cooler in highlands.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "spring": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "autumn": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" }
+    }
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "Hagåtña",
+    "isd_code": "+1-671",
+    "languages": ["en", "ch", "es"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Bissau",
+    "isd_code": "+245",
+    "languages": ["pt"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, humid; monsoonal-type rainy season (June to December).",
+    "seasons": {
+      "summer": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" },
+      "winter": { "centigrade": "23-32°C", "fahrenheit": "73-90°F" },
+      "spring": { "centigrade": "25-34°C", "fahrenheit": "77-93°F" },
+      "autumn": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" }
+    }
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Georgetown",
+    "isd_code": "+592",
+    "languages": ["en"],
+    "currency": { "code": "GYD", "name": "Guyanese dollar", "symbol": "$" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January).",
+    "seasons": {
+      "summer": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "City of Victoria",
+    "isd_code": "+852",
+    "languages": ["en", "zh"],
+    "currency": { "code": "HKD", "name": "Hong Kong dollar", "symbol": "$" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in autumn.",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "14-20°C", "fahrenheit": "57-68°F" },
+      "spring": { "centigrade": "19-25°C", "fahrenheit": "66-77°F" },
+      "autumn": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" }
+    }
+  },
+  {
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "region": "Antarctic",
+    "sub-region": "",
+    "capital": "",
+    "isd_code": "+",
+    "languages": [],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+    "timezone": ["UTC+05:00"],
+    "climatic_condition": "Antarctic; cold and windy.",
+    "seasons": {
+      "summer": { "centigrade": "0-4°C", "fahrenheit": "32-39°F" },
+      "winter": { "centigrade": "-5-0°C", "fahrenheit": "23-32°F" },
+      "spring": { "centigrade": "-3-2°C", "fahrenheit": "27-36°F" },
+      "autumn": { "centigrade": "-3-2°C", "fahrenheit": "27-36°F" }
+    }
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "Tegucigalpa",
+    "isd_code": "+504",
+    "languages": ["es"],
+    "currency": { "code": "HNL", "name": "Honduran lempira", "symbol": "L" },
+    "timezone": ["UTC-06:00"],
+    "climatic_condition": "Subtropical in lowlands, temperate in mountains.",
+    "seasons": {
+      "summer": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "winter": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "spring": { "centigrade": "24-34°C", "fahrenheit": "75-93°F" },
+      "autumn": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" }
+    }
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Zagreb",
+    "isd_code": "+385",
+    "languages": ["hr"],
+    "currency": { "code": "HRK", "name": "Croatian kuna", "symbol": "kn" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Hot summers and cold winters; along coast, mild winters and dry summers.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "0-8°C", "fahrenheit": "32-46°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" }
+    }
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Port-au-Prince",
+    "isd_code": "+509",
+    "languages": ["fr", "ht"],
+    "currency": { "code": "HTG", "name": "Haitian gourde", "symbol": "G" },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical; semiarid where mountains in east cut off trade winds.",
+    "seasons": {
+      "summer": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "autumn": { "centigrade": "24-33°C", "fahrenheit": "75-91°F" }
+    }
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Budapest",
+    "isd_code": "+36",
+    "languages": ["hu"],
+    "currency": { "code": "HUF", "name": "Hungarian forint", "symbol": "Ft" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate; cold, cloudy, humid winters; warm summers.",
+    "seasons": {
+      "summer": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "winter": { "centigrade": "-2-4°C", "fahrenheit": "28-39°F" },
+      "spring": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "autumn": { "centigrade": "9-17°C", "fahrenheit": "48-63°F" }
+    }
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Jakarta",
+    "isd_code": "+62",
+    "languages": ["id"],
+    "currency": { "code": "IDR", "name": "Indonesian rupiah", "symbol": "Rp" },
+    "timezone": ["UTC+07:00", "UTC+08:00", "UTC+09:00"],
+    "climatic_condition": "Tropical; hot, humid; more moderate in highlands.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "spring": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "autumn": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" }
+    }
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Dublin",
+    "isd_code": "+353",
+    "languages": ["ga", "en"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Jerusalem",
+    "isd_code": "+972",
+    "languages": ["he", "ar"],
+    "currency": { "code": "ILS", "name": "Israeli new shekel", "symbol": "₪" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; hot and dry in southern and eastern desert areas.",
+    "seasons": {
+      "summer": { "centigrade": "24-34°C", "fahrenheit": "75-93°F" },
+      "winter": { "centigrade": "10-18°C", "fahrenheit": "50-64°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" }
+    }
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Douglas",
+    "isd_code": "+44",
+    "languages": ["en", "gv"],
+    "currency": { "code": "GBP", "name": "British pound", "symbol": "£" }
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "New Delhi",
+    "isd_code": "+91",
+    "languages": ["hi", "en"],
+    "currency": { "code": "INR", "name": "Indian rupee", "symbol": "₹" },
+    "timezone": ["UTC+05:30"],
+    "climatic_condition": "Varies from tropical monsoon in south to temperate in north.",
+    "seasons": {
+      "summer": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" },
+      "winter": { "centigrade": "10-25°C", "fahrenheit": "50-77°F" },
+      "spring": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" },
+      "autumn": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" }
+    }
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Diego Garcia",
+    "isd_code": "+246",
+    "languages": ["en"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Baghdad",
+    "isd_code": "+964",
+    "languages": ["ar", "ku"],
+    "currency": { "code": "IQD", "name": "Iraqi dinar", "symbol": "ع.د" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Mostly desert; mild to cool winters with dry, hot, cloudless summers.",
+    "seasons": {
+      "summer": { "centigrade": "30-45°C", "fahrenheit": "86-113°F" },
+      "winter": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "spring": { "centigrade": "18-30°C", "fahrenheit": "64-86°F" },
+      "autumn": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" }
+    }
+  },
+  {
+    "code": "IR",
+    "name": "Iran, Islamic Republic of",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Tehran",
+    "isd_code": "+98",
+    "languages": ["fa"],
+    "currency": { "code": "IRR", "name": "Iranian rial", "symbol": "﷼" },
+    "timezone": ["UTC+03:30"],
+    "climatic_condition": "Mostly arid or semiarid, subtropical along Caspian coast.",
+    "seasons": {
+      "summer": { "centigrade": "25-40°C", "fahrenheit": "77-104°F" },
+      "winter": { "centigrade": "0-10°C", "fahrenheit": "32-50°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" }
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Reykjavik",
+    "isd_code": "+354",
+    "languages": ["is"],
+    "currency": { "code": "ISK", "name": "Icelandic króna", "symbol": "kr" }
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Rome",
+    "isd_code": "+39",
+    "languages": ["it"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Saint Helier",
+    "isd_code": "+44",
+    "languages": ["en", "fr"],
+    "currency": { "code": "GBP", "name": "British pound", "symbol": "£" }
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Kingston",
+    "isd_code": "+1-876",
+    "languages": ["en"],
+    "currency": { "code": "JMD", "name": "Jamaican dollar", "symbol": "$" },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical; hot, humid; temperate interior.",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "22-29°C", "fahrenheit": "72-84°F" },
+      "spring": { "centigrade": "23-30°C", "fahrenheit": "73-86°F" },
+      "autumn": { "centigrade": "24-31°C", "fahrenheit": "75-88°F" }
+    }
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Amman",
+    "isd_code": "+962",
+    "languages": ["ar"],
+    "currency": { "code": "JOD", "name": "Jordanian dinar", "symbol": "د.ا" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Mostly arid desert; rainy season in west (November to April).",
+    "seasons": {
+      "summer": { "centigrade": "20-32°C", "fahrenheit": "68-90°F" },
+      "winter": { "centigrade": "5-13°C", "fahrenheit": "41-55°F" },
+      "spring": { "centigrade": "12-25°C", "fahrenheit": "54-77°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "Tokyo",
+    "isd_code": "+81",
+    "languages": ["ja"],
+    "currency": { "code": "JPY", "name": "Japanese yen", "symbol": "¥" },
+    "timezone": ["UTC+09:00"],
+    "climatic_condition": "Varies from tropical in south to cool temperate in north.",
+    "seasons": {
+      "summer": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "winter": { "centigrade": "0-8°C", "fahrenheit": "32-46°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" }
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Nairobi",
+    "isd_code": "+254",
+    "languages": ["en", "sw"],
+    "currency": { "code": "KES", "name": "Kenyan shilling", "symbol": "Sh" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Varies from tropical along coast to arid in interior.",
+    "seasons": {
+      "summer": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "winter": { "centigrade": "18-26°C", "fahrenheit": "64-79°F" },
+      "spring": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "autumn": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" }
+    }
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "region": "Asia",
+    "sub-region": "Central Asia",
+    "capital": "Bishkek",
+    "isd_code": "+996",
+    "languages": ["ky", "ru"],
+    "currency": { "code": "KGS", "name": "Kyrgyzstani som", "symbol": "с" },
+    "timezone": ["UTC+06:00"],
+    "climatic_condition": "Dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "-8--2°C", "fahrenheit": "18-28°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "6-16°C", "fahrenheit": "43-61°F" }
+    }
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Phnom Penh",
+    "isd_code": "+855",
+    "languages": ["km"],
+    "currency": { "code": "KHR", "name": "Cambodian riel", "symbol": "៛" },
+    "timezone": ["UTC+07:00"],
+    "climatic_condition": "Tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "26-35°C", "fahrenheit": "79-95°F" },
+      "winter": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "spring": { "centigrade": "25-38°C", "fahrenheit": "77-100°F" },
+      "autumn": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" }
+    }
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "South Tarawa",
+    "isd_code": "+686",
+    "languages": ["en"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Moroni",
+    "isd_code": "+269",
+    "languages": ["ar", "fr"],
+    "currency": { "code": "KMF", "name": "Comorian franc", "symbol": "Fr" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Tropical marine; rainy season (November to May).",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "22-27°C", "fahrenheit": "72-81°F" },
+      "spring": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "autumn": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" }
+    }
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Basseterre",
+    "isd_code": "+1-869",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical, tempered by northeast trade winds; little seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "KP",
+    "name": "Korea, Democratic People's Republic of",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "Pyongyang",
+    "isd_code": "+850",
+    "languages": ["ko"],
+    "currency": { "code": "KPW", "name": "North Korean won", "symbol": "₩" },
+    "timezone": ["UTC+09:00"],
+    "climatic_condition": "Temperate with rainfall concentrated in summer.",
+    "seasons": {
+      "summer": { "centigrade": "20-27°C", "fahrenheit": "68-81°F" },
+      "winter": { "centigrade": "-8-0°C", "fahrenheit": "18-32°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" }
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Korea, Republic of",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "Seoul",
+    "isd_code": "+82",
+    "languages": ["ko"],
+    "currency": { "code": "KRW", "name": "South Korean won", "symbol": "₩" },
+    "timezone": ["UTC+09:00"],
+    "climatic_condition": "Temperate, with rainfall heavier in summer than winter.",
+    "seasons": {
+      "summer": { "centigrade": "22-29°C", "fahrenheit": "72-84°F" },
+      "winter": { "centigrade": "-5-4°C", "fahrenheit": "23-39°F" },
+      "spring": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "autumn": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" }
+    }
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Kuwait City",
+    "isd_code": "+965",
+    "languages": ["ar"],
+    "currency": { "code": "KWD", "name": "Kuwaiti dinar", "symbol": "د.ك" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Dry desert; intensely hot summers; short, cool winters.",
+    "seasons": {
+      "summer": { "centigrade": "35-47°C", "fahrenheit": "95-117°F" },
+      "winter": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "spring": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" },
+      "autumn": { "centigrade": "25-38°C", "fahrenheit": "77-100°F" }
+    }
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "George Town",
+    "isd_code": "+1-345",
+    "languages": ["en"],
+    "currency": {
+      "code": "KYD",
+      "name": "Cayman Islands dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April).",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "autumn": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" }
+    }
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "region": "Asia",
+    "sub-region": "Central Asia",
+    "capital": "Astana",
+    "isd_code": "+7",
+    "languages": ["kk", "ru"],
+    "currency": { "code": "KZT", "name": "Kazakhstani tenge", "symbol": "₸" },
+    "timezone": ["UTC+05:00", "UTC+06:00"],
+    "climatic_condition": "Continental, cold winters and hot summers, arid and semiarid.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "-20--10°C", "fahrenheit": "-4-14°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "3-13°C", "fahrenheit": "37-55°F" }
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Vientiane",
+    "isd_code": "+856",
+    "languages": ["lo"],
+    "currency": { "code": "LAK", "name": "Lao kip", "symbol": "₭" },
+    "timezone": ["UTC+07:00"],
+    "climatic_condition": "Tropical monsoon; rainy season (May to November); dry season (December to April).",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "22-35°C", "fahrenheit": "72-95°F" },
+      "autumn": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" }
+    }
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Beirut",
+    "isd_code": "+961",
+    "languages": ["ar", "fr"],
+    "currency": { "code": "LBP", "name": "Lebanese pound", "symbol": "ل.ل" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Mediterranean; mild to cool, wet winters with hot, dry summers.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "10-17°C", "fahrenheit": "50-63°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "18-27°C", "fahrenheit": "64-81°F" }
+    }
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Castries",
+    "isd_code": "+1-758",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical, moderated by northeast trade winds; dry season from January to April, rainy season from May to August.",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Vaduz",
+    "isd_code": "+423",
+    "languages": ["de"],
+    "currency": { "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Colombo",
+    "isd_code": "+94",
+    "languages": ["si", "ta"],
+    "currency": { "code": "LKR", "name": "Sri Lankan rupee", "symbol": "Rs" },
+    "timezone": ["UTC+05:30"],
+    "climatic_condition": "Tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October).",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "spring": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "autumn": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" }
+    }
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Monrovia",
+    "isd_code": "+231",
+    "languages": ["en"],
+    "currency": { "code": "LRD", "name": "Liberian dollar", "symbol": "$" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers.",
+    "seasons": {
+      "summer": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" },
+      "winter": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "spring": { "centigrade": "24-33°C", "fahrenheit": "75-91°F" },
+      "autumn": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" }
+    }
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "region": "Africa",
+    "sub-region": "Southern Africa",
+    "capital": "Maseru",
+    "isd_code": "+266",
+    "languages": ["en", "st"],
+    "currency": { "code": "LSL", "name": "Lesotho loti", "symbol": "L" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; cool to cold, dry winters; hot, wet summers.",
+    "seasons": {
+      "summer": { "centigrade": "15-30°C", "fahrenheit": "59-86°F" },
+      "winter": { "centigrade": "0-15°C", "fahrenheit": "32-59°F" },
+      "spring": { "centigrade": "10-25°C", "fahrenheit": "50-77°F" },
+      "autumn": { "centigrade": "8-22°C", "fahrenheit": "46-72°F" }
+    }
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Vilnius",
+    "isd_code": "+370",
+    "languages": ["lt"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Luxembourg",
+    "isd_code": "+352",
+    "languages": ["fr", "de", "lb"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Riga",
+    "isd_code": "+371",
+    "languages": ["lv"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "Tripoli",
+    "isd_code": "+218",
+    "languages": ["ar"],
+    "currency": { "code": "LYD", "name": "Libyan dinar", "symbol": "ل.د" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Mediterranean along coast; dry, extreme desert interior.",
+    "seasons": {
+      "summer": { "centigrade": "22-35°C", "fahrenheit": "72-95°F" },
+      "winter": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "spring": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" },
+      "autumn": { "centigrade": "18-30°C", "fahrenheit": "64-86°F" }
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "Rabat",
+    "isd_code": "+212",
+    "languages": ["ar"],
+    "currency": { "code": "MAD", "name": "Moroccan dirham", "symbol": "د.م." },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Mediterranean, becoming more extreme in the interior.",
+    "seasons": {
+      "summer": { "centigrade": "18-35°C", "fahrenheit": "64-95°F" },
+      "winter": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "spring": { "centigrade": "12-25°C", "fahrenheit": "54-77°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Monaco",
+    "isd_code": "+377",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "MD",
+    "name": "Moldova, Republic of",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Chișinău",
+    "isd_code": "+373",
+    "languages": ["ro"],
+    "currency": { "code": "MDL", "name": "Moldovan leu", "symbol": "L" }
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Podgorica",
+    "isd_code": "+382",
+    "languages": ["sr", "bs", "sq", "hr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin, (French part)",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Marigot",
+    "isd_code": "+590",
+    "languages": ["en", "fr", "nl"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical marine with a dry and a rainy season.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" }
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Antananarivo",
+    "isd_code": "+261",
+    "languages": ["fr", "mg"],
+    "currency": { "code": "MGA", "name": "Malagasy ariary", "symbol": "Ar" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Tropical along coast, temperate inland, arid in south.",
+    "seasons": {
+      "summer": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "winter": { "centigrade": "15-22°C", "fahrenheit": "59-72°F" },
+      "spring": { "centigrade": "18-26°C", "fahrenheit": "64-79°F" },
+      "autumn": { "centigrade": "18-26°C", "fahrenheit": "64-79°F" }
+    }
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "Majuro",
+    "isd_code": "+692",
+    "languages": ["en", "mh"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Skopje",
+    "isd_code": "+389",
+    "languages": ["mk"],
+    "currency": { "code": "MKD", "name": "Macedonian denar", "symbol": "ден" }
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Bamako",
+    "isd_code": "+223",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Subtropical to arid; hot, dry, dusty (harmattan) wind occurs from March to May.",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" },
+      "autumn": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" }
+    }
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Naypyidaw",
+    "isd_code": "+95",
+    "languages": ["my"],
+    "currency": { "code": "MMK", "name": "Burmese kyat", "symbol": "Ks" },
+    "timezone": ["UTC+06:30"],
+    "climatic_condition": "Tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April).",
+    "seasons": {
+      "summer": { "centigrade": "24-33°C", "fahrenheit": "75-91°F" },
+      "winter": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "spring": { "centigrade": "25-36°C", "fahrenheit": "77-97°F" },
+      "autumn": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" }
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "Ulan Bator",
+    "isd_code": "+976",
+    "languages": ["mn"],
+    "currency": { "code": "MNT", "name": "Mongolian tögrög", "symbol": "₮" },
+    "timezone": ["UTC+07:00", "UTC+08:00"],
+    "climatic_condition": "Desert; continental (large daily and seasonal temperature range).",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "-25--15°C", "fahrenheit": "-13-5°F" },
+      "spring": { "centigrade": "0-10°C", "fahrenheit": "32-50°F" },
+      "autumn": { "centigrade": "-5-5°C", "fahrenheit": "23-41°F" }
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "",
+    "isd_code": "+853",
+    "languages": ["zh", "pt"],
+    "currency": { "code": "MOP", "name": "Macanese pataca", "symbol": "P" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Subtropical; marine with cool winters, warm summers.",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "14-20°C", "fahrenheit": "57-68°F" },
+      "spring": { "centigrade": "19-25°C", "fahrenheit": "66-77°F" },
+      "autumn": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" }
+    }
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "Saipan",
+    "isd_code": "+1-670",
+    "languages": ["en", "ch"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Fort-de-France",
+    "isd_code": "+596",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; moderated by trade winds; rainy season (June to October).",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" },
+      "spring": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "autumn": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" }
+    }
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Nouakchott",
+    "isd_code": "+222",
+    "languages": ["ar"],
+    "currency": {
+      "code": "MRO",
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Desert; constantly hot, dry, dusty.",
+    "seasons": {
+      "summer": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" },
+      "winter": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "spring": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "autumn": { "centigrade": "26-38°C", "fahrenheit": "79-100°F" }
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Plymouth",
+    "isd_code": "+1-664",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; hot, with a rainy season from July to November.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" }
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Valletta",
+    "isd_code": "+356",
+    "languages": ["mt", "en"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Port Louis",
+    "isd_code": "+230",
+    "languages": ["en"],
+    "currency": { "code": "MUR", "name": "Mauritian rupee", "symbol": "₨" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May).",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "20-25°C", "fahrenheit": "68-77°F" },
+      "spring": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "autumn": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" }
+    }
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Malé",
+    "isd_code": "+960",
+    "languages": ["dv"],
+    "currency": { "code": "MVR", "name": "Maldivian rufiyaa", "symbol": ".ރ" },
+    "timezone": ["UTC+05:00"],
+    "climatic_condition": "Tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August).",
+    "seasons": {
+      "summer": { "centigrade": "27-31°C", "fahrenheit": "81-88°F" },
+      "winter": { "centigrade": "26-30°C", "fahrenheit": "79-86°F" },
+      "spring": { "centigrade": "27-32°C", "fahrenheit": "81-90°F" },
+      "autumn": { "centigrade": "27-31°C", "fahrenheit": "81-88°F" }
+    }
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Lilongwe",
+    "isd_code": "+265",
+    "languages": ["en", "ny"],
+    "currency": { "code": "MWK", "name": "Malawian kwacha", "symbol": "MK" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Sub-tropical; rainy season (November to May); dry season (May to November).",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "spring": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "autumn": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" }
+    }
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "Mexico City",
+    "isd_code": "+52",
+    "languages": ["es"],
+    "currency": { "code": "MXN", "name": "Mexican peso", "symbol": "$" },
+    "timezone": ["UTC-08:00", "UTC-07:00", "UTC-06:00"],
+    "climatic_condition": "Varies from tropical to desert.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "spring": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" },
+      "autumn": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" }
+    }
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Kuala Lumpur",
+    "isd_code": "+60",
+    "languages": ["ms"],
+    "currency": { "code": "MYR", "name": "Malaysian ringgit", "symbol": "RM" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Tropical; annual southwest (April to October) and northeast (October to February) monsoons.",
+    "seasons": {
+      "summer": { "centigrade": "25-33°C", "fahrenheit": "77-91°F" },
+      "winter": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "spring": { "centigrade": "25-34°C", "fahrenheit": "77-93°F" },
+      "autumn": { "centigrade": "25-33°C", "fahrenheit": "77-91°F" }
+    }
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Maputo",
+    "isd_code": "+258",
+    "languages": ["pt"],
+    "currency": { "code": "MZN", "name": "Mozambican metical", "symbol": "MT" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Tropical to subtropical.",
+    "seasons": {
+      "summer": { "centigrade": "22-31°C", "fahrenheit": "72-88°F" },
+      "winter": { "centigrade": "18-26°C", "fahrenheit": "64-79°F" },
+      "spring": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "autumn": { "centigrade": "20-29°C", "fahrenheit": "68-84°F" }
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "region": "Africa",
+    "sub-region": "Southern Africa",
+    "capital": "Windhoek",
+    "isd_code": "+264",
+    "languages": ["en", "af"],
+    "currency": { "code": "NAD", "name": "Namibian dollar", "symbol": "$" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Desert; hot, dry; rainfall sparse and erratic.",
+    "seasons": {
+      "summer": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" },
+      "winter": { "centigrade": "5-20°C", "fahrenheit": "41-68°F" },
+      "spring": { "centigrade": "15-30°C", "fahrenheit": "59-86°F" },
+      "autumn": { "centigrade": "12-28°C", "fahrenheit": "54-82°F" }
+    }
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "region": "Oceania",
+    "sub-region": "Melanesia",
+    "capital": "Nouméa",
+    "isd_code": "+687",
+    "languages": ["fr"],
+    "currency": { "code": "XPF", "name": "CFP franc", "symbol": "Fr" }
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Niamey",
+    "isd_code": "+227",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Desert; hot, dry, dusty; tropical in extreme south.",
+    "seasons": {
+      "summer": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" },
+      "winter": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" },
+      "spring": { "centigrade": "25-42°C", "fahrenheit": "77-108°F" },
+      "autumn": { "centigrade": "25-38°C", "fahrenheit": "77-100°F" }
+    }
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "region": "Oceania",
+    "sub-region": "Australia and New Zealand",
+    "capital": "Kingston",
+    "isd_code": "+672",
+    "languages": ["en"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Abuja",
+    "isd_code": "+234",
+    "languages": ["en"],
+    "currency": { "code": "NGN", "name": "Nigerian naira", "symbol": "₦" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Varies; equatorial in south, tropical in center, arid in north.",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "spring": { "centigrade": "26-35°C", "fahrenheit": "79-95°F" },
+      "autumn": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" }
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "Managua",
+    "isd_code": "+505",
+    "languages": ["es"],
+    "currency": { "code": "NIO", "name": "Nicaraguan córdoba", "symbol": "C$" },
+    "timezone": ["UTC-06:00"],
+    "climatic_condition": "Tropical in lowlands, cooler in highlands.",
+    "seasons": {
+      "summer": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "winter": { "centigrade": "21-30°C", "fahrenheit": "70-86°F" },
+      "spring": { "centigrade": "23-34°C", "fahrenheit": "73-93°F" },
+      "autumn": { "centigrade": "22-31°C", "fahrenheit": "72-88°F" }
+    }
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Amsterdam",
+    "isd_code": "+31",
+    "languages": ["nl"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Oslo",
+    "isd_code": "+47",
+    "languages": ["no", "nb", "nn"],
+    "currency": { "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Kathmandu",
+    "isd_code": "+977",
+    "languages": ["ne"],
+    "currency": { "code": "NPR", "name": "Nepalese rupee", "symbol": "₨" },
+    "timezone": ["UTC+05:45"],
+    "climatic_condition": "Varies from cool summers and severe winters in north to subtropical summers and mild winters in south.",
+    "seasons": {
+      "summer": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "winter": { "centigrade": "2-12°C", "fahrenheit": "36-54°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" }
+    }
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "Yaren",
+    "isd_code": "+674",
+    "languages": ["en", "na"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Alofi",
+    "isd_code": "+683",
+    "languages": ["en"],
+    "currency": { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "region": "Oceania",
+    "sub-region": "Australia and New Zealand",
+    "capital": "Wellington",
+    "isd_code": "+64",
+    "languages": ["en", "mi"],
+    "currency": { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Muscat",
+    "isd_code": "+968",
+    "languages": ["ar"],
+    "currency": { "code": "OMR", "name": "Omani rial", "symbol": "ر.ع." },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south.",
+    "seasons": {
+      "summer": { "centigrade": "30-45°C", "fahrenheit": "86-113°F" },
+      "winter": { "centigrade": "18-25°C", "fahrenheit": "64-77°F" },
+      "spring": { "centigrade": "25-38°C", "fahrenheit": "77-100°F" },
+      "autumn": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" }
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "Panama City",
+    "isd_code": "+507",
+    "languages": ["es"],
+    "currency": { "code": "PAB", "name": "Panamanian balboa", "symbol": "B/." },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May).",
+    "seasons": {
+      "summer": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "winter": { "centigrade": "23-31°C", "fahrenheit": "73-88°F" },
+      "spring": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "autumn": { "centigrade": "24-31°C", "fahrenheit": "75-88°F" }
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Lima",
+    "isd_code": "+51",
+    "languages": ["es"],
+    "currency": { "code": "PEN", "name": "Peruvian sol", "symbol": "S/." },
+    "timezone": ["UTC-05:00"],
+    "climatic_condition": "Varies from tropical in east to dry desert in west; temperate to frigid in Andes.",
+    "seasons": {
+      "summer": { "centigrade": "19-26°C", "fahrenheit": "66-79°F" },
+      "winter": { "centigrade": "15-19°C", "fahrenheit": "59-66°F" },
+      "spring": { "centigrade": "16-22°C", "fahrenheit": "61-72°F" },
+      "autumn": { "centigrade": "17-24°C", "fahrenheit": "63-75°F" }
+    }
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Papeetē",
+    "isd_code": "+689",
+    "languages": ["fr"],
+    "currency": { "code": "XPF", "name": "CFP franc", "symbol": "Fr" }
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "region": "Oceania",
+    "sub-region": "Melanesia",
+    "capital": "Port Moresby",
+    "isd_code": "+675",
+    "languages": ["en"],
+    "currency": {
+      "code": "PGK",
+      "name": "Papua New Guinean kina",
+      "symbol": "K"
+    }
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Manila",
+    "isd_code": "+63",
+    "languages": ["en"],
+    "currency": { "code": "PHP", "name": "Philippine peso", "symbol": "₱" }
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "region": "Asia",
+    "sub-region": "Southern Asia",
+    "capital": "Islamabad",
+    "isd_code": "+92",
+    "languages": ["en", "ur"],
+    "currency": { "code": "PKR", "name": "Pakistani rupee", "symbol": "₨" },
+    "timezone": ["UTC+05:00"],
+    "climatic_condition": "Mostly hot, dry desert; temperate in northwest; arctic in north.",
+    "seasons": {
+      "summer": { "centigrade": "30-45°C", "fahrenheit": "86-113°F" },
+      "winter": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "spring": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" },
+      "autumn": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" }
+    }
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Warsaw",
+    "isd_code": "+48",
+    "languages": ["pl"],
+    "currency": { "code": "PLN", "name": "Polish złoty", "symbol": "zł" }
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "region": "Americas",
+    "sub-region": "Northern America",
+    "capital": "Saint-Pierre",
+    "isd_code": "+508",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC-03:00"],
+    "climatic_condition": "Cold and wet, with much fog and mist; windy during spring and autumn.",
+    "seasons": {
+      "summer": { "centigrade": "10-16°C", "fahrenheit": "50-61°F" },
+      "winter": { "centigrade": "-3-1°C", "fahrenheit": "27-34°F" },
+      "spring": { "centigrade": "2-7°C", "fahrenheit": "36-45°F" },
+      "autumn": { "centigrade": "5-10°C", "fahrenheit": "41-50°F" }
+    }
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Adamstown",
+    "isd_code": "+64",
+    "languages": ["en"],
+    "currency": { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "San Juan",
+    "isd_code": "+1-787",
+    "languages": ["es", "en"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical marine, mild; little seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "autumn": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" }
+    }
+  },
+  {
+    "code": "PS",
+    "name": "Palestine, State of",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Ramallah",
+    "isd_code": "+970",
+    "languages": ["ar"],
+    "currency": { "code": "ILS", "name": "Israeli new shekel", "symbol": "₪" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; temperature and precipitation vary with altitude, warm to hot summers, cool to mild winters.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "8-16°C", "fahrenheit": "46-61°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" }
+    }
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Lisbon",
+    "isd_code": "+351",
+    "languages": ["pt"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "Ngerulmud",
+    "isd_code": "+680",
+    "languages": ["en"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Asunción",
+    "isd_code": "+595",
+    "languages": ["es", "gn"],
+    "currency": { "code": "PYG", "name": "Paraguayan guaraní", "symbol": "₲" },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west.",
+    "seasons": {
+      "summer": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "winter": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" },
+      "spring": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "autumn": { "centigrade": "17-27°C", "fahrenheit": "63-81°F" }
+    }
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Doha",
+    "isd_code": "+974",
+    "languages": ["ar"],
+    "currency": { "code": "QAR", "name": "Qatari riyal", "symbol": "ر.ق" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Arid; mild, pleasant winters; very hot, humid summers.",
+    "seasons": {
+      "summer": { "centigrade": "35-45°C", "fahrenheit": "95-113°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "25-38°C", "fahrenheit": "77-100°F" },
+      "autumn": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" }
+    }
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Saint-Denis",
+    "isd_code": "+262",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Tropical, but temperature moderates with elevation; cool, dry season (May to November), hot, rainy season (November to April).",
+    "seasons": {
+      "summer": { "centigrade": "24-31°C", "fahrenheit": "75-88°F" },
+      "winter": { "centigrade": "18-25°C", "fahrenheit": "64-77°F" },
+      "spring": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "autumn": { "centigrade": "22-29°C", "fahrenheit": "72-84°F" }
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Bucharest",
+    "isd_code": "+40",
+    "languages": ["ro"],
+    "currency": { "code": "RON", "name": "Romanian leu", "symbol": "lei" }
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Belgrade",
+    "isd_code": "+381",
+    "languages": ["sr"],
+    "currency": { "code": "RSD", "name": "Serbian dinar", "symbol": "дин." }
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Moscow",
+    "isd_code": "+7",
+    "languages": ["ru"],
+    "currency": { "code": "RUB", "name": "Russian ruble", "symbol": "₽" }
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Kigali",
+    "isd_code": "+250",
+    "languages": ["rw", "en", "fr"],
+    "currency": { "code": "RWF", "name": "Rwandan franc", "symbol": "Fr" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible.",
+    "seasons": {
+      "summer": { "centigrade": "16-28°C", "fahrenheit": "61-82°F" },
+      "winter": { "centigrade": "15-27°C", "fahrenheit": "59-81°F" },
+      "spring": { "centigrade": "16-28°C", "fahrenheit": "61-82°F" },
+      "autumn": { "centigrade": "16-28°C", "fahrenheit": "61-82°F" }
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Riyadh",
+    "isd_code": "+966",
+    "languages": ["ar"],
+    "currency": { "code": "SAR", "name": "Saudi riyal", "symbol": "ر.س" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Harsh, dry desert with great temperature extremes.",
+    "seasons": {
+      "summer": { "centigrade": "30-45°C", "fahrenheit": "86-113°F" },
+      "winter": { "centigrade": "8-20°C", "fahrenheit": "46-68°F" },
+      "spring": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" },
+      "autumn": { "centigrade": "22-38°C", "fahrenheit": "72-100°F" }
+    }
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "region": "Oceania",
+    "sub-region": "Melanesia",
+    "capital": "Honiara",
+    "isd_code": "+677",
+    "languages": ["en"],
+    "currency": {
+      "code": "SBD",
+      "name": "Solomon Islands dollar",
+      "symbol": "$"
+    }
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Victoria",
+    "isd_code": "+248",
+    "languages": ["fr", "en"],
+    "currency": { "code": "SCR", "name": "Seychellois rupee", "symbol": "₨" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May).",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "Khartoum",
+    "isd_code": "+249",
+    "languages": ["ar", "en"],
+    "currency": { "code": "SDG", "name": "Sudanese pound", "symbol": "ج.س." },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Hot and dry; arid desert; rainy season varies by region (April to November).",
+    "seasons": {
+      "summer": { "centigrade": "30-42°C", "fahrenheit": "86-108°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "25-40°C", "fahrenheit": "77-104°F" },
+      "autumn": { "centigrade": "28-38°C", "fahrenheit": "82-100°F" }
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Stockholm",
+    "isd_code": "+46",
+    "languages": ["sv"],
+    "currency": { "code": "SEK", "name": "Swedish krona", "symbol": "kr" }
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Singapore",
+    "isd_code": "+65",
+    "languages": ["en", "ms", "ta", "zh"],
+    "currency": { "code": "SGD", "name": "Singapore dollar", "symbol": "$" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Tropical; hot, humid, rainy; two distinct monsoon seasons - Northeastern monsoon (December to March) and Southwestern monsoon (June to September).",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" },
+      "spring": { "centigrade": "26-33°C", "fahrenheit": "79-91°F" },
+      "autumn": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" }
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Jamestown",
+    "isd_code": "+290",
+    "languages": ["en"],
+    "currency": { "code": "SHP", "name": "Saint Helena pound", "symbol": "£" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical marine; mild, tempered by trade winds.",
+    "seasons": {
+      "summer": { "centigrade": "20-27°C", "fahrenheit": "68-81°F" },
+      "winter": { "centigrade": "17-24°C", "fahrenheit": "63-75°F" },
+      "spring": { "centigrade": "18-25°C", "fahrenheit": "64-77°F" },
+      "autumn": { "centigrade": "19-26°C", "fahrenheit": "66-79°F" }
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Ljubljana",
+    "isd_code": "+386",
+    "languages": ["sl"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Longyearbyen",
+    "isd_code": "+47",
+    "languages": ["no"],
+    "currency": { "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Bratislava",
+    "isd_code": "+421",
+    "languages": ["sk"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Freetown",
+    "isd_code": "+232",
+    "languages": ["en"],
+    "currency": {
+      "code": "SLL",
+      "name": "Sierra Leonean leone",
+      "symbol": "Le"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April).",
+    "seasons": {
+      "summer": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "winter": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "spring": { "centigrade": "24-33°C", "fahrenheit": "75-91°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "City of San Marino",
+    "isd_code": "+378",
+    "languages": ["it"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Dakar",
+    "isd_code": "+221",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "22-34°C", "fahrenheit": "72-93°F" },
+      "spring": { "centigrade": "25-36°C", "fahrenheit": "77-97°F" },
+      "autumn": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" }
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Mogadishu",
+    "isd_code": "+252",
+    "languages": ["so", "ar"],
+    "currency": { "code": "SOS", "name": "Somali shilling", "symbol": "Sh" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Principally desert; northeast monsoon (December to February), cooler season in the north and hot in the south; southwest monsoon (May to October), torrid in the north and hot in the south.",
+    "seasons": {
+      "summer": { "centigrade": "28-38°C", "fahrenheit": "82-100°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "autumn": { "centigrade": "26-36°C", "fahrenheit": "79-97°F" }
+    }
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Paramaribo",
+    "isd_code": "+597",
+    "languages": ["nl"],
+    "currency": { "code": "SRD", "name": "Surinamese dollar", "symbol": "$" },
+    "timezone": ["UTC-03:00"],
+    "climatic_condition": "Tropical; moderated by trade winds.",
+    "seasons": {
+      "summer": { "centigrade": "23-32°C", "fahrenheit": "73-90°F" },
+      "winter": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "spring": { "centigrade": "23-31°C", "fahrenheit": "73-88°F" },
+      "autumn": { "centigrade": "23-32°C", "fahrenheit": "73-90°F" }
+    }
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Juba",
+    "isd_code": "+211",
+    "languages": ["en"],
+    "currency": {
+      "code": "SSP",
+      "name": "South Sudanese pound",
+      "symbol": "£"
+    },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall is heaviest in the upland areas of the south and diminishes to the north.",
+    "seasons": {
+      "summer": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" },
+      "autumn": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" }
+    }
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "São Tomé",
+    "isd_code": "+239",
+    "languages": ["pt"],
+    "currency": {
+      "code": "STN",
+      "name": "São Tomé and Príncipe dobra",
+      "symbol": "Db"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, humid; one rainy season (October to May).",
+    "seasons": {
+      "summer": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" },
+      "autumn": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" }
+    }
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "region": "Americas",
+    "sub-region": "Central America",
+    "capital": "San Salvador",
+    "isd_code": "+503",
+    "languages": ["es"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-06:00"],
+    "climatic_condition": "Tropical; rainy season (May to October); dry season (November to April).",
+    "seasons": {
+      "summer": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "23-33°C", "fahrenheit": "73-91°F" },
+      "autumn": { "centigrade": "21-31°C", "fahrenheit": "70-88°F" }
+    }
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten, (Dutch part)",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Philipsburg",
+    "isd_code": "+1-721",
+    "languages": ["nl", "en"],
+    "currency": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical marine, with a dry and a rainy season.",
+    "seasons": {
+      "summer": { "centigrade": "27-32°C", "fahrenheit": "81-90°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" }
+    }
+  },
+  {
+    "code": "SY",
+    "name": "Syrian Arab Republic",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Damascus",
+    "isd_code": "+963",
+    "languages": ["ar"],
+    "currency": { "code": "SYP", "name": "Syrian pound", "symbol": "£" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast.",
+    "seasons": {
+      "summer": { "centigrade": "22-35°C", "fahrenheit": "72-95°F" },
+      "winter": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "spring": { "centigrade": "12-25°C", "fahrenheit": "54-77°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "region": "Africa",
+    "sub-region": "Southern Africa",
+    "capital": "Mbabane",
+    "isd_code": "+268",
+    "languages": ["en", "ss"],
+    "currency": { "code": "SZL", "name": "Swazi lilangeni", "symbol": "L" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Varies from tropical to near temperate.",
+    "seasons": {
+      "summer": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "winter": { "centigrade": "8-20°C", "fahrenheit": "46-68°F" },
+      "spring": { "centigrade": "15-26°C", "fahrenheit": "59-79°F" },
+      "autumn": { "centigrade": "12-25°C", "fahrenheit": "54-77°F" }
+    }
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Cockburn Town",
+    "isd_code": "+1-649",
+    "languages": ["en"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; marine; moderated by trade winds; sunny and relatively dry.",
+    "seasons": {
+      "summer": { "centigrade": "28-32°C", "fahrenheit": "82-90°F" },
+      "winter": { "centigrade": "24-28°C", "fahrenheit": "75-82°F" },
+      "spring": { "centigrade": "26-30°C", "fahrenheit": "79-86°F" },
+      "autumn": { "centigrade": "27-31°C", "fahrenheit": "81-88°F" }
+    }
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "region": "Africa",
+    "sub-region": "Middle Africa",
+    "capital": "N'Djamena",
+    "isd_code": "+235",
+    "languages": ["fr", "ar"],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Tropical in south, desert in north.",
+    "seasons": {
+      "summer": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" },
+      "winter": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "spring": { "centigrade": "28-42°C", "fahrenheit": "82-108°F" },
+      "autumn": { "centigrade": "25-35°C", "fahrenheit": "77-95°F" }
+    }
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories",
+    "region": "Antarctic",
+    "sub-region": "",
+    "capital": "Port-aux-Français",
+    "isd_code": "+",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "region": "Africa",
+    "sub-region": "Western Africa",
+    "capital": "Lomé",
+    "isd_code": "+228",
+    "languages": ["fr"],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Tropical; hot, humid in south; semiarid in north.",
+    "seasons": {
+      "summer": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "winter": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "spring": { "centigrade": "25-34°C", "fahrenheit": "77-93°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Bangkok",
+    "isd_code": "+66",
+    "languages": ["th"],
+    "currency": { "code": "THB", "name": "Thai baht", "symbol": "฿" },
+    "timezone": ["UTC+07:00"],
+    "climatic_condition": "Tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid.",
+    "seasons": {
+      "summer": { "centigrade": "28-35°C", "fahrenheit": "82-95°F" },
+      "winter": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" },
+      "spring": { "centigrade": "25-36°C", "fahrenheit": "77-97°F" },
+      "autumn": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" }
+    }
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "region": "Asia",
+    "sub-region": "Central Asia",
+    "capital": "Dushanbe",
+    "isd_code": "+992",
+    "languages": ["tg", "ru"],
+    "currency": { "code": "TJS", "name": "Tajikistani somoni", "symbol": "ЅМ" },
+    "timezone": ["UTC+05:00"],
+    "climatic_condition": "Mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains.",
+    "seasons": {
+      "summer": { "centigrade": "20-35°C", "fahrenheit": "68-95°F" },
+      "winter": { "centigrade": "-5-5°C", "fahrenheit": "23-41°F" },
+      "spring": { "centigrade": "10-25°C", "fahrenheit": "50-77°F" },
+      "autumn": { "centigrade": "8-20°C", "fahrenheit": "46-68°F" }
+    }
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Fakaofo",
+    "isd_code": "+690",
+    "languages": ["en"],
+    "currency": { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Dili",
+    "isd_code": "+670",
+    "languages": ["pt"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC+09:00"],
+    "climatic_condition": "Tropical; hot, humid; distinct rainy and dry seasons.",
+    "seasons": {
+      "summer": { "centigrade": "25-32°C", "fahrenheit": "77-90°F" },
+      "winter": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "spring": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "autumn": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" }
+    }
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "region": "Asia",
+    "sub-region": "Central Asia",
+    "capital": "Ashgabat",
+    "isd_code": "+993",
+    "languages": ["tk", "ru"],
+    "currency": { "code": "TMT", "name": "Turkmenistan manat", "symbol": "m" },
+    "timezone": ["UTC+05:00"],
+    "climatic_condition": "Subtropical desert.",
+    "seasons": {
+      "summer": { "centigrade": "28-40°C", "fahrenheit": "82-104°F" },
+      "winter": { "centigrade": "-2-8°C", "fahrenheit": "28-46°F" },
+      "spring": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" },
+      "autumn": { "centigrade": "12-25°C", "fahrenheit": "54-77°F" }
+    }
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "region": "Africa",
+    "sub-region": "Northern Africa",
+    "capital": "Tunis",
+    "isd_code": "+216",
+    "languages": ["ar"],
+    "currency": { "code": "TND", "name": "Tunisian dinar", "symbol": "د.ت" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Temperate in north with mild, rainy winters and hot, dry summers; desert in south.",
+    "seasons": {
+      "summer": { "centigrade": "22-33°C", "fahrenheit": "72-91°F" },
+      "winter": { "centigrade": "8-16°C", "fahrenheit": "46-61°F" },
+      "spring": { "centigrade": "14-25°C", "fahrenheit": "57-77°F" },
+      "autumn": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" }
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Nuku'alofa",
+    "isd_code": "+676",
+    "languages": ["en", "to"],
+    "currency": { "code": "TOP", "name": "Tongan paʻanga", "symbol": "T$" }
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Ankara",
+    "isd_code": "+90",
+    "languages": ["tr"],
+    "currency": { "code": "TRY", "name": "Turkish lira", "symbol": "₺" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Temperate; hot, dry summers with mild, wet winters; harsher in interior.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "0-10°C", "fahrenheit": "32-50°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" }
+    }
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Port of Spain",
+    "isd_code": "+1-868",
+    "languages": ["en"],
+    "currency": {
+      "code": "TTD",
+      "name": "Trinidad and Tobago dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; rainy season (June to December).",
+    "seasons": {
+      "summer": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "winter": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "spring": { "centigrade": "23-31°C", "fahrenheit": "73-88°F" },
+      "autumn": { "centigrade": "23-31°C", "fahrenheit": "73-88°F" }
+    }
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Funafuti",
+    "isd_code": "+688",
+    "languages": ["en"],
+    "currency": { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan, Province of China",
+    "region": "Asia",
+    "sub-region": "Eastern Asia",
+    "capital": "Taipei",
+    "isd_code": "+886",
+    "languages": ["zh"],
+    "currency": { "code": "TWD", "name": "New Taiwan dollar", "symbol": "$" },
+    "timezone": ["UTC+08:00"],
+    "climatic_condition": "Tropical; marine; rainy season during southwest monsoon (June to August); cloudiness is persistent and extensive all year.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "15-20°C", "fahrenheit": "59-68°F" },
+      "spring": { "centigrade": "20-26°C", "fahrenheit": "68-79°F" },
+      "autumn": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" }
+    }
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Dodoma",
+    "isd_code": "+255",
+    "languages": ["sw", "en"],
+    "currency": { "code": "TZS", "name": "Tanzanian shilling", "symbol": "Sh" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Varies from tropical along coast to temperate in highlands.",
+    "seasons": {
+      "summer": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "winter": { "centigrade": "18-25°C", "fahrenheit": "64-77°F" },
+      "spring": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "autumn": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" }
+    }
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Kyiv",
+    "isd_code": "+380",
+    "languages": ["uk"],
+    "currency": { "code": "UAH", "name": "Ukrainian hryvnia", "symbol": "₴" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; summers are warm across the greater part of the country, hot in the south.",
+    "seasons": {
+      "summer": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "winter": { "centigrade": "-5-2°C", "fahrenheit": "23-36°F" },
+      "spring": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "autumn": { "centigrade": "7-15°C", "fahrenheit": "45-59°F" }
+    }
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Kampala",
+    "isd_code": "+256",
+    "languages": ["en", "sw"],
+    "currency": { "code": "UGX", "name": "Ugandan shilling", "symbol": "Sh" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast.",
+    "seasons": {
+      "summer": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "winter": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "spring": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "autumn": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" }
+    }
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "region": "Oceania",
+    "sub-region": "Micronesia",
+    "capital": "",
+    "isd_code": "+1",
+    "languages": ["en"],
+    "currency": { "code": "USD", "name": "United States dollar", "symbol": "$" }
+  },
+  {
+    "code": "US",
+    "name": "United States of America",
+    "region": "Americas",
+    "sub-region": "Northern America",
+    "capital": "Washington, D.C.",
+    "isd_code": "+1",
+    "languages": ["en"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00"
+    ],
+    "climatic_condition": "Mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "-5-5°C", "fahrenheit": "23-41°F" },
+      "spring": { "centigrade": "8-18°C", "fahrenheit": "46-64°F" },
+      "autumn": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" }
+    }
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Montevideo",
+    "isd_code": "+598",
+    "languages": ["es"],
+    "currency": { "code": "UYU", "name": "Uruguayan peso", "symbol": "$" },
+    "timezone": ["UTC-03:00"],
+    "climatic_condition": "Warm temperate; freezing temperatures are rare.",
+    "seasons": {
+      "summer": { "centigrade": "18-28°C", "fahrenheit": "64-82°F" },
+      "winter": { "centigrade": "6-14°C", "fahrenheit": "43-57°F" },
+      "spring": { "centigrade": "12-20°C", "fahrenheit": "54-68°F" },
+      "autumn": { "centigrade": "10-18°C", "fahrenheit": "50-64°F" }
+    }
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "region": "Asia",
+    "sub-region": "Central Asia",
+    "capital": "Tashkent",
+    "isd_code": "+998",
+    "languages": ["uz", "ru"],
+    "currency": { "code": "UZS", "name": "Uzbekistani so'm", "symbol": "so'm" },
+    "timezone": ["UTC+05:00"],
+    "climatic_condition": "Mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east.",
+    "seasons": {
+      "summer": { "centigrade": "25-40°C", "fahrenheit": "77-104°F" },
+      "winter": { "centigrade": "-5-5°C", "fahrenheit": "23-41°F" },
+      "spring": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" },
+      "autumn": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" }
+    }
+  },
+  {
+    "code": "VA",
+    "name": "Holy See",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Vatican City",
+    "isd_code": "+39-06",
+    "languages": ["it", "la"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" }
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Kingstown",
+    "isd_code": "+1-784",
+    "languages": ["en"],
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; little seasonal temperature variation; rainy season (May to November).",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "spring": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela, Bolivarian Republic of",
+    "region": "Americas",
+    "sub-region": "South America",
+    "capital": "Caracas",
+    "isd_code": "+58",
+    "languages": ["es"],
+    "currency": {
+      "code": "VEF",
+      "name": "Venezuelan bolívar",
+      "symbol": "Bs F"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Tropical; hot, humid; more moderate in highlands.",
+    "seasons": {
+      "summer": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" },
+      "winter": { "centigrade": "23-31°C", "fahrenheit": "73-88°F" },
+      "spring": { "centigrade": "24-33°C", "fahrenheit": "75-91°F" },
+      "autumn": { "centigrade": "24-32°C", "fahrenheit": "75-90°F" }
+    }
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands, British",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Road Town",
+    "isd_code": "+1-284",
+    "languages": ["en"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Subtropical; humid; temperatures moderated by trade winds.",
+    "seasons": {
+      "summer": { "centigrade": "26-31°C", "fahrenheit": "79-88°F" },
+      "winter": { "centigrade": "23-28°C", "fahrenheit": "73-82°F" },
+      "spring": { "centigrade": "24-29°C", "fahrenheit": "75-84°F" },
+      "autumn": { "centigrade": "25-30°C", "fahrenheit": "77-86°F" }
+    }
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands, U.S.",
+    "region": "Americas",
+    "sub-region": "Caribbean",
+    "capital": "Charlotte Amalie",
+    "isd_code": "+1-340",
+    "languages": ["en"],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "timezone": ["UTC-04:00"],
+    "climatic_condition": "Subtropical, tempered by easterly trade winds; relatively low humidity; little seasonal temperature variation.",
+    "seasons": {
+      "summer": { "centigrade": "26-32°C", "fahrenheit": "79-90°F" },
+      "winter": { "centigrade": "23-29°C", "fahrenheit": "73-84°F" },
+      "spring": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "autumn": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" }
+    }
+  },
+  {
+    "code": "VN",
+    "name": "VietNam",
+    "region": "Asia",
+    "sub-region": "South-Eastern Asia",
+    "capital": "Hanoi",
+    "isd_code": "+84",
+    "languages": ["vi"],
+    "currency": { "code": "VND", "name": "Vietnamese đồng", "symbol": "₫" },
+    "timezone": ["UTC+07:00"],
+    "climatic_condition": "Tropical in south; monsoonal in north with hot, rainy season (mid-May to mid-September) and warm, dry season (mid-October to mid-March).",
+    "seasons": {
+      "summer": { "centigrade": "28-35°C", "fahrenheit": "82-95°F" },
+      "winter": { "centigrade": "18-25°C", "fahrenheit": "64-77°F" },
+      "spring": { "centigrade": "22-30°C", "fahrenheit": "72-86°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "region": "Oceania",
+    "sub-region": "Melanesia",
+    "capital": "Port Vila",
+    "isd_code": "+678",
+    "languages": ["bi", "en", "fr"],
+    "currency": { "code": "VUV", "name": "Vanuatu vatu", "symbol": "Vt" }
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Mata-Utu",
+    "isd_code": "+681",
+    "languages": ["fr"],
+    "currency": { "code": "XPF", "name": "CFP franc", "symbol": "Fr" }
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "region": "Oceania",
+    "sub-region": "Polynesia",
+    "capital": "Apia",
+    "isd_code": "+685",
+    "languages": ["sm", "en"],
+    "currency": { "code": "WST", "name": "Samoan tālā", "symbol": "T" }
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "region": "Asia",
+    "sub-region": "Western Asia",
+    "capital": "Sana'a",
+    "isd_code": "+967",
+    "languages": ["ar"],
+    "currency": { "code": "YER", "name": "Yemeni rial", "symbol": "﷼" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east.",
+    "seasons": {
+      "summer": { "centigrade": "25-38°C", "fahrenheit": "77-100°F" },
+      "winter": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "spring": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "autumn": { "centigrade": "22-32°C", "fahrenheit": "72-90°F" }
+    }
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Mamoudzou",
+    "isd_code": "+262",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+03:00"],
+    "climatic_condition": "Tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November).",
+    "seasons": {
+      "summer": { "centigrade": "25-31°C", "fahrenheit": "77-88°F" },
+      "winter": { "centigrade": "22-28°C", "fahrenheit": "72-82°F" },
+      "spring": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" },
+      "autumn": { "centigrade": "24-30°C", "fahrenheit": "75-86°F" }
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "region": "Africa",
+    "sub-region": "Southern Africa",
+    "capital": "Pretoria",
+    "isd_code": "+27",
+    "languages": ["af", "en", "nr", "st", "ss", "tn", "ts", "ve", "xh", "zu"],
+    "currency": { "code": "ZAR", "name": "South African rand", "symbol": "R" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Mostly semiarid; subtropical along east coast; sunny days, cool nights.",
+    "seasons": {
+      "summer": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" },
+      "winter": { "centigrade": "5-18°C", "fahrenheit": "41-64°F" },
+      "spring": { "centigrade": "12-25°C", "fahrenheit": "54-77°F" },
+      "autumn": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" }
+    }
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Lusaka",
+    "isd_code": "+260",
+    "languages": ["en"],
+    "currency": { "code": "ZMW", "name": "Zambian kwacha", "symbol": "ZK" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Tropical; modified by altitude; rainy season (October to April).",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" },
+      "spring": { "centigrade": "18-32°C", "fahrenheit": "64-90°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "region": "Africa",
+    "sub-region": "Eastern Africa",
+    "capital": "Harare",
+    "isd_code": "+263",
+    "languages": ["en", "sn", "nd"],
+    "currency": { "code": "ZWL", "name": "Zimbabwean dollar", "symbol": "$" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Tropical; moderated by altitude; rainy season (November to March).",
+    "seasons": {
+      "summer": { "centigrade": "20-28°C", "fahrenheit": "68-82°F" },
+      "winter": { "centigrade": "10-22°C", "fahrenheit": "50-72°F" },
+      "spring": { "centigrade": "18-30°C", "fahrenheit": "64-86°F" },
+      "autumn": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" }
+    }
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Nicosia",
+    "isd_code": "+357",
+    "languages": ["el", "tr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Temperate; Mediterranean with hot, dry summers and cool winters.",
+    "seasons": {
+      "summer": { "centigrade": "22-38°C", "fahrenheit": "72-100°F" },
+      "winter": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "spring": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "autumn": { "centigrade": "15-28°C", "fahrenheit": "59-82°F" }
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "region": "Europe",
+    "sub-region": "Eastern Europe",
+    "capital": "Tbilisi",
+    "isd_code": "+995",
+    "languages": ["ka"],
+    "currency": { "code": "GEL", "name": "Georgian Lari", "symbol": "ლ" },
+    "timezone": ["UTC+04:00"],
+    "climatic_condition": "Warm and pleasant; Mediterranean-like on the Black Sea coast.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "2-8°C", "fahrenheit": "36-46°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "12-22°C", "fahrenheit": "54-72°F" }
+    }
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Dublin",
+    "isd_code": "+353",
+    "languages": ["en", "ga"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time.",
+    "seasons": {
+      "summer": { "centigrade": "15-20°C", "fahrenheit": "59-68°F" },
+      "winter": { "centigrade": "2-8°C", "fahrenheit": "36-46°F" },
+      "spring": { "centigrade": "8-12°C", "fahrenheit": "46-54°F" },
+      "autumn": { "centigrade": "8-14°C", "fahrenheit": "46-57°F" }
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Reykjavik",
+    "isd_code": "+354",
+    "languages": ["is"],
+    "currency": { "code": "ISK", "name": "Icelandic króna", "symbol": "kr" },
+    "timezone": ["UTC+00:00"],
+    "climatic_condition": "Subarctic; windy winters, damp, cool summers.",
+    "seasons": {
+      "summer": { "centigrade": "10-13°C", "fahrenheit": "50-55°F" },
+      "winter": { "centigrade": "-1-2°C", "fahrenheit": "30-36°F" },
+      "spring": { "centigrade": "3-7°C", "fahrenheit": "37-45°F" },
+      "autumn": { "centigrade": "4-8°C", "fahrenheit": "39-46°F" }
+    }
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Rome",
+    "isd_code": "+39",
+    "languages": ["it"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Predominantly Mediterranean; Alpine in far north; hot, dry in south.",
+    "seasons": {
+      "summer": { "centigrade": "20-30°C", "fahrenheit": "68-86°F" },
+      "winter": { "centigrade": "0-12°C", "fahrenheit": "32-54°F" },
+      "spring": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" },
+      "autumn": { "centigrade": "10-20°C", "fahrenheit": "50-68°F" }
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Vaduz",
+    "isd_code": "+423",
+    "languages": ["de"],
+    "currency": { "code": "CHF", "name": "Swiss franc", "symbol": "Fr" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers.",
+    "seasons": {
+      "summer": { "centigrade": "17-26°C", "fahrenheit": "63-79°F" },
+      "winter": { "centigrade": "-1-4°C", "fahrenheit": "30-39°F" },
+      "spring": { "centigrade": "7-16°C", "fahrenheit": "45-61°F" },
+      "autumn": { "centigrade": "8-15°C", "fahrenheit": "46-59°F" }
+    }
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Vilnius",
+    "isd_code": "+370",
+    "languages": ["lt"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Transitional, between maritime and continental; wet, moderate winters and summers.",
+    "seasons": {
+      "summer": { "centigrade": "16-25°C", "fahrenheit": "61-77°F" },
+      "winter": { "centigrade": "-5-0°C", "fahrenheit": "23-32°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "6-12°C", "fahrenheit": "43-54°F" }
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Luxembourg",
+    "isd_code": "+352",
+    "languages": ["fr", "de", "lb"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Modified continental with mild winters, cool summers.",
+    "seasons": {
+      "summer": { "centigrade": "15-25°C", "fahrenheit": "59-77°F" },
+      "winter": { "centigrade": "0-5°C", "fahrenheit": "32-41°F" },
+      "spring": { "centigrade": "8-17°C", "fahrenheit": "46-63°F" },
+      "autumn": { "centigrade": "8-15°C", "fahrenheit": "46-59°F" }
+    }
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "region": "Europe",
+    "sub-region": "Northern Europe",
+    "capital": "Riga",
+    "isd_code": "+371",
+    "languages": ["lv"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+02:00"],
+    "climatic_condition": "Maritime; wet, moderate winters.",
+    "seasons": {
+      "summer": { "centigrade": "16-22°C", "fahrenheit": "61-72°F" },
+      "winter": { "centigrade": "-5-0°C", "fahrenheit": "23-32°F" },
+      "spring": { "centigrade": "5-15°C", "fahrenheit": "41-59°F" },
+      "autumn": { "centigrade": "6-12°C", "fahrenheit": "43-54°F" }
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "region": "Europe",
+    "sub-region": "Western Europe",
+    "capital": "Monaco",
+    "isd_code": "+377",
+    "languages": ["fr"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Mediterranean with mild, wet winters and hot, dry summers.",
+    "seasons": {
+      "summer": { "centigrade": "20-26°C", "fahrenheit": "68-79°F" },
+      "winter": { "centigrade": "8-12°C", "fahrenheit": "46-54°F" },
+      "spring": { "centigrade": "12-18°C", "fahrenheit": "54-64°F" },
+      "autumn": { "centigrade": "14-20°C", "fahrenheit": "57-68°F" }
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "region": "Europe",
+    "sub-region": "Southern Europe",
+    "capital": "Valletta",
+    "isd_code": "+356",
+    "languages": ["mt", "en"],
+    "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+    "timezone": ["UTC+01:00"],
+    "climatic_condition": "Mediterranean; mild, rainy winters; hot, dry summers.",
+    "seasons": {
+      "summer": { "centigrade": "22-31°C", "fahrenheit": "72-88°F" },
+      "winter": { "centigrade": "9-15°C", "fahrenheit": "48-59°F" },
+      "spring": { "centigrade": "14-22°C", "fahrenheit": "57-72°F" },
+      "autumn": { "centigrade": "18-25°C", "fahrenheit": "64-77°F" }
+    }
+  }
+]

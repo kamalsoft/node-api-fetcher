@@ -1,0 +1,5894 @@
+{
+  "products": [
+    {
+      "productId": 34,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-001",
+      "sku": "GO-00001",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 34,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-001",
+      "sku": "GO-00002",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 34,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-001",
+      "sku": "GO-00003",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 34,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-001",
+      "sku": "GO-00004",
+      "availablePacks": "60L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00736",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00737",
+      "availablePacks": "180kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00738",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00739",
+      "availablePacks": "180kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00740",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00741",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00742",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00743",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00744",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00745",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 35,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-120",
+      "sku": "GO-00746",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 36,
+      "stores": "GOITA",
+      "productName": "Gulf Formula VFE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-002",
+      "sku": "GO-00005",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 36,
+      "stores": "GOITA",
+      "productName": "Gulf Formula VFE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-002",
+      "sku": "GO-00006",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-20"
+    },
+    {
+      "productId": 38,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-003",
+      "sku": "GO-00007",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 38,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-003",
+      "sku": "GO-00008",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 38,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-003",
+      "sku": "GO-00009",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 38,
+      "stores": "GOITA",
+      "productName": "Gulf Formula LEF",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-003",
+      "sku": "GO-00010",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 39,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-004",
+      "sku": "GO-00011",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 39,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-004",
+      "sku": "GO-00012",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 39,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-004",
+      "sku": "GO-00013",
+      "availablePacks": "20L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 39,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-004",
+      "sku": "GO-00014",
+      "availablePacks": "60L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 39,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-004",
+      "sku": "GO-00015",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 39,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-004",
+      "sku": "GO-00016",
+      "availablePacks": "1000L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 40,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-119",
+      "sku": "GO-00733",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 40,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-119",
+      "sku": "GO-00734",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 40,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-119",
+      "sku": "GO-00735",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 41,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-118",
+      "sku": "GO-00728",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 41,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-118",
+      "sku": "GO-00729",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 41,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-118",
+      "sku": "GO-00730",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 41,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-118",
+      "sku": "GO-00731",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 41,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-118",
+      "sku": "GO-00732",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 42,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-117",
+      "sku": "GO-00725",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 42,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-117",
+      "sku": "GO-00726",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 42,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-117",
+      "sku": "GO-00727",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 43,
+      "stores": "GOITA",
+      "productName": "Gulf Bavex ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-116",
+      "sku": "GO-00723",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 43,
+      "stores": "GOITA",
+      "productName": "Gulf Bavex ",
+      "productCategory": "Grassi",
+      "productID": "GOITA-116",
+      "sku": "GO-00724",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 44,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-115",
+      "sku": "GO-00718",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 44,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-115",
+      "sku": "GO-00719",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 44,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-115",
+      "sku": "GO-00720",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 44,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-115",
+      "sku": "GO-00721",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 44,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-115",
+      "sku": "GO-00722",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00711",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00712",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00713",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00714",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00715",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00716",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 45,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-114",
+      "sku": "GO-00717",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 46,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-005",
+      "sku": "GO-00017",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 46,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-005",
+      "sku": "GO-00018",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 46,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-005",
+      "sku": "GO-00019",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 46,
+      "stores": "GOITA",
+      "productName": "Gulf Formula PCX Plus",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-005",
+      "sku": "GO-00020",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOITA",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-006",
+      "sku": "GO-00021",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOITA",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-006",
+      "sku": "GO-00022",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOITA",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-006",
+      "sku": "GO-00023",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 47,
+      "stores": "GOITA",
+      "productName": "Gulf Formula RNX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-006",
+      "sku": "GO-00024",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 48,
+      "stores": "GOITA",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-113",
+      "sku": "GO-00708",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 48,
+      "stores": "GOITA",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-113",
+      "sku": "GO-00709",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 48,
+      "stores": "GOITA",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-113",
+      "sku": "GO-00710",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 49,
+      "stores": "GOITA",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-007",
+      "sku": "GO-00025",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOITA",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-007",
+      "sku": "GO-00026",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOITA",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-007",
+      "sku": "GO-00028",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOITA",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-007",
+      "sku": "GO-00029",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOITA",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-007",
+      "sku": "GO-00030",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 49,
+      "stores": "GOITA",
+      "productName": "Gulf Formula CX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-007",
+      "sku": "GO-00031",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 50,
+      "stores": "GOITA",
+      "productName": "Harmony ZF HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-112",
+      "sku": "GO-00707",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 51,
+      "stores": "GOITA",
+      "productName": "Harmony ZF",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-111",
+      "sku": "GO-00703",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 51,
+      "stores": "GOITA",
+      "productName": "Harmony ZF",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-111",
+      "sku": "GO-00704",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 51,
+      "stores": "GOITA",
+      "productName": "Harmony ZF",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-111",
+      "sku": "GO-00705",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 51,
+      "stores": "GOITA",
+      "productName": "Harmony ZF",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-111",
+      "sku": "GO-00706",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 52,
+      "stores": "GOITA",
+      "productName": "Harmony HLPD",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-110",
+      "sku": "GO-00700",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 52,
+      "stores": "GOITA",
+      "productName": "Harmony HLPD",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-110",
+      "sku": "GO-00701",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 52,
+      "stores": "GOITA",
+      "productName": "Harmony HLPD",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-110",
+      "sku": "GO-00702",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00682",
+      "availablePacks": "20L",
+      "viscosityGrade": 15
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00683",
+      "availablePacks": "208L",
+      "viscosityGrade": 15
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00684",
+      "availablePacks": "208L",
+      "viscosityGrade": 15
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00685",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00686",
+      "availablePacks": "60L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00687",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00688",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00689",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00690",
+      "availablePacks": "1L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00691",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00692",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00693",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00694",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00695",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00696",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00697",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00698",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 53,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-109",
+      "sku": "GO-00699",
+      "availablePacks": "208L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00032",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00033",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00035",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00036",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00037",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00038",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-00039",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-000010",
+      "availablePacks": "1L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-0000012",
+      "availablePacks": "4L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 54,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GVX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-008",
+      "sku": "GO-000003",
+      "availablePacks": "208L",
+      "viscosityGrade": "0W-30"
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00661",
+      "availablePacks": "20L",
+      "viscosityGrade": 15
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00662",
+      "availablePacks": "208L",
+      "viscosityGrade": 15
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00663",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 15
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00664",
+      "availablePacks": "20L",
+      "viscosityGrade": 22
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00665",
+      "availablePacks": "60L",
+      "viscosityGrade": 22
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00666",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00667",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00668",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00669",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00670",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00671",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00672",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00673",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00674",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00675",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00676",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00677",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00678",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00679",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00680",
+      "availablePacks": "208L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 55,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-108",
+      "sku": "GO-00681",
+      "availablePacks": "208L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00040",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00041",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00042",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00043",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00044",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00045",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 56,
+      "stores": "GOITA",
+      "productName": "Gulf Formula ULE",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-009",
+      "sku": "GO-00046",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00653",
+      "availablePacks": "20L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00654",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00655",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00656",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00657",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00658",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00659",
+      "availablePacks": "20L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 57,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lurbciants SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-107",
+      "sku": "GO-00660",
+      "availablePacks": "20L",
+      "viscosityGrade": 460
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00634",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00635",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00636",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00637",
+      "availablePacks": "20L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00638",
+      "availablePacks": "208L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00639",
+      "availablePacks": "20L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00640",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00641",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00642",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00643",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00644",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00645",
+      "availablePacks": "1000L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00646",
+      "availablePacks": "20L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00647",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00648",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00649",
+      "availablePacks": "20L",
+      "viscosityGrade": 460
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00650",
+      "availablePacks": "208L",
+      "viscosityGrade": 460
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00651",
+      "availablePacks": "20L",
+      "viscosityGrade": 680
+    },
+    {
+      "productId": 58,
+      "stores": "GOITA",
+      "productName": "Gulf EP Lubricant HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-106",
+      "sku": "GO-00652",
+      "availablePacks": "208L",
+      "viscosityGrade": 680
+    },
+    {
+      "productId": 59,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity PA",
+      "productCategory": "Compressori",
+      "productID": "GOITA-105",
+      "sku": "GO-00629",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 59,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity PA",
+      "productCategory": "Compressori",
+      "productID": "GOITA-105",
+      "sku": "GO-00630",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 59,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity PA",
+      "productCategory": "Compressori",
+      "productID": "GOITA-105",
+      "sku": "GO-00631",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 59,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity PA",
+      "productCategory": "Compressori",
+      "productID": "GOITA-105",
+      "sku": "GO-00632",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 59,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity PA",
+      "productCategory": "Compressori",
+      "productID": "GOITA-105",
+      "sku": "GO-00633",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 60,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity ",
+      "productCategory": "Compressori",
+      "productID": "GOITA-104",
+      "sku": "GO-00625",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 60,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity ",
+      "productCategory": "Compressori",
+      "productID": "GOITA-104",
+      "sku": "GO-00626",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 60,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity ",
+      "productCategory": "Compressori",
+      "productID": "GOITA-104",
+      "sku": "GO-00627",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 60,
+      "stores": "GOITA",
+      "productName": "Gulf Fidelity ",
+      "productCategory": "Compressori",
+      "productID": "GOITA-104",
+      "sku": "GO-00628",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 61,
+      "stores": "GOITA",
+      "productName": "Gulf Merit",
+      "productCategory": "Compressori",
+      "productID": "GOITA-103",
+      "sku": "GO-00624",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00047",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00048",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00049",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00050",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00051",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00052",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 62,
+      "stores": "GOITA",
+      "productName": "Gulf Formula GX",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-010",
+      "sku": "GO-00053",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 63,
+      "stores": "GOITA",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-011",
+      "sku": "GO-00054",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 63,
+      "stores": "GOITA",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-011",
+      "sku": "GO-00055",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 63,
+      "stores": "GOITA",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-011",
+      "sku": "GO-00056",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 63,
+      "stores": "GOITA",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-011",
+      "sku": "GO-00057",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 63,
+      "stores": "GOITA",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-011",
+      "sku": "GO-00058",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 63,
+      "stores": "GOITA",
+      "productName": "Gulf Formula G",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-011",
+      "sku": "GO-00059",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 64,
+      "stores": "GOITA",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-102",
+      "sku": "GO-00620",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 64,
+      "stores": "GOITA",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-102",
+      "sku": "GO-00621",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 64,
+      "stores": "GOITA",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-102",
+      "sku": "GO-00622",
+      "availablePacks": "20L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 64,
+      "stores": "GOITA",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-102",
+      "sku": "GO-00623",
+      "availablePacks": "1000L",
+      "viscosityGrade": 100
+    },
+    {
+      "productId": 65,
+      "stores": "GOITA",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-012",
+      "sku": "GO-00060",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 65,
+      "stores": "GOITA",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-012",
+      "sku": "GO-00061",
+      "availablePacks": "4L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 65,
+      "stores": "GOITA",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-012",
+      "sku": "GO-00062",
+      "availablePacks": "5L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 65,
+      "stores": "GOITA",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-012",
+      "sku": "GO-00063",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 65,
+      "stores": "GOITA",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-012",
+      "sku": "GO-00064",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 65,
+      "stores": "GOITA",
+      "productName": "Gulf Formula FS",
+      "productCategory": "Gulf Formula",
+      "productID": "GOITA-012",
+      "sku": "GO-00065",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 67,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-100",
+      "sku": "GO-00614",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 67,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-100",
+      "sku": "GO-00615",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 67,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-100",
+      "sku": "GO-00616",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 67,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-100",
+      "sku": "GO-00617",
+      "availablePacks": "60L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 67,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-100",
+      "sku": "GO-00618",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 69,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-099",
+      "sku": "GO-00610",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 69,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-099",
+      "sku": "GO-00611",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 69,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-099",
+      "sku": "GO-00612",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 69,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-099",
+      "sku": "GO-00613",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 70,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-098",
+      "sku": "GO-00606",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 70,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-098",
+      "sku": "GO-00607",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 70,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-098",
+      "sku": "GO-00608",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 70,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-098",
+      "sku": "GO-00609",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00066",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00067",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00068",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00069",
+      "availablePacks": "1L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00070",
+      "availablePacks": "4L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00071",
+      "availablePacks": "20L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 78,
+      "stores": "GOITA",
+      "productName": "Gulf Max",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-013",
+      "sku": "GO-00072",
+      "availablePacks": "208L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 81,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-022",
+      "sku": "GO-00101",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 81,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-022",
+      "sku": "GO-00102",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 81,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-022",
+      "sku": "GO-00103",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 81,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-022",
+      "sku": "GO-00104",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 82,
+      "stores": "GOITA",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-015",
+      "sku": "GO-00080",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 82,
+      "stores": "GOITA",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-015",
+      "sku": "GO-00081",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 82,
+      "stores": "GOITA",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-015",
+      "sku": "GO-00082",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 82,
+      "stores": "GOITA",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-015",
+      "sku": "GO-00083",
+      "availablePacks": "60L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 82,
+      "stores": "GOITA",
+      "productName": "Gulf Multi Vehicle ATF",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-015",
+      "sku": "GO-00084",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 83,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-024",
+      "sku": "GO-00107",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 83,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-024",
+      "sku": "GO-00108",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 83,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-024",
+      "sku": "GO-00109",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000110",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000111",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000112",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000113",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000114",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000115",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 84,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-025",
+      "sku": "GO-000116",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 85,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOITA-026",
+      "sku": "GO-000118",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 85,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOITA-026",
+      "sku": "GO-000119",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 86,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-016",
+      "sku": "GO-00085",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 86,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-016",
+      "sku": "GO-00086",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 86,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-016",
+      "sku": "GO-00087",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 86,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX III",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-016",
+      "sku": "GO-00088",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 89,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-017",
+      "sku": "GO-00089",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 89,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-017",
+      "sku": "GO-00090",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 89,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-017",
+      "sku": "GO-00091",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 89,
+      "stores": "GOITA",
+      "productName": "Gulf ATF DX IIIH",
+      "productCategory": "Oli per cambi automatici",
+      "productID": "GOITA-017",
+      "sku": "GO-00092",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00073",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00074",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00075",
+      "availablePacks": "5L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00076",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00077",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00078",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 92,
+      "stores": "GOITA",
+      "productName": "Gulf Max Ultra Plus",
+      "productCategory": "Gulf Max",
+      "productID": "GOITA-014",
+      "sku": "GO-00079",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 94,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-030",
+      "sku": "GO-000130",
+      "availablePacks": "5L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 94,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-030",
+      "sku": "GO-000131",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 94,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-030",
+      "sku": "GO-000132",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 94,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-030",
+      "sku": "GO-000133",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 95,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional ECON ",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-031",
+      "sku": "GO-000134",
+      "availablePacks": "20L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 95,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional ECON ",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-031",
+      "sku": "GO-000135",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 95,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional ECON ",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-031",
+      "sku": "GO-000136",
+      "availablePacks": "1000L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00137",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00138",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00139",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00140",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00141",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00142",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00143",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00144",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00145",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 96,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme ",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-032",
+      "sku": "GO-00146",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 97,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-033",
+      "sku": "GO-000147",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 97,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-033",
+      "sku": "GO-000148",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 97,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional+ Long Drain",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-033",
+      "sku": "GO-000149",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00150",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00151",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00152",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00153",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00154",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00155",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00156",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00157",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 98,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Gulf Supreme Duty",
+      "productID": "GOITA-034",
+      "sku": "GO-00158",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 99,
+      "stores": "GOITA",
+      "productName": "Gulf eLEC Coolant",
+      "productCategory": "eLEC",
+      "productID": "GOITA-018",
+      "sku": "GO-00093",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 101,
+      "stores": "GOITA",
+      "productName": "Gulf eLEC Brake Fluid",
+      "productCategory": "eLEC",
+      "productID": "GOITA-019",
+      "sku": "GO-00094",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 104,
+      "stores": "GOITA",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Olio freni",
+      "productID": "GOITA-020",
+      "sku": "GO-00096",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 107,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-021",
+      "sku": "GO-00098",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 107,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-021",
+      "sku": "GO-00099",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 107,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-021",
+      "sku": "GO-00100",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 155,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-023",
+      "sku": "GO-00105",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 155,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Protettivi radiatore e refrigeranti",
+      "productID": "GOITA-023",
+      "sku": "GO-00106",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 156,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-027",
+      "sku": "GO-000120",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 156,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-027",
+      "sku": "GO-000121",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 156,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-027",
+      "sku": "GO-000122",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 156,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-027",
+      "sku": "GO-000123",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 156,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-027",
+      "sku": "GO-000124",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 157,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOITA-028",
+      "sku": "GO-000125",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 157,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOITA-028",
+      "sku": "GO-000126",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 157,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOITA-028",
+      "sku": "GO-000127",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 158,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional ",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-029",
+      "sku": "GO-000128",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 158,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Professional ",
+      "productCategory": "Gulf Superfleet",
+      "productID": "GOITA-029",
+      "sku": "GO-000129",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 159,
+      "stores": "GOITA",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-035",
+      "sku": "GO-00159",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 159,
+      "stores": "GOITA",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-035",
+      "sku": "GO-00160",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 159,
+      "stores": "GOITA",
+      "productName": "Gulf Gear EP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-035",
+      "sku": "GO-00161",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 160,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-036",
+      "sku": "GO-00162",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 160,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-036",
+      "sku": "GO-00163",
+      "availablePacks": "4L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 160,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-036",
+      "sku": "GO-00164",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 160,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-036",
+      "sku": "GO-00165",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 160,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-036",
+      "sku": "GO-00166",
+      "availablePacks": "20L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 160,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-036",
+      "sku": "GO-00167",
+      "availablePacks": "208L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 163,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-037",
+      "sku": "GO-00168",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 163,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-037",
+      "sku": "GO-00169",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 163,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-037",
+      "sku": "GO-00170",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 163,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-037",
+      "sku": "GO-00171",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 164,
+      "stores": "GOITA",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-038",
+      "sku": "GO-00172",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 164,
+      "stores": "GOITA",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-038",
+      "sku": "GO-00173",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 165,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-039",
+      "sku": "GO-00174",
+      "availablePacks": "20L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 165,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-039",
+      "sku": "GO-00175",
+      "availablePacks": "60L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 165,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-039",
+      "sku": "GO-00176",
+      "availablePacks": "208L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 165,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-039",
+      "sku": "GO-00177",
+      "availablePacks": "1000L",
+      "viscosityGrade": "75W-90"
+    },
+    {
+      "productId": 166,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-040",
+      "sku": "GO-00178",
+      "availablePacks": "1L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 166,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-040",
+      "sku": "GO-00179",
+      "availablePacks": "20L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 166,
+      "stores": "GOITA",
+      "productName": "Gulf Syngear FE",
+      "productCategory": "Oli per ingranaggi",
+      "productID": "GOITA-040",
+      "sku": "GO-00180",
+      "availablePacks": "208L",
+      "viscosityGrade": "75W--80"
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00181",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00182",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00183",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00184",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00185",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00186",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00187",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00188",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 167,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Oli per cambi automaticiâ",
+      "productID": "GOITA-041",
+      "sku": "GO-00189",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00190",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00191",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00192",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00193",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00194",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00195",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00196",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00197",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00198",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 168,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-042",
+      "sku": "GO-00199",
+      "availablePacks": "IBC 1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-00200",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-00201",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-00202",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-000203",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-000204",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-000205",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-000206",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-000207",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 169,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-043",
+      "sku": "GO-000208",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-000209",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-000210",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00211",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00212",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00213",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00214",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00215",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00216",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 170,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-044",
+      "sku": "GO-00217",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 171,
+      "stores": "GOITA",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-045",
+      "sku": "GO-00218",
+      "availablePacks": "20L",
+      "viscosityGrade": "8W-90"
+    },
+    {
+      "productId": 171,
+      "stores": "GOITA",
+      "productName": "Gulf Gear TDL",
+      "productCategory": "Off Road Vehicles",
+      "productID": "GOITA-045",
+      "sku": "GO-000219",
+      "availablePacks": "208L",
+      "viscosityGrade": "8W-90"
+    },
+    {
+      "productId": 172,
+      "stores": "GOITA",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Olio freniâ",
+      "productID": "GOITA-046",
+      "sku": "GO-00221",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 173,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-047",
+      "sku": "GO-000222",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 173,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-047",
+      "sku": "GO-00223",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 173,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-047",
+      "sku": "GO-00224",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 173,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-047",
+      "sku": "GO-00225",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-048",
+      "sku": "GO-00226",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-048",
+      "sku": "GO-00227",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-048",
+      "sku": "GO-00228",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 174,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-048",
+      "sku": "GO-00229",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 175,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-049",
+      "sku": "GO-00230",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 175,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-049",
+      "sku": "GO-00231",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 176,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-050",
+      "sku": "GO-00232",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 176,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-050",
+      "sku": "GO-00233",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 176,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Protettivo radiatore e refrigerantiâ",
+      "productID": "GOITA-050",
+      "sku": "GO-00234",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00235",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00236",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00237",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00238",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00239",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00240",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00241",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 177,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Greases",
+      "productID": "GOITA-051",
+      "sku": "GO-00242",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 178,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOITA-052",
+      "sku": "GO-00243",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 178,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Greases",
+      "productID": "GOITA-052",
+      "sku": "GO-00244",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 179,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-053",
+      "sku": "GO-00245",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 179,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-053",
+      "sku": "GO-00246",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 179,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-053",
+      "sku": "GO-00247",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 179,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-053",
+      "sku": "GO-00248",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 179,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Greases",
+      "productID": "GOITA-053",
+      "sku": "GO-00249",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 180,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOITA-054",
+      "sku": "GO-00250",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 180,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOITA-054",
+      "sku": "GO-00251",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 180,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Greases",
+      "productID": "GOITA-054",
+      "sku": "GO-00252",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00253",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00254",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00255",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00256",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00257",
+      "availablePacks": "1L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00258",
+      "availablePacks": "4L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00259",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00260",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-00261",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 181,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-055",
+      "sku": "GO-000262",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-000263",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-000264",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-000265",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-000266",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-000267",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-000268",
+      "availablePacks": "60L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-00269",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-00270",
+      "availablePacks": "1000L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 182,
+      "stores": "GOITA",
+      "productName": "Gulf Superfleet Supreme+",
+      "productCategory": "Oli motore",
+      "productID": "GOITA-056",
+      "sku": "GO-00271",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 183,
+      "stores": "GOITA",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-057",
+      "sku": "GO-00272",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 183,
+      "stores": "GOITA",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-057",
+      "sku": "GO-00273",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 183,
+      "stores": "GOITA",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-057",
+      "sku": "GO-00274",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 183,
+      "stores": "GOITA",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-057",
+      "sku": "GO-00275",
+      "availablePacks": "1000L",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 183,
+      "stores": "GOITA",
+      "productName": "Gulf Universal Tractor Transmission Fluid",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-057",
+      "sku": "GO-00276",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "80W"
+    },
+    {
+      "productId": 184,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-058",
+      "sku": "GO-00277",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 184,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-058",
+      "sku": "GO-00278",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 184,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-058",
+      "sku": "GO-00279",
+      "availablePacks": "60L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 184,
+      "stores": "GOITA",
+      "productName": "Gulf Gear LS",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-058",
+      "sku": "GO-00280",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 185,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-059",
+      "sku": "GO-00281",
+      "availablePacks": "1L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 185,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-059",
+      "sku": "GO-00282",
+      "availablePacks": "4L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 185,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-059",
+      "sku": "GO-00283",
+      "availablePacks": "20L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 185,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-059",
+      "sku": "GO-00284",
+      "availablePacks": "208L",
+      "viscosityGrade": "80W-90"
+    },
+    {
+      "productId": 185,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-059",
+      "sku": "GO-00285",
+      "availablePacks": "20L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 185,
+      "stores": "GOITA",
+      "productName": "Gulf Gear MP",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-059",
+      "sku": "GO-00286",
+      "availablePacks": "208L",
+      "viscosityGrade": "85W-140"
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00287",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00288",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00289",
+      "availablePacks": "1000L",
+      "viscosityGrade": "10W"
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00290",
+      "availablePacks": "20L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00291",
+      "availablePacks": "208L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00292",
+      "availablePacks": "1000L",
+      "viscosityGrade": 30
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00293",
+      "availablePacks": "208L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00294",
+      "availablePacks": "1000L",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 186,
+      "stores": "GOITA",
+      "productName": "Gulf HT Fluid TO-4",
+      "productCategory": "Trasmissioni",
+      "productID": "GOITA-060",
+      "sku": "GO-00295",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 50
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00296",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00297",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00298",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00299",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00300",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00301",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00302",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00303",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00304",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00305",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 187,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-061",
+      "sku": "GO-00306",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00307",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00308",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00309",
+      "availablePacks": "IBC 1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00310",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00311",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00312",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00313",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00314",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00315",
+      "availablePacks": "IBC 1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00316",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00317",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 188,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-062",
+      "sku": "GO-00318",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 189,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-063",
+      "sku": "GO-00319",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 189,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-063",
+      "sku": "GO-00320",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 189,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-063",
+      "sku": "GO-00321",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-00322",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-00323",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-30"
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-00324",
+      "availablePacks": "20L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-000325",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-000326",
+      "availablePacks": "IBC 1000L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-000327",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 190,
+      "stores": "GOITA",
+      "productName": "Gulf Super Tractor Oil Universal",
+      "productCategory": "Oli multifunzione",
+      "productID": "GOITA-064",
+      "sku": "GO-000328",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 191,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-065",
+      "sku": "GO-0000329",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 191,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-065",
+      "sku": "GO-000330",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 191,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-065",
+      "sku": "GO-000331",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 191,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-065",
+      "sku": "GO-000332",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 192,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-066",
+      "sku": "GO-000333",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 192,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-066",
+      "sku": "GO-000334",
+      "availablePacks": "5L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 192,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-066",
+      "sku": "GO-000335",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 192,
+      "stores": "GOITA",
+      "productName": "Gulf Antifreeze XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-066",
+      "sku": "GO-000336",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 193,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-067",
+      "sku": "GO-000337",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 193,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant 40",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-067",
+      "sku": "GO-000338",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 194,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-068",
+      "sku": "GO-000339",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 194,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-068",
+      "sku": "GO-000340",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 194,
+      "stores": "GOITA",
+      "productName": "Gulf Coolant XLL",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-068",
+      "sku": "GO-000341",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 195,
+      "stores": "GOITA",
+      "productName": "Gulf Brake Fluid Dot 4",
+      "productCategory": "Prodotti accessoriâ",
+      "productID": "GOITA-069",
+      "sku": "GO-0000342",
+      "availablePacks": "250ml",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 196,
+      "stores": "GOITA",
+      "productName": "Chainsaw Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-070",
+      "sku": "GO-000344",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000345",
+      "availablePacks": "20L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000346",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000347",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000348",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000349",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000350",
+      "availablePacks": "20L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 197,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek HD",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-071",
+      "sku": "GO-000351",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 198,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-072",
+      "sku": "GO-000352",
+      "availablePacks": "20L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 198,
+      "stores": "GOITA",
+      "productName": "Gulf Geartek SY",
+      "productCategory": "Ingranaggi industriali",
+      "productID": "GOITA-072",
+      "sku": "GO-000353",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000354",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000355",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000356",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000357",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000358",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000359",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000360",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000361",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000362",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000363",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 199,
+      "stores": "GOITA",
+      "productName": "Harmony AW",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-073",
+      "sku": "GO-000364",
+      "availablePacks": "1000L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000365",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000366",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000367",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000368",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000369",
+      "availablePacks": "4L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000370",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000371",
+      "availablePacks": "60L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000372",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000373",
+      "availablePacks": "1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000374",
+      "availablePacks": "Bulk",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000375",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 200,
+      "stores": "GOITA",
+      "productName": "Harmony HVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-074",
+      "sku": "GO-000376",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 201,
+      "stores": "GOITA",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-075",
+      "sku": "GO-000377",
+      "availablePacks": "20L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 201,
+      "stores": "GOITA",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-075",
+      "sku": "GO-000378",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 201,
+      "stores": "GOITA",
+      "productName": "Harmony Bio-Synth",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-075",
+      "sku": "GO-000379",
+      "availablePacks": "IBC 1000L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 202,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-076",
+      "sku": "GO-000380",
+      "availablePacks": "20L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 202,
+      "stores": "GOITA",
+      "productName": "Gulf Way",
+      "productCategory": "Guide e slitte",
+      "productID": "GOITA-076",
+      "sku": "GO-000381",
+      "availablePacks": "208L",
+      "viscosityGrade": 68
+    },
+    {
+      "productId": 203,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-077",
+      "sku": "GO-000382",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 203,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-077",
+      "sku": "GO-000383",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 203,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-077",
+      "sku": "GO-000384",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 203,
+      "stores": "GOITA",
+      "productName": "Gulf Crown USG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-077",
+      "sku": "GO-000385",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 204,
+      "stores": "GOITA",
+      "productName": "Gulf Bavex",
+      "productCategory": "Grassi",
+      "productID": "GOITA-078",
+      "sku": "GO-000386",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 204,
+      "stores": "GOITA",
+      "productName": "Gulf Bavex",
+      "productCategory": "Grassi",
+      "productID": "GOITA-078",
+      "sku": "GO-000387",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 205,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-079",
+      "sku": "GO-000388",
+      "availablePacks": "400g",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 205,
+      "stores": "GOITA",
+      "productName": "Gulf Crown MP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-079",
+      "sku": "GO-000389",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2.5
+    },
+    {
+      "productId": 206,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-080",
+      "sku": "GO-000390",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 206,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-080",
+      "sku": "GO-000391",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 206,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-080",
+      "sku": "GO-000392",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 206,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-080",
+      "sku": "GO-000393",
+      "availablePacks": "50kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 206,
+      "stores": "GOITA",
+      "productName": "Gulf Crown LC",
+      "productCategory": "Grassi",
+      "productID": "GOITA-080",
+      "sku": "GO-000394",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 207,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-081",
+      "sku": "GO-000395",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 207,
+      "stores": "GOITA",
+      "productName": "Gulflex EPG",
+      "productCategory": "Grassi",
+      "productID": "GOITA-081",
+      "sku": "GO-000396",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000397",
+      "availablePacks": "18kg",
+      "viscosityGrade": "AE-00"
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000398",
+      "availablePacks": "18kg",
+      "viscosityGrade": 0
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000399",
+      "availablePacks": "18kg",
+      "viscosityGrade": 1
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000400",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000401",
+      "availablePacks": "180kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000402",
+      "availablePacks": "400g",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000403",
+      "availablePacks": "18kg",
+      "viscosityGrade": 2
+    },
+    {
+      "productId": 208,
+      "stores": "GOITA",
+      "productName": "Gulf Crown EP",
+      "productCategory": "Grassi",
+      "productID": "GOITA-082",
+      "sku": "GO-000404",
+      "availablePacks": "18kg",
+      "viscosityGrade": 3
+    },
+    {
+      "productId": 209,
+      "stores": "GOITA",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-083",
+      "sku": "GO-000405",
+      "availablePacks": "4L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 209,
+      "stores": "GOITA",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-083",
+      "sku": "GO-000406",
+      "availablePacks": "20L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 209,
+      "stores": "GOITA",
+      "productName": "Gulf Chainbar Oil",
+      "productCategory": "Oli per motosega",
+      "productID": "GOITA-083",
+      "sku": "GO-000407",
+      "availablePacks": "208L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 210,
+      "stores": "GOITA",
+      "productName": "Gulf Classic",
+      "productCategory": "Gulf Classic",
+      "productID": "GOITA-084",
+      "sku": "GO-000408",
+      "availablePacks": "5L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 210,
+      "stores": "GOITA",
+      "productName": "Gulf Classic",
+      "productCategory": "Gulf Classic",
+      "productID": "GOITA-084",
+      "sku": "GO-000409",
+      "availablePacks": "208L",
+      "viscosityGrade": "20W-50"
+    },
+    {
+      "productId": 211,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-085",
+      "sku": "GO-000410",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 211,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-085",
+      "sku": "GO-000411",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 211,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-085",
+      "sku": "GO-000412",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 212,
+      "stores": "GOITA",
+      "productName": "Gulf Pride",
+      "productCategory": "Marina",
+      "productID": "GOITA-086",
+      "sku": "GO-000413",
+      "availablePacks": "1L",
+      "viscosityGrade": 3000
+    },
+    {
+      "productId": 212,
+      "stores": "GOITA",
+      "productName": "Gulf Pride",
+      "productCategory": "Marina",
+      "productID": "GOITA-086",
+      "sku": "GO-000415",
+      "availablePacks": "1L",
+      "viscosityGrade": 4004
+    },
+    {
+      "productId": 212,
+      "stores": "GOITA",
+      "productName": "Gulf Pride",
+      "productCategory": "Marina",
+      "productID": "GOITA-086",
+      "sku": "GO-000417",
+      "availablePacks": "208L",
+      "viscosityGrade": 4004
+    },
+    {
+      "productId": 213,
+      "stores": "GOITA",
+      "productName": "Gulf Racing",
+      "productCategory": "Gulf Racing",
+      "productID": "GOITA-087",
+      "sku": "GO-000419",
+      "availablePacks": "208L",
+      "viscosityGrade": "10W-60"
+    },
+    {
+      "productId": 214,
+      "stores": "GOITA",
+      "productName": "Gulf Racing Brakefluid Dot 5.1",
+      "productCategory": "Gulf Racing",
+      "productID": "GOITA-088",
+      "sku": "GO-000420",
+      "availablePacks": "1L",
+      "viscosityGrade": "-"
+    },
+    {
+      "productId": 215,
+      "stores": "GOITA",
+      "productName": "Gulf Therm",
+      "productCategory": "Oli diatermici",
+      "productID": "GOITA-089",
+      "sku": "GO-000421",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 215,
+      "stores": "GOITA",
+      "productName": "Gulf Therm",
+      "productCategory": "Oli diatermici",
+      "productID": "GOITA-089",
+      "sku": "GO-000422",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 215,
+      "stores": "GOITA",
+      "productName": "Gulf Therm",
+      "productCategory": "Oli diatermici",
+      "productID": "GOITA-089",
+      "sku": "GO-000423",
+      "availablePacks": "1000L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 216,
+      "stores": "GOITA",
+      "productName": "Gulfco LA",
+      "productCategory": "Olio per motori stazionari",
+      "productID": "GOITA-090",
+      "sku": "GO-000424",
+      "availablePacks": "20L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 216,
+      "stores": "GOITA",
+      "productName": "Gulfco LA",
+      "productCategory": "Olio per motori stazionari",
+      "productID": "GOITA-090",
+      "sku": "GO-000425",
+      "availablePacks": "208L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 217,
+      "stores": "GOITA",
+      "productName": "Gulfmar AC",
+      "productCategory": "Marina",
+      "productID": "GOITA-091",
+      "sku": "GO-000426",
+      "availablePacks": "20L",
+      "viscosityGrade": 306
+    },
+    {
+      "productId": 217,
+      "stores": "GOITA",
+      "productName": "Gulfmar AC",
+      "productCategory": "Marina",
+      "productID": "GOITA-091",
+      "sku": "GO-000427",
+      "availablePacks": "208L",
+      "viscosityGrade": 306
+    },
+    {
+      "productId": 218,
+      "stores": "GOITA",
+      "productName": "Gulfmar AL",
+      "productCategory": "Marina",
+      "productID": "GOITA-092",
+      "sku": "GO-000428",
+      "availablePacks": "208L",
+      "viscosityGrade": 315
+    },
+    {
+      "productId": 219,
+      "stores": "GOITA",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Marina",
+      "productID": "GOITA-093",
+      "sku": "GO-000429",
+      "availablePacks": "208L",
+      "viscosityGrade": 315
+    },
+    {
+      "productId": 219,
+      "stores": "GOITA",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Marina",
+      "productID": "GOITA-093",
+      "sku": "GO-000430",
+      "availablePacks": "208L",
+      "viscosityGrade": 412
+    },
+    {
+      "productId": 219,
+      "stores": "GOITA",
+      "productName": "Gulfmar DPO Plus",
+      "productCategory": "Marina",
+      "productID": "GOITA-093",
+      "sku": "GO-000431",
+      "availablePacks": "208L",
+      "viscosityGrade": 415
+    },
+    {
+      "productId": 220,
+      "stores": "GOITA",
+      "productName": "Gulfmar HP",
+      "productCategory": "Marina",
+      "productID": "GOITA-094",
+      "sku": "GO-000432",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 220,
+      "stores": "GOITA",
+      "productName": "Gulfmar HP",
+      "productCategory": "Marina",
+      "productID": "GOITA-094",
+      "sku": "GO-000433",
+      "availablePacks": "208L",
+      "viscosityGrade": 40
+    },
+    {
+      "productId": 221,
+      "stores": "GOITA",
+      "productName": "Gulfmar MX",
+      "productCategory": "Marina",
+      "productID": "GOITA-095",
+      "sku": "GO-000434",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 221,
+      "stores": "GOITA",
+      "productName": "Gulfmar MX",
+      "productCategory": "Marina",
+      "productID": "GOITA-095",
+      "sku": "GO-000435",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 222,
+      "stores": "GOITA",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Marina",
+      "productID": "GOITA-096",
+      "sku": "GO-000436",
+      "availablePacks": "20L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 222,
+      "stores": "GOITA",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Marina",
+      "productID": "GOITA-096",
+      "sku": "GO-000437",
+      "availablePacks": "208L",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 222,
+      "stores": "GOITA",
+      "productName": "Gulfmar Supreme",
+      "productCategory": "Marina",
+      "productID": "GOITA-096",
+      "sku": "GO-000438",
+      "availablePacks": "Bulk",
+      "viscosityGrade": "15W-40"
+    },
+    {
+      "productId": 223,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-097",
+      "sku": "GO-000439",
+      "availablePacks": "20L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 223,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-097",
+      "sku": "GO-000440",
+      "availablePacks": "208L",
+      "viscosityGrade": 32
+    },
+    {
+      "productId": 223,
+      "stores": "GOITA",
+      "productName": "Gulf Harmony XVI",
+      "productCategory": "Oli idraulici",
+      "productID": "GOITA-097",
+      "sku": "GO-000441",
+      "availablePacks": "208L",
+      "viscosityGrade": 46
+    },
+    {
+      "productId": 224,
+      "stores": "GOITA",
+      "productName": "Gulf Ultrasynth C2/C3",
+      "productCategory": "Gulf Ultrasynth",
+      "productID": "GOSEA-00001",
+      "sku": "GOPSA-00001",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 224,
+      "stores": "GOITA",
+      "productName": "Gulf Ultrasynth C2/C3",
+      "productCategory": "Gulf Ultrasynth",
+      "productID": "GOSEA-00001",
+      "sku": "GOPSA-00002",
+      "availablePacks": "208L",
+      "viscosityGrade": "5W-30"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000031",
+      "availablePacks": "1L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000034",
+      "availablePacks": "60L",
+      "viscosityGrade": "5W-40"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000035",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000032",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000037",
+      "availablePacks": "60L",
+      "viscosityGrade": "10W-40"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000039",
+      "availablePacks": "1L",
+      "viscosityGrade": "10W-50"
+    },
+    {
+      "productId": 225,
+      "stores": "GOITA",
+      "productName": "Gulf Syntrac 4T",
+      "productCategory": "Gulf Syntrac",
+      "productID": "GAP-011",
+      "sku": "GAP-000040",
+      "availablePacks": "4L",
+      "viscosityGrade": "10W-50"
+    },
+    {
+      "productId": 226,
+      "stores": "GOITA",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oli da Circolazione per Applicazioni Industriali",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07120",
+      "availablePacks": "208L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 226,
+      "stores": "GOITA",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oli da Circolazione per Applicazioni Industriali",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07121",
+      "availablePacks": "1000L",
+      "viscosityGrade": 150
+    },
+    {
+      "productId": 226,
+      "stores": "GOITA",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oli da Circolazione per Applicazioni Industriali",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07123",
+      "availablePacks": "208L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 226,
+      "stores": "GOITA",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oli da Circolazione per Applicazioni Industriali",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07124",
+      "availablePacks": "1000L",
+      "viscosityGrade": 220
+    },
+    {
+      "productId": 226,
+      "stores": "GOITA",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oli da Circolazione per Applicazioni Industriali",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07125",
+      "availablePacks": "208L",
+      "viscosityGrade": 320
+    },
+    {
+      "productId": 226,
+      "stores": "GOITA",
+      "productName": "Gulf Security PMA",
+      "productCategory": "Oli da Circolazione per Applicazioni Industriali",
+      "productID": "GOSCO-07100",
+      "sku": "GOSCO-07126",
+      "availablePacks": "1000L",
+      "viscosityGrade": 320
+    }
+  ]
+}
