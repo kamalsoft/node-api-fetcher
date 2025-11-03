@@ -2,13 +2,19 @@
 require('dotenv').config(); // Load environment variables from .env file
 const express = require('express')
 const cors = require('cors')
+const morgan = require('morgan');
 const { ApiError } = require('./utils/errors')
 const apiRoutes = require('./routes')
+const logger = require('./services/loggerService');
 
 // 2. Initialize the Express app
 const app = express()
 app.use(cors()) // Enable All CORS Requests
 const PORT = 3000 // Define the port our server will run on
+
+// Add request logging middleware (morgan)
+// This will log all HTTP requests to the winston logger
+app.use(morgan('combined', { stream: logger.stream }));
 
 // 3. API Endpoints
 // All API routes are now handled by the router
@@ -17,7 +23,14 @@ app.use('/api', apiRoutes)
 // 4. Centralized Error-Handling Middleware
 // This middleware catches any errors passed by next(error).
 app.use((err, req, res, next) => {
-  console.error(err.stack) // Log the full error stack for debugging
+  // Log the error using our new structured logger
+  logger.error({
+    message: err.message,
+    stack: err.stack,
+    url: req.originalUrl,
+    method: req.method,
+    ip: req.ip,
+  });
 
   // Handle custom ApiErrors
   if (err instanceof ApiError) {
@@ -31,33 +44,17 @@ app.use((err, req, res, next) => {
 
 // 5. Start the server and listen for incoming requests
 app.listen(PORT, () => {
-  console.log(`\n🚀 Server is running on http://localhost:${PORT}`);
-  console.log('\nAvailable Endpoints:');
-  console.log('--------------------------------------------------------------------------');
+  logger.info(`🚀 Server is running on http://localhost:${PORT}`);
+  // The endpoint list is now logged via morgan/winston, so we can simplify this.
+});
 
-  // Health Check
-  console.log(`[GET]    /api/health\n         - Health check for the API.`);
+// 6. Global Unhandled Error Logging
+process.on('unhandledRejection', (reason, promise) => {
+  logger.error({ message: 'Unhandled Rejection at:', reason: reason, promise });
+  // Optionally, exit the process. It's often safer to restart.
+});
 
-  // Generic Endpoints
-  console.log(`\n[GET]    /api/countries\n         - Get a list of all countries.`);
-  console.log(`\n[GET]    /api/region/:region\n         - Example: /api/region/europe\n         - Get country data for a specific region.`);
-
-  // Vehicle Endpoints
-  console.log(`\n[GET]    /api/vehicles/:region\n         - Example: /api/vehicles/europe`);
-  console.log(`         - Query Params: type, brand, fuel_type, include_oils=true`);
-  console.log(`         - Example: /api/vehicles/europe?type=Car&brand=BMW&include_oils=true`);
-
-  console.log(`\n[GET]    /api/vehicles/:region/country/:country`);
-  console.log(`         - Example: /api/vehicles/europe/country/italy`);
-  console.log(`         - Get vehicle data for a specific country.`);
-
-  // Oil Endpoints
-  console.log(`\n[GET]    /api/oils/:region`);
-  console.log(`         - Example: /api/oils/europe`);
-  console.log(`         - Get all oil products for a region.`);
-
-  // Cache Management (Protected)
-  console.log(`\n[POST]   /api/cache/clear`);
-  console.log(`         - (Protected) Clears the cache. Requires "x-api-key" header.`);
-  console.log('--------------------------------------------------------------------------');
-})
+process.on('uncaughtException', (error) => {
+  logger.error({ message: 'Uncaught Exception thrown:', error });
+  process.exit(1); // It's critical to exit on an uncaught exception
+});

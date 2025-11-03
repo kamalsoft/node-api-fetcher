@@ -1,8 +1,19 @@
 {
-  "region": "Asia",
-  "sub-region": "",
+  "continent": "Asia",
   "data_year": 2024,
+  "code": "AS",
   "fuel_types": ["Gas", "Diesel", "Hybrid", "Electric"],
+  "car_brands": [
+    "Toyota",
+    "Honda",
+    "Hyundai",
+    "BYD",
+    "Suzuki",
+    "Isuzu",
+    "Mitsubishi",
+    "Yutong",
+    "King Long"
+  ],
   "vehicle_brands": {
     "Car": [
       {
@@ -11,16 +22,22 @@
           {
             "name": "Corolla",
             "fuel_types": ["Gas", "Hybrid"],
-            "engine": "1.8L I4",
-            "premium": "false",
-            "preffered_engine_oil": "0W-16"
+            "engine": {
+              "type": "1.8L I4",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "false"
           },
           {
             "name": "Camry",
             "fuel_types": ["Gas", "Hybrid"],
-            "engine": "2.5L I4",
-            "premium": "false",
-            "preffered_engine_oil": "0W-16"
+            "engine": {
+              "type": "2.5L I4",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-16"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -30,9 +47,12 @@
           {
             "name": "Civic",
             "fuel_types": ["Gas"],
-            "engine": "1.5L I4 Turbo",
-            "premium": "false",
-            "preffered_engine_oil": "0W-20"
+            "engine": {
+              "type": "1.5L I4 Turbo",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -42,9 +62,12 @@
           {
             "name": "Elantra",
             "fuel_types": ["Gas"],
-            "engine": "1.6L I4",
-            "premium": "false",
-            "preffered_engine_oil": "5W-30"
+            "engine": {
+              "type": "1.6L I4",
+              "fuel": "Gas",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -54,9 +77,12 @@
           {
             "name": "Seal",
             "fuel_types": ["Electric"],
-            "engine": "N/A",
-            "premium": "false",
-            "preffered_engine_oil": "N/A"
+            "engine": {
+              "type": "Electric Motor",
+              "fuel": "Electric",
+              "preffered_engine_oil": "N/A"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -66,9 +92,12 @@
           {
             "name": "Swift",
             "fuel_types": ["Gas", "Hybrid"],
-            "engine": "1.2L I4",
-            "premium": "false",
-            "preffered_engine_oil": "0W-20"
+            "engine": {
+              "type": "1.2L I4",
+              "fuel": "Gas",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": "false"
           }
         ]
       }
@@ -80,9 +109,12 @@
           {
             "name": "Hilux",
             "fuel_types": ["Diesel"],
-            "engine": "2.8L I4 Diesel",
-            "premium": "false",
-            "preffered_engine_oil": "5W-30"
+            "engine": {
+              "type": "2.8L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -92,9 +124,12 @@
           {
             "name": "D-Max",
             "fuel_types": ["Diesel"],
-            "engine": "3.0L I4 Diesel",
-            "premium": "false",
-            "preffered_engine_oil": "10W-30"
+            "engine": {
+              "type": "3.0L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "10W-30"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -104,9 +139,12 @@
           {
             "name": "Triton",
             "fuel_types": ["Diesel"],
-            "engine": "2.4L I4 Diesel",
-            "premium": "false",
-            "preffered_engine_oil": "5W-30"
+            "engine": {
+              "type": "2.4L I4 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": "false"
           }
         ]
       }
@@ -118,9 +156,12 @@
           {
             "name": "ZK6122H",
             "fuel_types": ["Diesel", "Electric"],
-            "engine": "10.8L I6 Diesel",
-            "premium": "false",
-            "preffered_engine_oil": "15W-40"
+            "engine": {
+              "type": "10.8L I6 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "15W-40"
+            },
+            "premium": "false"
           }
         ]
       },
@@ -130,9 +171,12 @@
           {
             "name": "XMQ6129Y",
             "fuel_types": ["Diesel"],
-            "engine": "9.7L I6 Diesel",
-            "premium": "false",
-            "preffered_engine_oil": "15W-40"
+            "engine": {
+              "type": "9.7L I6 Diesel",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "15W-40"
+            },
+            "premium": "false"
           }
         ]
       }

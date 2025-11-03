@@ -1,0 +1,480 @@
+{
+	"info": {
+		"_postman_id": "5e9f5982-09f6-4edc-be78-e4d6722fc564",
+		"name": "Gulf-Oil-API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49729827",
+		"_collection_link": "https://wonderkam-7370061.postman.co/workspace/Wonder's-Workspace~040ee5d2-a02e-434c-89b4-dc5304689977/collection/49729827-5e9f5982-09f6-4edc-be78-e4d6722fc564?action=share&source=collection_link&creator=49729827"
+	},
+	"item": [
+		{
+			"name": "Health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/api/health",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Countries",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Visualization Script",
+							"// Visualization Script",
+							"const template = `",
+							"<div style=\"max-width:700px;margin:auto;\">",
+							"  <h3>Average Summer Temperatures by Country</h3>",
+							"  <canvas id=\"summerChart\" height=\"75\"></canvas>",
+							"  <p style=\"font-size:12px;color:#666;\">Showing average summer temperature (°C) for each country in the response.</p>",
+							"</div>",
+							"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js\"></script>",
+							"<script>",
+							"  pm.getData(function (err, value) {",
+							"    var ctx = document.getElementById(\"summerChart\");",
+							"    var chartData = value.countries;",
+							"    var countryNames = chartData.map(c => c.name);",
+							"    var summerLows = chartData.map(c => c.summerLow);",
+							"    var summerHighs = chartData.map(c => c.summerHigh);",
+							"    var myChart = new Chart(ctx, {",
+							"      type: \"bar\",",
+							"      data: {",
+							"        labels: countryNames,",
+							"        datasets: [",
+							"          { label: 'Summer Low (°C)', data: summerLows, backgroundColor: 'rgba(54, 162, 235, 0.6)' },",
+							"          { label: 'Summer High (°C)', data: summerHighs, backgroundColor: 'rgba(255, 99, 132, 0.6)' }",
+							"        ]",
+							"      },",
+							"      options: {",
+							"        legend: { display: true },",
+							"        title: { display: false },",
+							"        scales: {",
+							"          xAxes: [{",
+							"            display: true,",
+							"            scaleLabel: { display: true, labelString: 'Country' }",
+							"          }],",
+							"          yAxes: [{",
+							"            display: true,",
+							"            scaleLabel: { display: true, labelString: 'Temperature (°C)' }",
+							"          }]",
+							"        }",
+							"      }",
+							"    });",
+							"  });",
+							"</script>`;",
+							"",
+							"function createPayload() {",
+							"  // Helper to extract numeric low/high from centigrade string like \"15-25°C\"",
+							"  function parseRange(str) {",
+							"    if (!str) return [null, null];",
+							"    var match = str.match(/(-?\\d+)[^\\d]+(-?\\d+)/);",
+							"    if (match) return [parseInt(match[1], 10), parseInt(match[2], 10)];",
+							"    return [null, null];",
+							"  }",
+							"  var data = pm.response.json();",
+							"  var countries = data.map(c => {",
+							"    var [low, high] = parseRange(c.seasons && c.seasons.summer && c.seasons.summer.centigrade);",
+							"    return {",
+							"      name: c.name,",
+							"      summerLow: low,",
+							"      summerHigh: high",
+							"    };",
+							"  });",
+							"  return { countries };",
+							"}",
+							"pm.visualizer.set(template, createPayload());",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/countries",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"countries"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "region-europe",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/region/Europe",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"region",
+						"Europe"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vechile-region",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "{{baseURL}}/api/vehicles/europe?brand=Volkswagen&include_oils=true",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"vehicles",
+						"europe"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "Car",
+							"disabled": true
+						},
+						{
+							"key": "brand",
+							"value": "Volkswagen"
+						},
+						{
+							"key": "include_oils",
+							"value": "true"
+						},
+						{
+							"key": "brand",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vehicle-Eurpoe",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/vehicles/europe?fuel_type=Gas&include_oils=true",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"vehicles",
+						"europe"
+					],
+					"query": [
+						{
+							"key": "fuel_type",
+							"value": "Gas"
+						},
+						{
+							"key": "include_oils",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "region-Eurpoe-Country-Italy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/vehicles/europe/country/italy?fuel_type=Gas&include_oils=true&brand=BMW&name=X5",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"vehicles",
+						"europe",
+						"country",
+						"italy"
+					],
+					"query": [
+						{
+							"key": "fuel_type",
+							"value": "Gas"
+						},
+						{
+							"key": "include_oils",
+							"value": "true"
+						},
+						{
+							"key": "brand",
+							"value": "BMW"
+						},
+						{
+							"key": "name",
+							"value": "X5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "region-Eurpoe-Country-poland",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/vehicles/europe/country/poland?include_oils=true",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"vehicles",
+						"europe",
+						"country",
+						"poland"
+					],
+					"query": [
+						{
+							"key": "fuel_type",
+							"value": "Gas",
+							"disabled": true
+						},
+						{
+							"key": "include_oils",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "region-Eurpoe-Country-Italy-brands",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/vehicles/Europe/country/poland/brands",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"vehicles",
+						"Europe",
+						"country",
+						"poland",
+						"brands"
+					],
+					"query": [
+						{
+							"key": "fuel_type",
+							"value": "Gas",
+							"disabled": true
+						},
+						{
+							"key": "include_oils",
+							"value": "true",
+							"disabled": true
+						},
+						{
+							"key": "brand",
+							"value": "Mitsubishi",
+							"disabled": true
+						},
+						{
+							"key": "trim",
+							"value": "Eclipse Cross",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "region-brands",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/api/vehicles/europe/brands",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"vehicles",
+						"europe",
+						"brands"
+					],
+					"query": [
+						{
+							"key": "fuel_type",
+							"value": "Gas",
+							"disabled": true
+						},
+						{
+							"key": "include_oils",
+							"value": "true",
+							"disabled": true
+						},
+						{
+							"key": "brand",
+							"value": "Mitsubishi",
+							"disabled": true
+						},
+						{
+							"key": "trim",
+							"value": "Eclipse Cross",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "clear cache",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "f3b2c7e49a6d4c1e8d2a3f7c9b1a5e6f",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "region",
+							"value": "europe",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "region",
+							"value": "italy",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "region",
+							"value": "poland",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "{{baseURL}}/api/cache/clear",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"api",
+						"cache",
+						"clear"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "baseURL",
+			"value": "https://vehicleoils.vercel.app",
+			"type": "default"
+		}
+	]
+}
