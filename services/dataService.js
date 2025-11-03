@@ -19,7 +19,7 @@ const readJsonFile = async (fileName) => {
 // Helper function to filter vehicle data based on query parameters
 const filterVehicleData = (vehicleBrands, query) => {
   let results = { ...vehicleBrands }
-  const { type, brand, fuel_type } = query
+  const { type, brand, trim, fuel_type } = query
 
   if (type) {
     const formattedType =
@@ -35,6 +35,23 @@ const filterVehicleData = (vehicleBrands, query) => {
       results[vehicleType] = results[vehicleType].filter(
         (b) => b.brand.toLowerCase() === brand.toLowerCase()
       )
+    }
+  }
+
+  if (trim) {
+    const lowerCaseTrim = trim.toLowerCase();
+    for (const vehicleType in results) {
+      // Map over each brand to filter its trims
+      results[vehicleType] = results[vehicleType]
+        .map((brandData) => {
+          const filteredTrims = brandData.trims.filter((trim) =>
+            trim.name.toLowerCase() === lowerCaseTrim
+            //((ft) ==> ft.toLowerCase() === lowerCaseTrim)
+          );
+          // Return a new brand object with only the matching trims
+          return { ...brandData, trims: filteredTrims };
+        })
+        .filter((brandData) => brandData.trims.length > 0); // Remove brands that have no trims left after filtering
     }
   }
 
@@ -102,10 +119,14 @@ const groupRecommendedOils = (matchingProducts) => {
 
 // Helper function to enrich vehicle data with oil recommendations
 const enrichWithOils = async (vehicleBrands, region, country) => {
-  console.log('Enriching with oils for region:', region);
+  // console.log('Enriching with oils for region:', region);
 
   const allOilProducts = await getRegionwiseOilData(region, country) || [];
   const oilProductsByViscosity = groupOilsByViscosity(allOilProducts);
+
+  // console.log('Oil products by viscosity:', oilProductsByViscosity);
+
+  //  console.log("vehicleBrands:", JSON.stringify(vehicleBrands));
 
   // Deep clone to avoid mutating the original vehicle data.
   const enrichedData = JSON.parse(JSON.stringify(vehicleBrands));
@@ -116,7 +137,9 @@ const enrichWithOils = async (vehicleBrands, region, country) => {
         // The engine property is now a consistent object.
         if (trim.engine && trim.engine.preffered_engine_oil) {
           const viscosity = trim.engine.preffered_engine_oil;
+          //  console.log('Viscosity:', viscosity)
           const matchingProducts = oilProductsByViscosity.get(viscosity) || [];
+          //  console.log('Matching products:', JSON.stringify(matchingProducts));
 
           // Add recommended oils to the engine object.
           if (matchingProducts.length > 0) {
