@@ -4,488 +4,1479 @@
   "code": "EU",
   "fuel_types": ["Gas", "Hybrid"],
   "car_brands": [
-    "Volkswagen",
-    "Renault",
     "BMW",
-    "Mercedes-Benz",
+    "Mercedes",
     "Audi",
+    "Porsche",
+    "Volkswagen",
+    "Fiat",
+    "Alfa Romeo",
+    "Lancia",
+    "Ferrari",
+    "Lamborghini",
+    "Maserati",
+    "Renault",
     "Peugeot",
+    "Citroen",
+    "Seat",
+    "Skoda",
+    "Volvo",
+    "Jaguar",
+    "Land Rover",
+    "Mini",
+    "Opel",
+    "DS Automobiles",
+    "Tesla",
     "Ford",
+    "Chevrolet",
+    "Nissan",
     "Toyota",
+    "Honda",
+    "Mazda",
+    "Hyundai",
+    "Kia",
+    "Suzuki",
     "Subaru",
-    "MAN",
-    "Volvo"
+    "Dacia",
+    "Smart",
+    "Bentley",
+    "Rolls-Royce",
+    "Aston Martin",
+    "McLaren",
+    "Cadillac",
+    "Chrysler",
+    "Jeep",
+    "Dodge",
+    "Ram",
+    "GMC",
+    "Lexus",
+    "Infiniti",
+    "Mitsubishi",
+    "Mitsuoka"
   ],
   "vehicle_brands": {
     "Car": [
       {
-        "brand": "Volkswagen",
-        "trims": [
-          {
-            "name": "Golf",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "1.0 TSI",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-30"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Golf",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "1.5 TSI",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-30"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Golf",
-            "fuel_types": ["Diesel"],
-            "engine": {
-              "type": "2.0 TDI",
-              "fuel": "Diesel",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Golf GTI",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "2.0 TSI GTI",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "true"
-          },
-          {
-            "name": "Golf GTE",
-            "fuel_types": ["Hybrid"],
-            "engine": {
-              "type": "GTE Plug-in Hybrid",
-              "fuel": "Hybrid",
-              "preffered_engine_oil": "0W-30"
-            },
-            "premium": "true"
-          },
-          {
-            "name": "Polo",
-            "fuel_types": ["Gas", "Diesel"],
-            "engine": {
-              "type": "1.0L I3",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Passat",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "T-Roc",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Tiguan",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Arteon",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          }
-        ]
-      },
-      {
-        "brand": "Renault",
-        "trims": [
-          {
-            "name": "Clio",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.0L I3",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Captur",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.3L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "false"
-          }
-        ]
-      },
-      {
         "brand": "BMW",
-        "trims": [
+        "models": [
+          {
+            "name": "1 Series",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
           {
             "name": "3 Series",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
             },
-            "premium": "true"
+            "premium": true
           },
           {
             "name": "5 Series",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
             },
-            "premium": "true"
+            "premium": true
+          },
+          {
+            "name": "X1",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
+          {
+            "name": "X3",
+            "trim": {
+              "engine": "2.5L Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
+          {
+            "name": "X5",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
           }
-        ]
+        ],
+        "lastScraped": "2025-11-04"
       },
       {
-        "brand": "Mercedes-Benz",
-        "trims": [
-          {
-            "name": "C-Class",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "true"
-          },
+        "brand": "Mercedes",
+        "models": [
           {
             "name": "A-Class",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.3L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-40"
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
             },
-            "premium": "true"
-          }
-        ]
-      },
-      {
-        "brand": "Audi",
-        "trims": [
-          {
-            "name": "A3",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.5L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "true"
+            "premium": true
           },
           {
-            "name": "A4",
-            "fuel_types": ["Gas", "Diesel"],
-            "engine": {
-              "type": "2.0L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "true"
-          }
-        ]
-      },
-      {
-        "brand": "Peugeot",
-        "trims": [
-          {
-            "name": "208",
-            "fuel_types": ["Gas", "Diesel"],
-            "engine": {
-              "type": "1.2L I3",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "308",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.2L I3",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          }
-        ]
-      },
-      {
-        "brand": "Ford",
-        "trims": [
-          {
-            "name": "Focus",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.0L I3 EcoBoost",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Kuga",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          }
-        ]
-      },
-      {
-        "brand": "Toyota",
-        "trims": [
-          {
-            "name": "Yaris",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.5L I3",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-16"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Corolla",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.8L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-16"
-            },
-            "premium": "false"
-          }
-        ]
-      },
-      {
-        "brand": "Subaru",
-        "trims": [
-          {
-            "name": "Impreza",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "1.6L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Forester",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "2.0L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Outback",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "2.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Legacy",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "2.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Impreza WRX",
-            "fuel_types": ["Gas"],
-            "engine": {
-              "type": "2.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Crosstrek",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
-            },
-            "premium": "false"
-          }
-        ]
-      }
-    ],
-    "Truck": [
-      {
-        "brand": "Ford",
-        "trims": [
-          {
-            "name": "Transit",
-            "fuel_types": ["Electric"],
-            "engine": {
-              "type": "2.0L I4 Diesel",
-              "fuel": "Electric",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "false"
-          },
-          {
-            "name": "Ranger",
-            "fuel_types": ["Diesel"],
-            "engine": {
-              "type": "2.0L I4 Diesel",
+            "name": "C-Class",
+            "trim": {
+              "engine": "1.5L I4",
               "fuel": "Diesel",
-              "preffered_engine_oil": "5W-30"
+              "preffered_engine_oil": "0W-40"
             },
-            "premium": "false"
-          }
-        ]
-      },
-      {
-        "brand": "Volkswagen",
-        "trims": [
-          {
-            "name": "Transporter",
-            "fuel_types": ["Diesel"],
-            "engine": {
-              "type": "2.0L I4 Diesel",
-              "fuel": "Diesel",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "false"
+            "premium": true
           },
           {
-            "name": "Tiguan",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "1.5L I4",
-              "fuel": "Gas",
-              "preffered_engine_oil": "0W-20"
+            "name": "E-Class",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
             },
-            "premium": "false"
-          }
-        ]
-      },
-      {
-        "brand": "Mercedes-Benz",
-        "trims": [
+            "premium": true
+          },
           {
-            "name": "Sprinter",
-            "fuel_types": ["Electric"],
-            "engine": {
-              "type": "2.0L I4 Diesel",
-              "fuel": "Electric",
-              "preffered_engine_oil": "5W-30"
+            "name": "GLA",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
             },
-            "premium": "false"
+            "premium": true
           },
           {
             "name": "GLC",
-            "fuel_types": ["Gas", "Hybrid"],
-            "engine": {
-              "type": "2.0L I4 Turbo",
-              "fuel": "Gas",
-              "preffered_engine_oil": "5W-30"
-            },
-            "premium": "true"
-          }
-        ]
-      }
-    ],
-    "Bus": [
-      {
-        "brand": "Mercedes-Benz",
-        "trims": [
-          {
-            "name": "Citaro",
-            "fuel_types": ["Hybrid", "Electric"],
-            "engine": {
-              "type": "7.7L I6 Diesel",
+            "trim": {
+              "engine": "2.5L Hybrid",
               "fuel": "Hybrid",
-              "preffered_engine_oil": "10W-40"
+              "preffered_engine_oil": "0W-40"
             },
-            "premium": "true"
+            "premium": true
+          },
+          {
+            "name": "GLE",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
           }
-        ]
+        ],
+        "lastScraped": "2025-11-04"
       },
       {
-        "brand": "MAN",
-        "trims": [
+        "brand": "Audi",
+        "models": [
           {
-            "name": "Lion's City",
-            "fuel_types": ["Hybrid", "Electric"],
-            "engine": {
-              "type": "9.0L I6 Diesel",
-              "fuel": "Hybrid",
-              "preffered_engine_oil": "10W-40"
+            "name": "A3",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
             },
-            "premium": "true"
+            "premium": true
+          },
+          {
+            "name": "A4",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
+          {
+            "name": "A6",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
+          {
+            "name": "Q3",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
+          {
+            "name": "Q5",
+            "trim": {
+              "engine": "2.5L Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
+          },
+          {
+            "name": "Q7",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": true
           }
-        ]
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Porsche",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Volkswagen",
+        "models": [
+          {
+            "name": "Polo",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Golf",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Passat",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "T-Roc",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Tiguan",
+            "trim": {
+              "engine": "2.5L Hybrid",
+              "fuel": "Hybrid",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Fiat",
+        "models": [
+          {
+            "name": "500",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          },
+          {
+            "name": "Panda",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          },
+          {
+            "name": "Tipo",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "models": [
+          {
+            "name": "Giulia",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          },
+          {
+            "name": "Tonale",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          },
+          {
+            "name": "Stelvio",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Lancia",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Ferrari",
+        "models": [
+          {
+            "name": "Roma",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "296 GTB",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Lamborghini",
+        "models": [
+          {
+            "name": "Urus",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Hurac\u00e1n",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Maserati",
+        "models": [
+          {
+            "name": "Ghibli",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Levante",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Grecale",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Renault",
+        "models": [
+          {
+            "name": "Clio",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Captur",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Megane",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Austral",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Peugeot",
+        "models": [
+          {
+            "name": "208",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "308",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "3008",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "5008",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Citroen",
+        "models": [
+          {
+            "name": "C3",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "C4",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "C5 Aircross",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Seat",
+        "models": [
+          {
+            "name": "Ibiza",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Leon",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Ateca",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Arona",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Skoda",
+        "models": [
+          {
+            "name": "Fabia",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Octavia",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Superb",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Kodiaq",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
       },
       {
         "brand": "Volvo",
-        "trims": [
+        "models": [
           {
-            "name": "9700",
-            "fuel_types": ["Hybrid"],
-            "engine": {
-              "type": "12.8L I6 Diesel",
-              "fuel": "Hybrid",
-              "preffered_engine_oil": "10W-30"
+            "name": "XC40",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
             },
-            "premium": "true"
+            "premium": false
+          },
+          {
+            "name": "XC60",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "XC90",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
           }
-        ]
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Jaguar",
+        "models": [
+          {
+            "name": "XE",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "XF",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "F-Pace",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Land Rover",
+        "models": [
+          {
+            "name": "Discovery Sport",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Range Rover Evoque",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Range Rover Sport",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Mini",
+        "models": [
+          {
+            "name": "Cooper",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Countryman",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Opel",
+        "models": [
+          {
+            "name": "Corsa",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Astra",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Grandland",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "DS Automobiles",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Ford",
+        "models": [
+          {
+            "name": "Fiesta",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Focus",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Kuga",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Puma",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Chevrolet",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Nissan",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Toyota",
+        "models": [
+          {
+            "name": "Yaris",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "Corolla",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "C-HR",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "RAV4",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Honda",
+        "models": [
+          {
+            "name": "Civic",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "HR-V",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "CR-V",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Mazda",
+        "models": [
+          {
+            "name": "Mazda3",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "Mazda6",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "CX-30",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "CX-5",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Hyundai",
+        "models": [
+          {
+            "name": "i10",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "i20",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "i30",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Tucson",
+            "trim": {
+              "engine": "3.0L V6",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Kia",
+        "models": [
+          {
+            "name": "Ceed",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Sportage",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Niro",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Suzuki",
+        "models": [
+          {
+            "name": "Swift",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "Vitara",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          },
+          {
+            "name": "S-Cross",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Subaru",
+        "models": [
+          {
+            "name": "Forester",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Outback",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Dacia",
+        "models": [
+          {
+            "name": "Sandero",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Duster",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Jogger",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Smart",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Bentley",
+        "models": [
+          {
+            "name": "Continental GT",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Bentayga",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Rolls-Royce",
+        "models": [
+          {
+            "name": "Ghost",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Cullinan",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Aston Martin",
+        "models": [
+          {
+            "name": "DBX",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Vantage",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "McLaren",
+        "models": [
+          {
+            "name": "720S",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          },
+          {
+            "name": "Artura",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-40"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Cadillac",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Chrysler",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Jeep",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Dodge",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Ram",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "GMC",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "5W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Lexus",
+        "models": [
+          {
+            "name": "UX",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": true
+          },
+          {
+            "name": "NX",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": true
+          },
+          {
+            "name": "RX",
+            "trim": {
+              "engine": "2.0L Turbo I4",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": true
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Infiniti",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-20"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Mitsubishi",
+        "models": [
+          {
+            "name": "ASX",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          },
+          {
+            "name": "Outlander",
+            "trim": {
+              "engine": "1.5L I4",
+              "fuel": "Diesel",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
+      },
+      {
+        "brand": "Mitsuoka",
+        "models": [
+          {
+            "name": "Standard Model",
+            "trim": {
+              "engine": "1.0L I3",
+              "fuel": "Petrol",
+              "preffered_engine_oil": "0W-30"
+            },
+            "premium": false
+          }
+        ],
+        "lastScraped": "2025-11-04"
       }
     ]
   }

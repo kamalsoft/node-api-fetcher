@@ -19,20 +19,20 @@ const readJsonFile = async (fileName) => {
 // Helper function to filter vehicle data based on query parameters
 const filterVehicleData = (vehicleBrands, query) => {
   let results = { ...vehicleBrands }
-  const { type, brand, trim, fuel_type } = query
+  const { engine, brand, trim, fuel_engine } = query
 
-  if (type) {
-    const formattedType =
-      type.charAt(0).toUpperCase() + type.slice(1).toLowerCase()
-    // Return only the specified type, or an empty object if not found
-    results = results[formattedType]
-      ? { [formattedType]: results[formattedType] }
+  if (engine) {
+    const formattedengine =
+      engine.charAt(0).toUpperCase() + engine.slice(1).toLowerCase()
+    // Return only the specified engine, or an empty object if not found
+    results = results[formattedengine]
+      ? { [formattedengine]: results[formattedengine] }
       : {}
   }
 
   if (brand) {
-    for (const vehicleType in results) {
-      results[vehicleType] = results[vehicleType].filter(
+    for (const vehicleengine in results) {
+      results[vehicleengine] = results[vehicleengine].filter(
         (b) => b.brand.toLowerCase() === brand.toLowerCase()
       )
     }
@@ -40,34 +40,34 @@ const filterVehicleData = (vehicleBrands, query) => {
 
   if (trim) {
     const lowerCaseTrim = trim.toLowerCase();
-    for (const vehicleType in results) {
-      // Map over each brand to filter its trims
-      results[vehicleType] = results[vehicleType]
+    for (const vehicleengine in results) {
+      // Map over each brand to filter its models
+      results[vehicleengine] = results[vehicleengine]
         .map((brandData) => {
-          const filteredTrims = brandData.trims.filter((trim) =>
+          const filteredmodels = brandData.models.filter((trim) =>
             trim.name.toLowerCase() === lowerCaseTrim
             //((ft) ==> ft.toLowerCase() === lowerCaseTrim)
           );
-          // Return a new brand object with only the matching trims
-          return { ...brandData, trims: filteredTrims };
+          // Return a new brand object with only the matching models
+          return { ...brandData, models: filteredmodels };
         })
-        .filter((brandData) => brandData.trims.length > 0); // Remove brands that have no trims left after filtering
+        .filter((brandData) => brandData.models.length > 0); // Remove brands that have no models left after filtering
     }
   }
 
-  if (fuel_type) {
-    const lowerCaseFuelType = fuel_type.toLowerCase();
-    for (const vehicleType in results) {
-      // Map over each brand to filter its trims
-      results[vehicleType] = results[vehicleType]
+  if (fuel_engine) {
+    const lowerCaseFuelengine = fuel_engine.toLowerCase();
+    for (const vehicleengine in results) {
+      // Map over each brand to filter its models
+      results[vehicleengine] = results[vehicleengine]
         .map((brandData) => {
-          const filteredTrims = brandData.trims.filter((trim) =>
-            trim.fuel_types.some((ft) => ft.toLowerCase() === lowerCaseFuelType)
+          const filteredmodels = brandData.models.filter((trim) =>
+            trim.fuel_engines.some((ft) => ft.toLowerCase() === lowerCaseFuelengine)
           );
-          // Return a new brand object with only the matching trims
-          return { ...brandData, trims: filteredTrims };
+          // Return a new brand object with only the matching models
+          return { ...brandData, models: filteredmodels };
         })
-        .filter((brandData) => brandData.trims.length > 0); // Remove brands that have no trims left after filtering
+        .filter((brandData) => brandData.models.length > 0); // Remove brands that have no models left after filtering
     }
   }
   return results
@@ -131,19 +131,19 @@ const enrichWithOils = async (vehicleBrands, region, country) => {
   // Deep clone to avoid mutating the original vehicle data.
   const enrichedData = JSON.parse(JSON.stringify(vehicleBrands));
 
-  for (const type in enrichedData) {
-    enrichedData[type].forEach((brand) => {
-      brand.trims.forEach((trim) => {
-        // The engine property is now a consistent object.
-        if (trim.engine && trim.engine.preffered_engine_oil) {
-          const viscosity = trim.engine.preffered_engine_oil;
+  for (const engine in enrichedData) {
+    enrichedData[engine].forEach((brand) => {
+      brand.models.forEach((trim) => {
+        // The trim property is now a consistent object.
+        if (trim.trim && trim.trim.preffered_engine_oil) {
+          const viscosity = trim.trim.preffered_engine_oil;
           //  console.log('Viscosity:', viscosity)
           const matchingProducts = oilProductsByViscosity.get(viscosity) || [];
           //  console.log('Matching products:', JSON.stringify(matchingProducts));
 
-          // Add recommended oils to the engine object.
+          // Add recommended oils to the trim object.
           if (matchingProducts.length > 0) {
-            trim.engine.recommended_oils = groupRecommendedOils(matchingProducts);
+            trim.trim.recommended_oils = groupRecommendedOils(matchingProducts);
           }
         }
       });
